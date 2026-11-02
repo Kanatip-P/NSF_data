@@ -1,0 +1,6 @@
+﻿measure,common_people,spearman_rho_between_networks,top10_overlap
+degree,30239,0.9895850472779381,10
+betweenness,30239,0.9956639635738008,10
+eigenvector,15433,0.9850680536008989,10
+award_participation,30239,1.0,10
+funding,30239,1.0,10

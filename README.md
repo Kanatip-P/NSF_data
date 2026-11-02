@@ -81,4 +81,4 @@ not presented as if they themselves computed those centralities.
 See [Data provenance](docs/DATA_PROVENANCE.md) for source and licensing context,
 [data dictionary](docs/DATA_DICTIONARY.md) for fields, and
 [GitHub upload instructions](docs/UPLOAD_TO_GITHUB.md) for publishing the folder.
-No GitHub repository has been created or pushed by this package.
+Repository: [Kanatip-P/NSF_data](https://github.com/Kanatip-P/NSF_data).

@@ -1,0 +1,70 @@
+{
+  "database": "nsf-project-workon-enriched",
+  "checked_utc": "2026-10-29T18:59:58.914161+00:00",
+  "queries": {
+    "awards_per_project": "MATCH (p:Project)-[:HAS_AWARD]->(a:Award)\nWITH p,count(DISTINCT a) AS awards\nRETURN awards,count(*) AS projects ORDER BY awards",
+    "person_role_groups": "MATCH (p:Person)\nOPTIONAL MATCH (p)-[w:WORK_ON]->(:Project)\nWITH p,collect(DISTINCT w.role) AS roles\nRETURN CASE WHEN 'PI' IN roles AND 'Co-PI' IN roles THEN 'Both PI and Co-PI'\nWHEN 'PI' IN roles THEN 'PI only' WHEN 'Co-PI' IN roles THEN 'Co-PI only'\nELSE 'Former roles only' END AS role_group,count(*) AS people ORDER BY role_group",
+    "project_role_positions": "MATCH (:Person)-[w:WORK_ON]->(:Project)\nRETURN w.role AS role,count(*) AS positions ORDER BY role"
+  },
+  "results": {
+    "awards_per_project": [
+      {
+        "awards": 1,
+        "projects": 12042
+      },
+      {
+        "awards": 2,
+        "projects": 4167
+      },
+      {
+        "awards": 3,
+        "projects": 935
+      },
+      {
+        "awards": 4,
+        "projects": 228
+      },
+      {
+        "awards": 5,
+        "projects": 131
+      }
+    ],
+    "person_role_groups": [
+      {
+        "role_group": "Both PI and Co-PI",
+        "people": 4366
+      },
+      {
+        "role_group": "Co-PI only",
+        "people": 13424
+      },
+      {
+        "role_group": "Former roles only",
+        "people": 1072
+      },
+      {
+        "role_group": "PI only",
+        "people": 11377
+      }
+    ],
+    "project_role_positions": [
+      {
+        "role": "Co-PI",
+        "positions": 22239
+      },
+      {
+        "role": "Former Co-Principal Investigator",
+        "positions": 1165
+      },
+      {
+        "role": "Former Principal Investigator",
+        "positions": 497
+      },
+      {
+        "role": "PI",
+        "positions": 24608
+      }
+    ]
+  },
+  "passed": true
+}

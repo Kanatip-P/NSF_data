@@ -1,0 +1,20 @@
+{
+  "source": "prepared recipient and award links plus archived Carnegie workbook",
+  "verified_recipient_identities": 612,
+  "classified_awards": 18267,
+  "class_awards": {
+    "1": 16137,
+    "-2": 474,
+    "3": 568,
+    "2": 1088
+  },
+  "outside_subset_awards": 6481,
+  "workbook_exceptions": [
+    {
+      "verified_unitid": "228778",
+      "name": "University of Texas at Austin",
+      "workbook_unitid": "F"
+    }
+  ],
+  "archived_crosswalk_matches": true
+}

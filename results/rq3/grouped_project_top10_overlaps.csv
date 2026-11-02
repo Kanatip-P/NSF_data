@@ -1,0 +1,11 @@
+﻿ranking_1,ranking_2,shared_top10_people
+degree,betweenness,1
+degree,eigenvector,6
+degree,award_participation,0
+degree,funding,1
+betweenness,eigenvector,0
+betweenness,award_participation,3
+betweenness,funding,0
+eigenvector,award_participation,0
+eigenvector,funding,0
+award_participation,funding,0

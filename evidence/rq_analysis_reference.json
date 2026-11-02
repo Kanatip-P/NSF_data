@@ -1,0 +1,3660 @@
+{
+  "rq1": {
+    "team_categories": {
+      "one PI one Co-PI": 7640,
+      "one PI no Co-PI": 472,
+      "one PI multiple Co-PIs": 4059,
+      "multiple PIs no Co-PI": 3265,
+      "multiple PIs and Co-PIs": 2067
+    },
+    "median_positive_project_amount": {
+      "one PI one Co-PI": 299818.0,
+      "one PI no Co-PI": 461928.0,
+      "one PI multiple Co-PIs": 464102.0,
+      "multiple PIs no Co-PI": 508887.0,
+      "multiple PIs and Co-PIs": 701379.0
+    },
+    "positive_amount_n": {
+      "one PI one Co-PI": 7628,
+      "one PI no Co-PI": 472,
+      "one PI multiple Co-PIs": 4057,
+      "multiple PIs no Co-PI": 3265,
+      "multiple PIs and Co-PIs": 2067
+    },
+    "median_positive_duration_years": {
+      "one PI one Co-PI": 4.0,
+      "one PI no Co-PI": 5.0,
+      "one PI multiple Co-PIs": 5.0,
+      "multiple PIs no Co-PI": 5.0,
+      "multiple PIs and Co-PIs": 5.0
+    },
+    "pi_copi_pair_instances": 28038,
+    "pair_instances_both_broad_tags": 21653,
+    "pair_instances_any_shared_broad_tag": 20736,
+    "leading_ordered_broad_tag_cells": [
+      {
+        "PI": "Medicine (all)",
+        "CoPI": "Medicine (all)",
+        "instances": 13155
+      },
+      {
+        "PI": "Engineering (all)",
+        "CoPI": "Medicine (all)",
+        "instances": 9705
+      },
+      {
+        "PI": "Engineering (all)",
+        "CoPI": "Engineering (all)",
+        "instances": 9558
+      },
+      {
+        "PI": "Biochemistry, Genetics and Molecular Biology (all)",
+        "CoPI": "Medicine (all)",
+        "instances": 9078
+      },
+      {
+        "PI": "Medicine (all)",
+        "CoPI": "Engineering (all)",
+        "instances": 9036
+      },
+      {
+        "PI": "Physics and Astronomy (all)",
+        "CoPI": "Medicine (all)",
+        "instances": 8222
+      },
+      {
+        "PI": "Chemistry (all)",
+        "CoPI": "Medicine (all)",
+        "instances": 8017
+      },
+      {
+        "PI": "Medicine (all)",
+        "CoPI": "Physics and Astronomy (all)",
+        "instances": 7703
+      }
+    ],
+    "repeated_pi_copi_pairs_at_least_two": 1687,
+    "team_subject_combinations": {
+      "all_projects": 17503,
+      "projects_with_two_broad_tagged_active_members": 14329,
+      "projects_with_different_subject_combination": 14217,
+      "ranking": [
+        {
+          "rank": 1,
+          "subject_1": "Engineering (all)",
+          "subject_2": "Medicine (all)",
+          "subject_combination": "Engineering (all) + Medicine (all)",
+          "projects": 9351,
+          "percent_all_projects": 53.4
+        },
+        {
+          "rank": 2,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Medicine (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Medicine (all)",
+          "projects": 8611,
+          "percent_all_projects": 49.2
+        },
+        {
+          "rank": 3,
+          "subject_1": "Medicine (all)",
+          "subject_2": "Physics and Astronomy (all)",
+          "subject_combination": "Medicine (all) + Physics and Astronomy (all)",
+          "projects": 8249,
+          "percent_all_projects": 47.1
+        },
+        {
+          "rank": 4,
+          "subject_1": "Chemistry (all)",
+          "subject_2": "Medicine (all)",
+          "subject_combination": "Chemistry (all) + Medicine (all)",
+          "projects": 7720,
+          "percent_all_projects": 44.1
+        },
+        {
+          "rank": 5,
+          "subject_1": "Engineering (all)",
+          "subject_2": "Physics and Astronomy (all)",
+          "subject_combination": "Engineering (all) + Physics and Astronomy (all)",
+          "projects": 7042,
+          "percent_all_projects": 40.2
+        },
+        {
+          "rank": 6,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Engineering (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Engineering (all)",
+          "projects": 6984,
+          "percent_all_projects": 39.9
+        },
+        {
+          "rank": 7,
+          "subject_1": "Environmental Science (all)",
+          "subject_2": "Medicine (all)",
+          "subject_combination": "Environmental Science (all) + Medicine (all)",
+          "projects": 6641,
+          "percent_all_projects": 37.9
+        },
+        {
+          "rank": 8,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Medicine (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Medicine (all)",
+          "projects": 6458,
+          "percent_all_projects": 36.9
+        },
+        {
+          "rank": 9,
+          "subject_1": "Chemistry (all)",
+          "subject_2": "Engineering (all)",
+          "subject_combination": "Chemistry (all) + Engineering (all)",
+          "projects": 6455,
+          "percent_all_projects": 36.9
+        },
+        {
+          "rank": 10,
+          "subject_1": "Computer Science (all)",
+          "subject_2": "Medicine (all)",
+          "subject_combination": "Computer Science (all) + Medicine (all)",
+          "projects": 6269,
+          "percent_all_projects": 35.8
+        },
+        {
+          "rank": 11,
+          "subject_1": "Computer Science (all)",
+          "subject_2": "Engineering (all)",
+          "subject_combination": "Computer Science (all) + Engineering (all)",
+          "projects": 6233,
+          "percent_all_projects": 35.6
+        },
+        {
+          "rank": 12,
+          "subject_1": "Materials Science (all)",
+          "subject_2": "Medicine (all)",
+          "subject_combination": "Materials Science (all) + Medicine (all)",
+          "projects": 6136,
+          "percent_all_projects": 35.1
+        },
+        {
+          "rank": 13,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Physics and Astronomy (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Physics and Astronomy (all)",
+          "projects": 6090,
+          "percent_all_projects": 34.8
+        },
+        {
+          "rank": 14,
+          "subject_1": "Chemistry (all)",
+          "subject_2": "Physics and Astronomy (all)",
+          "subject_combination": "Chemistry (all) + Physics and Astronomy (all)",
+          "projects": 5945,
+          "percent_all_projects": 34.0
+        },
+        {
+          "rank": 15,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Chemistry (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Chemistry (all)",
+          "projects": 5878,
+          "percent_all_projects": 33.6
+        },
+        {
+          "rank": 16,
+          "subject_1": "Engineering (all)",
+          "subject_2": "Materials Science (all)",
+          "subject_combination": "Engineering (all) + Materials Science (all)",
+          "projects": 5873,
+          "percent_all_projects": 33.6
+        },
+        {
+          "rank": 17,
+          "subject_1": "Earth and Planetary Sciences (all)",
+          "subject_2": "Medicine (all)",
+          "subject_combination": "Earth and Planetary Sciences (all) + Medicine (all)",
+          "projects": 5378,
+          "percent_all_projects": 30.7
+        },
+        {
+          "rank": 18,
+          "subject_1": "Engineering (all)",
+          "subject_2": "Environmental Science (all)",
+          "subject_combination": "Engineering (all) + Environmental Science (all)",
+          "projects": 5069,
+          "percent_all_projects": 29.0
+        },
+        {
+          "rank": 19,
+          "subject_1": "Materials Science (all)",
+          "subject_2": "Physics and Astronomy (all)",
+          "subject_combination": "Materials Science (all) + Physics and Astronomy (all)",
+          "projects": 4965,
+          "percent_all_projects": 28.4
+        },
+        {
+          "rank": 20,
+          "subject_1": "Chemical Engineering (all)",
+          "subject_2": "Medicine (all)",
+          "subject_combination": "Chemical Engineering (all) + Medicine (all)",
+          "projects": 4923,
+          "percent_all_projects": 28.1
+        },
+        {
+          "rank": 21,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Environmental Science (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Environmental Science (all)",
+          "projects": 4861,
+          "percent_all_projects": 27.8
+        },
+        {
+          "rank": 22,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Biochemistry, Genetics and Molecular Biology (all)",
+          "projects": 4855,
+          "percent_all_projects": 27.7
+        },
+        {
+          "rank": 23,
+          "subject_1": "Chemistry (all)",
+          "subject_2": "Environmental Science (all)",
+          "subject_combination": "Chemistry (all) + Environmental Science (all)",
+          "projects": 4768,
+          "percent_all_projects": 27.2
+        },
+        {
+          "rank": 24,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Computer Science (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Computer Science (all)",
+          "projects": 4760,
+          "percent_all_projects": 27.2
+        },
+        {
+          "rank": 25,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Engineering (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Engineering (all)",
+          "projects": 4740,
+          "percent_all_projects": 27.1
+        },
+        {
+          "rank": 26,
+          "subject_1": "Environmental Science (all)",
+          "subject_2": "Physics and Astronomy (all)",
+          "subject_combination": "Environmental Science (all) + Physics and Astronomy (all)",
+          "projects": 4729,
+          "percent_all_projects": 27.0
+        },
+        {
+          "rank": 27,
+          "subject_1": "Chemistry (all)",
+          "subject_2": "Materials Science (all)",
+          "subject_combination": "Chemistry (all) + Materials Science (all)",
+          "projects": 4697,
+          "percent_all_projects": 26.8
+        },
+        {
+          "rank": 28,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Materials Science (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Materials Science (all)",
+          "projects": 4562,
+          "percent_all_projects": 26.1
+        },
+        {
+          "rank": 29,
+          "subject_1": "Computer Science (all)",
+          "subject_2": "Physics and Astronomy (all)",
+          "subject_combination": "Computer Science (all) + Physics and Astronomy (all)",
+          "projects": 4535,
+          "percent_all_projects": 25.9
+        },
+        {
+          "rank": 30,
+          "subject_1": "Chemical Engineering (all)",
+          "subject_2": "Engineering (all)",
+          "subject_combination": "Chemical Engineering (all) + Engineering (all)",
+          "projects": 4496,
+          "percent_all_projects": 25.7
+        },
+        {
+          "rank": 31,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Chemistry (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Chemistry (all)",
+          "projects": 4486,
+          "percent_all_projects": 25.6
+        },
+        {
+          "rank": 32,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Physics and Astronomy (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Physics and Astronomy (all)",
+          "projects": 4464,
+          "percent_all_projects": 25.5
+        },
+        {
+          "rank": 33,
+          "subject_1": "Engineering (all)",
+          "subject_2": "Mathematics (all)",
+          "subject_combination": "Engineering (all) + Mathematics (all)",
+          "projects": 4282,
+          "percent_all_projects": 24.5
+        },
+        {
+          "rank": 34,
+          "subject_1": "Mathematics (all)",
+          "subject_2": "Medicine (all)",
+          "subject_combination": "Mathematics (all) + Medicine (all)",
+          "projects": 4264,
+          "percent_all_projects": 24.4
+        },
+        {
+          "rank": 35,
+          "subject_1": "Medicine (all)",
+          "subject_2": "Neuroscience (all)",
+          "subject_combination": "Medicine (all) + Neuroscience (all)",
+          "projects": 4210,
+          "percent_all_projects": 24.1
+        },
+        {
+          "rank": 36,
+          "subject_1": "Medicine (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Medicine (all) + Social Sciences (all)",
+          "projects": 4140,
+          "percent_all_projects": 23.7
+        },
+        {
+          "rank": 37,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Environmental Science (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Environmental Science (all)",
+          "projects": 4109,
+          "percent_all_projects": 23.5
+        },
+        {
+          "rank": 38,
+          "subject_1": "Earth and Planetary Sciences (all)",
+          "subject_2": "Engineering (all)",
+          "subject_combination": "Earth and Planetary Sciences (all) + Engineering (all)",
+          "projects": 4105,
+          "percent_all_projects": 23.5
+        },
+        {
+          "rank": 39,
+          "subject_1": "Chemical Engineering (all)",
+          "subject_2": "Physics and Astronomy (all)",
+          "subject_combination": "Chemical Engineering (all) + Physics and Astronomy (all)",
+          "projects": 4053,
+          "percent_all_projects": 23.2
+        },
+        {
+          "rank": 40,
+          "subject_1": "Computer Science (all)",
+          "subject_2": "Materials Science (all)",
+          "subject_combination": "Computer Science (all) + Materials Science (all)",
+          "projects": 4024,
+          "percent_all_projects": 23.0
+        },
+        {
+          "rank": 41,
+          "subject_1": "Earth and Planetary Sciences (all)",
+          "subject_2": "Environmental Science (all)",
+          "subject_combination": "Earth and Planetary Sciences (all) + Environmental Science (all)",
+          "projects": 4003,
+          "percent_all_projects": 22.9
+        },
+        {
+          "rank": 42,
+          "subject_1": "Chemical Engineering (all)",
+          "subject_2": "Chemistry (all)",
+          "subject_combination": "Chemical Engineering (all) + Chemistry (all)",
+          "projects": 3990,
+          "percent_all_projects": 22.8
+        },
+        {
+          "rank": 43,
+          "subject_1": "Earth and Planetary Sciences (all)",
+          "subject_2": "Physics and Astronomy (all)",
+          "subject_combination": "Earth and Planetary Sciences (all) + Physics and Astronomy (all)",
+          "projects": 3951,
+          "percent_all_projects": 22.6
+        },
+        {
+          "rank": 44,
+          "subject_1": "Chemistry (all)",
+          "subject_2": "Computer Science (all)",
+          "subject_combination": "Chemistry (all) + Computer Science (all)",
+          "projects": 3889,
+          "percent_all_projects": 22.2
+        },
+        {
+          "rank": 45,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Earth and Planetary Sciences (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Earth and Planetary Sciences (all)",
+          "projects": 3876,
+          "percent_all_projects": 22.1
+        },
+        {
+          "rank": 46,
+          "subject_1": "Immunology and Microbiology (all)",
+          "subject_2": "Medicine (all)",
+          "subject_combination": "Immunology and Microbiology (all) + Medicine (all)",
+          "projects": 3835,
+          "percent_all_projects": 21.9
+        },
+        {
+          "rank": 47,
+          "subject_1": "Chemical Engineering (all)",
+          "subject_2": "Materials Science (all)",
+          "subject_combination": "Chemical Engineering (all) + Materials Science (all)",
+          "projects": 3767,
+          "percent_all_projects": 21.5
+        },
+        {
+          "rank": 48,
+          "subject_1": "Energy (all)",
+          "subject_2": "Medicine (all)",
+          "subject_combination": "Energy (all) + Medicine (all)",
+          "projects": 3704,
+          "percent_all_projects": 21.2
+        },
+        {
+          "rank": 49,
+          "subject_1": "Chemistry (all)",
+          "subject_2": "Earth and Planetary Sciences (all)",
+          "subject_combination": "Chemistry (all) + Earth and Planetary Sciences (all)",
+          "projects": 3701,
+          "percent_all_projects": 21.1
+        },
+        {
+          "rank": 50,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Chemical Engineering (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Chemical Engineering (all)",
+          "projects": 3675,
+          "percent_all_projects": 21.0
+        },
+        {
+          "rank": 51,
+          "subject_1": "Energy (all)",
+          "subject_2": "Engineering (all)",
+          "subject_combination": "Energy (all) + Engineering (all)",
+          "projects": 3548,
+          "percent_all_projects": 20.3
+        },
+        {
+          "rank": 52,
+          "subject_1": "Computer Science (all)",
+          "subject_2": "Mathematics (all)",
+          "subject_combination": "Computer Science (all) + Mathematics (all)",
+          "projects": 3540,
+          "percent_all_projects": 20.2
+        },
+        {
+          "rank": 53,
+          "subject_1": "Engineering (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Engineering (all) + Social Sciences (all)",
+          "projects": 3515,
+          "percent_all_projects": 20.1
+        },
+        {
+          "rank": 54,
+          "subject_1": "Mathematics (all)",
+          "subject_2": "Physics and Astronomy (all)",
+          "subject_combination": "Mathematics (all) + Physics and Astronomy (all)",
+          "projects": 3291,
+          "percent_all_projects": 18.8
+        },
+        {
+          "rank": 55,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Earth and Planetary Sciences (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Earth and Planetary Sciences (all)",
+          "projects": 3264,
+          "percent_all_projects": 18.6
+        },
+        {
+          "rank": 56,
+          "subject_1": "Environmental Science (all)",
+          "subject_2": "Materials Science (all)",
+          "subject_combination": "Environmental Science (all) + Materials Science (all)",
+          "projects": 3194,
+          "percent_all_projects": 18.2
+        },
+        {
+          "rank": 57,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Neuroscience (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Neuroscience (all)",
+          "projects": 3184,
+          "percent_all_projects": 18.2
+        },
+        {
+          "rank": 58,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Mathematics (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Mathematics (all)",
+          "projects": 3129,
+          "percent_all_projects": 17.9
+        },
+        {
+          "rank": 59,
+          "subject_1": "Engineering (all)",
+          "subject_2": "Neuroscience (all)",
+          "subject_combination": "Engineering (all) + Neuroscience (all)",
+          "projects": 3080,
+          "percent_all_projects": 17.6
+        },
+        {
+          "rank": 60,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Computer Science (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Computer Science (all)",
+          "projects": 3041,
+          "percent_all_projects": 17.4
+        },
+        {
+          "rank": 61,
+          "subject_1": "Chemistry (all)",
+          "subject_2": "Energy (all)",
+          "subject_combination": "Chemistry (all) + Energy (all)",
+          "projects": 3036,
+          "percent_all_projects": 17.3
+        },
+        {
+          "rank": 62,
+          "subject_1": "Energy (all)",
+          "subject_2": "Physics and Astronomy (all)",
+          "subject_combination": "Energy (all) + Physics and Astronomy (all)",
+          "projects": 2978,
+          "percent_all_projects": 17.0
+        },
+        {
+          "rank": 63,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Materials Science (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Materials Science (all)",
+          "projects": 2977,
+          "percent_all_projects": 17.0
+        },
+        {
+          "rank": 64,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Immunology and Microbiology (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Immunology and Microbiology (all)",
+          "projects": 2951,
+          "percent_all_projects": 16.9
+        },
+        {
+          "rank": 65,
+          "subject_1": "Energy (all)",
+          "subject_2": "Materials Science (all)",
+          "subject_combination": "Energy (all) + Materials Science (all)",
+          "projects": 2905,
+          "percent_all_projects": 16.6
+        },
+        {
+          "rank": 66,
+          "subject_1": "Neuroscience (all)",
+          "subject_2": "Physics and Astronomy (all)",
+          "subject_combination": "Neuroscience (all) + Physics and Astronomy (all)",
+          "projects": 2885,
+          "percent_all_projects": 16.5
+        },
+        {
+          "rank": 67,
+          "subject_1": "Computer Science (all)",
+          "subject_2": "Environmental Science (all)",
+          "subject_combination": "Computer Science (all) + Environmental Science (all)",
+          "projects": 2881,
+          "percent_all_projects": 16.5
+        },
+        {
+          "rank": 68,
+          "subject_1": "Chemistry (all)",
+          "subject_2": "Neuroscience (all)",
+          "subject_combination": "Chemistry (all) + Neuroscience (all)",
+          "projects": 2880,
+          "percent_all_projects": 16.5
+        },
+        {
+          "rank": 69,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Social Sciences (all)",
+          "projects": 2787,
+          "percent_all_projects": 15.9
+        },
+        {
+          "rank": 70,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Neuroscience (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Neuroscience (all)",
+          "projects": 2758,
+          "percent_all_projects": 15.8
+        },
+        {
+          "rank": 71,
+          "subject_1": "Chemistry (all)",
+          "subject_2": "Immunology and Microbiology (all)",
+          "subject_combination": "Chemistry (all) + Immunology and Microbiology (all)",
+          "projects": 2746,
+          "percent_all_projects": 15.7
+        },
+        {
+          "rank": 72,
+          "subject_1": "Computer Science (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Computer Science (all) + Social Sciences (all)",
+          "projects": 2746,
+          "percent_all_projects": 15.7
+        },
+        {
+          "rank": 73,
+          "subject_1": "Chemical Engineering (all)",
+          "subject_2": "Computer Science (all)",
+          "subject_combination": "Chemical Engineering (all) + Computer Science (all)",
+          "projects": 2745,
+          "percent_all_projects": 15.7
+        },
+        {
+          "rank": 74,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Immunology and Microbiology (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Immunology and Microbiology (all)",
+          "projects": 2718,
+          "percent_all_projects": 15.5
+        },
+        {
+          "rank": 75,
+          "subject_1": "Immunology and Microbiology (all)",
+          "subject_2": "Physics and Astronomy (all)",
+          "subject_combination": "Immunology and Microbiology (all) + Physics and Astronomy (all)",
+          "projects": 2694,
+          "percent_all_projects": 15.4
+        },
+        {
+          "rank": 76,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Energy (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Energy (all)",
+          "projects": 2686,
+          "percent_all_projects": 15.3
+        },
+        {
+          "rank": 77,
+          "subject_1": "Chemical Engineering (all)",
+          "subject_2": "Environmental Science (all)",
+          "subject_combination": "Chemical Engineering (all) + Environmental Science (all)",
+          "projects": 2660,
+          "percent_all_projects": 15.2
+        },
+        {
+          "rank": 78,
+          "subject_1": "Engineering (all)",
+          "subject_2": "Immunology and Microbiology (all)",
+          "subject_combination": "Engineering (all) + Immunology and Microbiology (all)",
+          "projects": 2616,
+          "percent_all_projects": 14.9
+        },
+        {
+          "rank": 79,
+          "subject_1": "Chemistry (all)",
+          "subject_2": "Mathematics (all)",
+          "subject_combination": "Chemistry (all) + Mathematics (all)",
+          "projects": 2598,
+          "percent_all_projects": 14.8
+        },
+        {
+          "rank": 80,
+          "subject_1": "Materials Science (all)",
+          "subject_2": "Mathematics (all)",
+          "subject_combination": "Materials Science (all) + Mathematics (all)",
+          "projects": 2518,
+          "percent_all_projects": 14.4
+        },
+        {
+          "rank": 81,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Chemical Engineering (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Chemical Engineering (all)",
+          "projects": 2504,
+          "percent_all_projects": 14.3
+        },
+        {
+          "rank": 82,
+          "subject_1": "Chemical Engineering (all)",
+          "subject_2": "Energy (all)",
+          "subject_combination": "Chemical Engineering (all) + Energy (all)",
+          "projects": 2437,
+          "percent_all_projects": 13.9
+        },
+        {
+          "rank": 83,
+          "subject_1": "Genetics and Molecular Biology (all)",
+          "subject_2": "Medicine (all)",
+          "subject_combination": "Genetics and Molecular Biology (all) + Medicine (all)",
+          "projects": 2397,
+          "percent_all_projects": 13.7
+        },
+        {
+          "rank": 84,
+          "subject_1": "Earth and Planetary Sciences (all)",
+          "subject_2": "Materials Science (all)",
+          "subject_combination": "Earth and Planetary Sciences (all) + Materials Science (all)",
+          "projects": 2325,
+          "percent_all_projects": 13.3
+        },
+        {
+          "rank": 85,
+          "subject_1": "Computer Science (all)",
+          "subject_2": "Earth and Planetary Sciences (all)",
+          "subject_combination": "Computer Science (all) + Earth and Planetary Sciences (all)",
+          "projects": 2305,
+          "percent_all_projects": 13.2
+        },
+        {
+          "rank": 86,
+          "subject_1": "Physics and Astronomy (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Physics and Astronomy (all) + Social Sciences (all)",
+          "projects": 2283,
+          "percent_all_projects": 13.0
+        },
+        {
+          "rank": 87,
+          "subject_1": "Environmental Science (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Environmental Science (all) + Social Sciences (all)",
+          "projects": 2268,
+          "percent_all_projects": 13.0
+        },
+        {
+          "rank": 88,
+          "subject_1": "Environmental Science (all)",
+          "subject_2": "Immunology and Microbiology (all)",
+          "subject_combination": "Environmental Science (all) + Immunology and Microbiology (all)",
+          "projects": 2245,
+          "percent_all_projects": 12.8
+        },
+        {
+          "rank": 89,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Social Sciences (all)",
+          "projects": 2242,
+          "percent_all_projects": 12.8
+        },
+        {
+          "rank": 90,
+          "subject_1": "Environmental Science (all)",
+          "subject_2": "Neuroscience (all)",
+          "subject_combination": "Environmental Science (all) + Neuroscience (all)",
+          "projects": 2228,
+          "percent_all_projects": 12.7
+        },
+        {
+          "rank": 91,
+          "subject_1": "Computer Science (all)",
+          "subject_2": "Energy (all)",
+          "subject_combination": "Computer Science (all) + Energy (all)",
+          "projects": 2214,
+          "percent_all_projects": 12.6
+        },
+        {
+          "rank": 92,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Mathematics (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Mathematics (all)",
+          "projects": 2123,
+          "percent_all_projects": 12.1
+        },
+        {
+          "rank": 93,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Genetics and Molecular Biology (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Genetics and Molecular Biology (all)",
+          "projects": 2112,
+          "percent_all_projects": 12.1
+        },
+        {
+          "rank": 94,
+          "subject_1": "Computer Science (all)",
+          "subject_2": "Neuroscience (all)",
+          "subject_combination": "Computer Science (all) + Neuroscience (all)",
+          "projects": 2105,
+          "percent_all_projects": 12.0
+        },
+        {
+          "rank": 95,
+          "subject_1": "Chemistry (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Chemistry (all) + Social Sciences (all)",
+          "projects": 2104,
+          "percent_all_projects": 12.0
+        },
+        {
+          "rank": 96,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Medicine (all)",
+          "subject_combination": "Arts and Humanities (all) + Medicine (all)",
+          "projects": 2084,
+          "percent_all_projects": 11.9
+        },
+        {
+          "rank": 97,
+          "subject_1": "Materials Science (all)",
+          "subject_2": "Neuroscience (all)",
+          "subject_combination": "Materials Science (all) + Neuroscience (all)",
+          "projects": 2066,
+          "percent_all_projects": 11.8
+        },
+        {
+          "rank": 98,
+          "subject_1": "Energy (all)",
+          "subject_2": "Environmental Science (all)",
+          "subject_combination": "Energy (all) + Environmental Science (all)",
+          "projects": 2053,
+          "percent_all_projects": 11.7
+        },
+        {
+          "rank": 99,
+          "subject_1": "Environmental Science (all)",
+          "subject_2": "Mathematics (all)",
+          "subject_combination": "Environmental Science (all) + Mathematics (all)",
+          "projects": 2050,
+          "percent_all_projects": 11.7
+        },
+        {
+          "rank": 100,
+          "subject_1": "Business, Management and Accounting (all)",
+          "subject_2": "Medicine (all)",
+          "subject_combination": "Business, Management and Accounting (all) + Medicine (all)",
+          "projects": 2018,
+          "percent_all_projects": 11.5
+        },
+        {
+          "rank": 101,
+          "subject_1": "Business, Management and Accounting (all)",
+          "subject_2": "Engineering (all)",
+          "subject_combination": "Business, Management and Accounting (all) + Engineering (all)",
+          "projects": 1981,
+          "percent_all_projects": 11.3
+        },
+        {
+          "rank": 102,
+          "subject_1": "Medicine (all)",
+          "subject_2": "Psychology (all)",
+          "subject_combination": "Medicine (all) + Psychology (all)",
+          "projects": 1980,
+          "percent_all_projects": 11.3
+        },
+        {
+          "rank": 103,
+          "subject_1": "Earth and Planetary Sciences (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Earth and Planetary Sciences (all) + Social Sciences (all)",
+          "projects": 1952,
+          "percent_all_projects": 11.2
+        },
+        {
+          "rank": 104,
+          "subject_1": "Genetics and Molecular Biology (all)",
+          "subject_2": "Physics and Astronomy (all)",
+          "subject_combination": "Genetics and Molecular Biology (all) + Physics and Astronomy (all)",
+          "projects": 1803,
+          "percent_all_projects": 10.3
+        },
+        {
+          "rank": 105,
+          "subject_1": "Chemical Engineering (all)",
+          "subject_2": "Earth and Planetary Sciences (all)",
+          "subject_combination": "Chemical Engineering (all) + Earth and Planetary Sciences (all)",
+          "projects": 1787,
+          "percent_all_projects": 10.2
+        },
+        {
+          "rank": 106,
+          "subject_1": "Mathematics (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Mathematics (all) + Social Sciences (all)",
+          "projects": 1781,
+          "percent_all_projects": 10.2
+        },
+        {
+          "rank": 107,
+          "subject_1": "Chemistry (all)",
+          "subject_2": "Genetics and Molecular Biology (all)",
+          "subject_combination": "Chemistry (all) + Genetics and Molecular Biology (all)",
+          "projects": 1758,
+          "percent_all_projects": 10.0
+        },
+        {
+          "rank": 108,
+          "subject_1": "Earth and Planetary Sciences (all)",
+          "subject_2": "Mathematics (all)",
+          "subject_combination": "Earth and Planetary Sciences (all) + Mathematics (all)",
+          "projects": 1743,
+          "percent_all_projects": 10.0
+        },
+        {
+          "rank": 109,
+          "subject_1": "Immunology and Microbiology (all)",
+          "subject_2": "Materials Science (all)",
+          "subject_combination": "Immunology and Microbiology (all) + Materials Science (all)",
+          "projects": 1742,
+          "percent_all_projects": 10.0
+        },
+        {
+          "rank": 110,
+          "subject_1": "Materials Science (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Materials Science (all) + Social Sciences (all)",
+          "projects": 1735,
+          "percent_all_projects": 9.9
+        },
+        {
+          "rank": 111,
+          "subject_1": "Immunology and Microbiology (all)",
+          "subject_2": "Neuroscience (all)",
+          "subject_combination": "Immunology and Microbiology (all) + Neuroscience (all)",
+          "projects": 1733,
+          "percent_all_projects": 9.9
+        },
+        {
+          "rank": 112,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Energy (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Energy (all)",
+          "projects": 1728,
+          "percent_all_projects": 9.9
+        },
+        {
+          "rank": 113,
+          "subject_1": "Chemical Engineering (all)",
+          "subject_2": "Neuroscience (all)",
+          "subject_combination": "Chemical Engineering (all) + Neuroscience (all)",
+          "projects": 1720,
+          "percent_all_projects": 9.8
+        },
+        {
+          "rank": 114,
+          "subject_1": "Business, Management and Accounting (all)",
+          "subject_2": "Computer Science (all)",
+          "subject_combination": "Business, Management and Accounting (all) + Computer Science (all)",
+          "projects": 1710,
+          "percent_all_projects": 9.8
+        },
+        {
+          "rank": 115,
+          "subject_1": "Engineering (all)",
+          "subject_2": "Genetics and Molecular Biology (all)",
+          "subject_combination": "Engineering (all) + Genetics and Molecular Biology (all)",
+          "projects": 1697,
+          "percent_all_projects": 9.7
+        },
+        {
+          "rank": 116,
+          "subject_1": "Chemical Engineering (all)",
+          "subject_2": "Mathematics (all)",
+          "subject_combination": "Chemical Engineering (all) + Mathematics (all)",
+          "projects": 1677,
+          "percent_all_projects": 9.6
+        },
+        {
+          "rank": 117,
+          "subject_1": "Earth and Planetary Sciences (all)",
+          "subject_2": "Immunology and Microbiology (all)",
+          "subject_combination": "Earth and Planetary Sciences (all) + Immunology and Microbiology (all)",
+          "projects": 1632,
+          "percent_all_projects": 9.3
+        },
+        {
+          "rank": 118,
+          "subject_1": "Engineering (all)",
+          "subject_2": "Psychology (all)",
+          "subject_combination": "Engineering (all) + Psychology (all)",
+          "projects": 1631,
+          "percent_all_projects": 9.3
+        },
+        {
+          "rank": 119,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Genetics and Molecular Biology (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Genetics and Molecular Biology (all)",
+          "projects": 1596,
+          "percent_all_projects": 9.1
+        },
+        {
+          "rank": 120,
+          "subject_1": "Economics, Econometrics and Finance (all)",
+          "subject_2": "Medicine (all)",
+          "subject_combination": "Economics, Econometrics and Finance (all) + Medicine (all)",
+          "projects": 1589,
+          "percent_all_projects": 9.1
+        },
+        {
+          "rank": 121,
+          "subject_1": "Computer Science (all)",
+          "subject_2": "Immunology and Microbiology (all)",
+          "subject_combination": "Computer Science (all) + Immunology and Microbiology (all)",
+          "projects": 1571,
+          "percent_all_projects": 9.0
+        },
+        {
+          "rank": 122,
+          "subject_1": "Earth and Planetary Sciences (all)",
+          "subject_2": "Neuroscience (all)",
+          "subject_combination": "Earth and Planetary Sciences (all) + Neuroscience (all)",
+          "projects": 1564,
+          "percent_all_projects": 8.9
+        },
+        {
+          "rank": 123,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Engineering (all)",
+          "subject_combination": "Arts and Humanities (all) + Engineering (all)",
+          "projects": 1547,
+          "percent_all_projects": 8.8
+        },
+        {
+          "rank": 124,
+          "subject_1": "Chemical Engineering (all)",
+          "subject_2": "Immunology and Microbiology (all)",
+          "subject_combination": "Chemical Engineering (all) + Immunology and Microbiology (all)",
+          "projects": 1546,
+          "percent_all_projects": 8.8
+        },
+        {
+          "rank": 125,
+          "subject_1": "Economics, Econometrics and Finance (all)",
+          "subject_2": "Engineering (all)",
+          "subject_combination": "Economics, Econometrics and Finance (all) + Engineering (all)",
+          "projects": 1464,
+          "percent_all_projects": 8.4
+        },
+        {
+          "rank": 126,
+          "subject_1": "Earth and Planetary Sciences (all)",
+          "subject_2": "Energy (all)",
+          "subject_combination": "Earth and Planetary Sciences (all) + Energy (all)",
+          "projects": 1433,
+          "percent_all_projects": 8.2
+        },
+        {
+          "rank": 127,
+          "subject_1": "Environmental Science (all)",
+          "subject_2": "Genetics and Molecular Biology (all)",
+          "subject_combination": "Environmental Science (all) + Genetics and Molecular Biology (all)",
+          "projects": 1419,
+          "percent_all_projects": 8.1
+        },
+        {
+          "rank": 128,
+          "subject_1": "Computer Science (all)",
+          "subject_2": "Psychology (all)",
+          "subject_combination": "Computer Science (all) + Psychology (all)",
+          "projects": 1417,
+          "percent_all_projects": 8.1
+        },
+        {
+          "rank": 129,
+          "subject_1": "Mathematics (all)",
+          "subject_2": "Neuroscience (all)",
+          "subject_combination": "Mathematics (all) + Neuroscience (all)",
+          "projects": 1399,
+          "percent_all_projects": 8.0
+        },
+        {
+          "rank": 130,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Arts and Humanities (all) + Social Sciences (all)",
+          "projects": 1364,
+          "percent_all_projects": 7.8
+        },
+        {
+          "rank": 131,
+          "subject_1": "Decision Sciences (all)",
+          "subject_2": "Medicine (all)",
+          "subject_combination": "Decision Sciences (all) + Medicine (all)",
+          "projects": 1361,
+          "percent_all_projects": 7.8
+        },
+        {
+          "rank": 132,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_combination": "Arts and Humanities (all) + Biochemistry, Genetics and Molecular Biology (all)",
+          "projects": 1350,
+          "percent_all_projects": 7.7
+        },
+        {
+          "rank": 133,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Business, Management and Accounting (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Business, Management and Accounting (all)",
+          "projects": 1346,
+          "percent_all_projects": 7.7
+        },
+        {
+          "rank": 134,
+          "subject_1": "Psychology (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Psychology (all) + Social Sciences (all)",
+          "projects": 1343,
+          "percent_all_projects": 7.7
+        },
+        {
+          "rank": 135,
+          "subject_1": "Energy (all)",
+          "subject_2": "Mathematics (all)",
+          "subject_combination": "Energy (all) + Mathematics (all)",
+          "projects": 1331,
+          "percent_all_projects": 7.6
+        },
+        {
+          "rank": 136,
+          "subject_1": "Neuroscience (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Neuroscience (all) + Social Sciences (all)",
+          "projects": 1326,
+          "percent_all_projects": 7.6
+        },
+        {
+          "rank": 137,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Psychology (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Psychology (all)",
+          "projects": 1309,
+          "percent_all_projects": 7.5
+        },
+        {
+          "rank": 138,
+          "subject_1": "Business, Management and Accounting (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Business, Management and Accounting (all) + Social Sciences (all)",
+          "projects": 1284,
+          "percent_all_projects": 7.3
+        },
+        {
+          "rank": 139,
+          "subject_1": "Decision Sciences (all)",
+          "subject_2": "Engineering (all)",
+          "subject_combination": "Decision Sciences (all) + Engineering (all)",
+          "projects": 1279,
+          "percent_all_projects": 7.3
+        },
+        {
+          "rank": 140,
+          "subject_1": "Computer Science (all)",
+          "subject_2": "Economics, Econometrics and Finance (all)",
+          "subject_combination": "Computer Science (all) + Economics, Econometrics and Finance (all)",
+          "projects": 1221,
+          "percent_all_projects": 7.0
+        },
+        {
+          "rank": 141,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Arts and Humanities (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Arts and Humanities (all)",
+          "projects": 1213,
+          "percent_all_projects": 6.9
+        },
+        {
+          "rank": 142,
+          "subject_1": "Chemical Engineering (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Chemical Engineering (all) + Social Sciences (all)",
+          "projects": 1207,
+          "percent_all_projects": 6.9
+        },
+        {
+          "rank": 143,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Computer Science (all)",
+          "subject_combination": "Arts and Humanities (all) + Computer Science (all)",
+          "projects": 1193,
+          "percent_all_projects": 6.8
+        },
+        {
+          "rank": 144,
+          "subject_1": "Genetics and Molecular Biology (all)",
+          "subject_2": "Materials Science (all)",
+          "subject_combination": "Genetics and Molecular Biology (all) + Materials Science (all)",
+          "projects": 1156,
+          "percent_all_projects": 6.6
+        },
+        {
+          "rank": 145,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Environmental Science (all)",
+          "subject_combination": "Arts and Humanities (all) + Environmental Science (all)",
+          "projects": 1139,
+          "percent_all_projects": 6.5
+        },
+        {
+          "rank": 146,
+          "subject_1": "Computer Science (all)",
+          "subject_2": "Decision Sciences (all)",
+          "subject_combination": "Computer Science (all) + Decision Sciences (all)",
+          "projects": 1138,
+          "percent_all_projects": 6.5
+        },
+        {
+          "rank": 147,
+          "subject_1": "Immunology and Microbiology (all)",
+          "subject_2": "Mathematics (all)",
+          "subject_combination": "Immunology and Microbiology (all) + Mathematics (all)",
+          "projects": 1130,
+          "percent_all_projects": 6.5
+        },
+        {
+          "rank": 148,
+          "subject_1": "Business, Management and Accounting (all)",
+          "subject_2": "Mathematics (all)",
+          "subject_combination": "Business, Management and Accounting (all) + Mathematics (all)",
+          "projects": 1128,
+          "percent_all_projects": 6.4
+        },
+        {
+          "rank": 149,
+          "subject_1": "Business, Management and Accounting (all)",
+          "subject_2": "Physics and Astronomy (all)",
+          "subject_combination": "Business, Management and Accounting (all) + Physics and Astronomy (all)",
+          "projects": 1126,
+          "percent_all_projects": 6.4
+        },
+        {
+          "rank": 150,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Psychology (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Psychology (all)",
+          "projects": 1115,
+          "percent_all_projects": 6.4
+        },
+        {
+          "rank": 151,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Physics and Astronomy (all)",
+          "subject_combination": "Arts and Humanities (all) + Physics and Astronomy (all)",
+          "projects": 1115,
+          "percent_all_projects": 6.4
+        },
+        {
+          "rank": 152,
+          "subject_1": "Immunology and Microbiology (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Immunology and Microbiology (all) + Social Sciences (all)",
+          "projects": 1101,
+          "percent_all_projects": 6.3
+        },
+        {
+          "rank": 153,
+          "subject_1": "Computer Science (all)",
+          "subject_2": "Genetics and Molecular Biology (all)",
+          "subject_combination": "Computer Science (all) + Genetics and Molecular Biology (all)",
+          "projects": 1100,
+          "percent_all_projects": 6.3
+        },
+        {
+          "rank": 154,
+          "subject_1": "Genetics and Molecular Biology (all)",
+          "subject_2": "Immunology and Microbiology (all)",
+          "subject_combination": "Genetics and Molecular Biology (all) + Immunology and Microbiology (all)",
+          "projects": 1081,
+          "percent_all_projects": 6.2
+        },
+        {
+          "rank": 155,
+          "subject_1": "Energy (all)",
+          "subject_2": "Neuroscience (all)",
+          "subject_combination": "Energy (all) + Neuroscience (all)",
+          "projects": 1067,
+          "percent_all_projects": 6.1
+        },
+        {
+          "rank": 156,
+          "subject_1": "Business, Management and Accounting (all)",
+          "subject_2": "Environmental Science (all)",
+          "subject_combination": "Business, Management and Accounting (all) + Environmental Science (all)",
+          "projects": 1065,
+          "percent_all_projects": 6.1
+        },
+        {
+          "rank": 157,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Economics, Econometrics and Finance (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Economics, Econometrics and Finance (all)",
+          "projects": 1062,
+          "percent_all_projects": 6.1
+        },
+        {
+          "rank": 158,
+          "subject_1": "Genetics and Molecular Biology (all)",
+          "subject_2": "Neuroscience (all)",
+          "subject_combination": "Genetics and Molecular Biology (all) + Neuroscience (all)",
+          "projects": 1060,
+          "percent_all_projects": 6.1
+        },
+        {
+          "rank": 159,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Business, Management and Accounting (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Business, Management and Accounting (all)",
+          "projects": 1049,
+          "percent_all_projects": 6.0
+        },
+        {
+          "rank": 160,
+          "subject_1": "Business, Management and Accounting (all)",
+          "subject_2": "Materials Science (all)",
+          "subject_combination": "Business, Management and Accounting (all) + Materials Science (all)",
+          "projects": 1048,
+          "percent_all_projects": 6.0
+        },
+        {
+          "rank": 161,
+          "subject_1": "Chemical Engineering (all)",
+          "subject_2": "Genetics and Molecular Biology (all)",
+          "subject_combination": "Chemical Engineering (all) + Genetics and Molecular Biology (all)",
+          "projects": 1034,
+          "percent_all_projects": 5.9
+        },
+        {
+          "rank": 162,
+          "subject_1": "Economics, Econometrics and Finance (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Economics, Econometrics and Finance (all) + Social Sciences (all)",
+          "projects": 1031,
+          "percent_all_projects": 5.9
+        },
+        {
+          "rank": 163,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Chemistry (all)",
+          "subject_combination": "Arts and Humanities (all) + Chemistry (all)",
+          "projects": 1028,
+          "percent_all_projects": 5.9
+        },
+        {
+          "rank": 164,
+          "subject_1": "Earth and Planetary Sciences (all)",
+          "subject_2": "Genetics and Molecular Biology (all)",
+          "subject_combination": "Earth and Planetary Sciences (all) + Genetics and Molecular Biology (all)",
+          "projects": 1026,
+          "percent_all_projects": 5.9
+        },
+        {
+          "rank": 165,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Decision Sciences (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Decision Sciences (all)",
+          "projects": 1022,
+          "percent_all_projects": 5.8
+        },
+        {
+          "rank": 166,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Earth and Planetary Sciences (all)",
+          "subject_combination": "Arts and Humanities (all) + Earth and Planetary Sciences (all)",
+          "projects": 999,
+          "percent_all_projects": 5.7
+        },
+        {
+          "rank": 167,
+          "subject_1": "Business, Management and Accounting (all)",
+          "subject_2": "Chemistry (all)",
+          "subject_combination": "Business, Management and Accounting (all) + Chemistry (all)",
+          "projects": 994,
+          "percent_all_projects": 5.7
+        },
+        {
+          "rank": 168,
+          "subject_1": "Physics and Astronomy (all)",
+          "subject_2": "Psychology (all)",
+          "subject_combination": "Physics and Astronomy (all) + Psychology (all)",
+          "projects": 974,
+          "percent_all_projects": 5.6
+        },
+        {
+          "rank": 169,
+          "subject_1": "Energy (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Energy (all) + Social Sciences (all)",
+          "projects": 960,
+          "percent_all_projects": 5.5
+        },
+        {
+          "rank": 170,
+          "subject_1": "Energy (all)",
+          "subject_2": "Immunology and Microbiology (all)",
+          "subject_combination": "Energy (all) + Immunology and Microbiology (all)",
+          "projects": 937,
+          "percent_all_projects": 5.4
+        },
+        {
+          "rank": 171,
+          "subject_1": "Economics, Econometrics and Finance (all)",
+          "subject_2": "Environmental Science (all)",
+          "subject_combination": "Economics, Econometrics and Finance (all) + Environmental Science (all)",
+          "projects": 910,
+          "percent_all_projects": 5.2
+        },
+        {
+          "rank": 172,
+          "subject_1": "Mathematics (all)",
+          "subject_2": "Psychology (all)",
+          "subject_combination": "Mathematics (all) + Psychology (all)",
+          "projects": 901,
+          "percent_all_projects": 5.1
+        },
+        {
+          "rank": 173,
+          "subject_1": "Medicine (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Medicine (all) + Veterinary (all)",
+          "projects": 893,
+          "percent_all_projects": 5.1
+        },
+        {
+          "rank": 174,
+          "subject_1": "Chemistry (all)",
+          "subject_2": "Psychology (all)",
+          "subject_combination": "Chemistry (all) + Psychology (all)",
+          "projects": 892,
+          "percent_all_projects": 5.1
+        },
+        {
+          "rank": 175,
+          "subject_1": "Economics, Econometrics and Finance (all)",
+          "subject_2": "Physics and Astronomy (all)",
+          "subject_combination": "Economics, Econometrics and Finance (all) + Physics and Astronomy (all)",
+          "projects": 879,
+          "percent_all_projects": 5.0
+        },
+        {
+          "rank": 176,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Economics, Econometrics and Finance (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Economics, Econometrics and Finance (all)",
+          "projects": 868,
+          "percent_all_projects": 5.0
+        },
+        {
+          "rank": 177,
+          "subject_1": "Economics, Econometrics and Finance (all)",
+          "subject_2": "Mathematics (all)",
+          "subject_combination": "Economics, Econometrics and Finance (all) + Mathematics (all)",
+          "projects": 852,
+          "percent_all_projects": 4.9
+        },
+        {
+          "rank": 178,
+          "subject_1": "Business, Management and Accounting (all)",
+          "subject_2": "Earth and Planetary Sciences (all)",
+          "subject_combination": "Business, Management and Accounting (all) + Earth and Planetary Sciences (all)",
+          "projects": 848,
+          "percent_all_projects": 4.8
+        },
+        {
+          "rank": 179,
+          "subject_1": "Environmental Science (all)",
+          "subject_2": "Psychology (all)",
+          "subject_combination": "Environmental Science (all) + Psychology (all)",
+          "projects": 848,
+          "percent_all_projects": 4.8
+        },
+        {
+          "rank": 180,
+          "subject_1": "Decision Sciences (all)",
+          "subject_2": "Physics and Astronomy (all)",
+          "subject_combination": "Decision Sciences (all) + Physics and Astronomy (all)",
+          "projects": 835,
+          "percent_all_projects": 4.8
+        },
+        {
+          "rank": 181,
+          "subject_1": "Neuroscience (all)",
+          "subject_2": "Psychology (all)",
+          "subject_combination": "Neuroscience (all) + Psychology (all)",
+          "projects": 831,
+          "percent_all_projects": 4.7
+        },
+        {
+          "rank": 182,
+          "subject_1": "Medicine (all)",
+          "subject_2": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Medicine (all) + Pharmacology, Toxicology and Pharmaceutics (all)",
+          "projects": 806,
+          "percent_all_projects": 4.6
+        },
+        {
+          "rank": 183,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Decision Sciences (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Decision Sciences (all)",
+          "projects": 803,
+          "percent_all_projects": 4.6
+        },
+        {
+          "rank": 184,
+          "subject_1": "Chemistry (all)",
+          "subject_2": "Economics, Econometrics and Finance (all)",
+          "subject_combination": "Chemistry (all) + Economics, Econometrics and Finance (all)",
+          "projects": 798,
+          "percent_all_projects": 4.6
+        },
+        {
+          "rank": 185,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Mathematics (all)",
+          "subject_combination": "Arts and Humanities (all) + Mathematics (all)",
+          "projects": 787,
+          "percent_all_projects": 4.5
+        },
+        {
+          "rank": 186,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Materials Science (all)",
+          "subject_combination": "Arts and Humanities (all) + Materials Science (all)",
+          "projects": 781,
+          "percent_all_projects": 4.5
+        },
+        {
+          "rank": 187,
+          "subject_1": "Chemistry (all)",
+          "subject_2": "Decision Sciences (all)",
+          "subject_combination": "Chemistry (all) + Decision Sciences (all)",
+          "projects": 775,
+          "percent_all_projects": 4.4
+        },
+        {
+          "rank": 188,
+          "subject_1": "Decision Sciences (all)",
+          "subject_2": "Environmental Science (all)",
+          "subject_combination": "Decision Sciences (all) + Environmental Science (all)",
+          "projects": 775,
+          "percent_all_projects": 4.4
+        },
+        {
+          "rank": 189,
+          "subject_1": "Economics, Econometrics and Finance (all)",
+          "subject_2": "Materials Science (all)",
+          "subject_combination": "Economics, Econometrics and Finance (all) + Materials Science (all)",
+          "projects": 771,
+          "percent_all_projects": 4.4
+        },
+        {
+          "rank": 190,
+          "subject_1": "Materials Science (all)",
+          "subject_2": "Psychology (all)",
+          "subject_combination": "Materials Science (all) + Psychology (all)",
+          "projects": 761,
+          "percent_all_projects": 4.3
+        },
+        {
+          "rank": 191,
+          "subject_1": "Decision Sciences (all)",
+          "subject_2": "Mathematics (all)",
+          "subject_combination": "Decision Sciences (all) + Mathematics (all)",
+          "projects": 752,
+          "percent_all_projects": 4.3
+        },
+        {
+          "rank": 192,
+          "subject_1": "Genetics and Molecular Biology (all)",
+          "subject_2": "Mathematics (all)",
+          "subject_combination": "Genetics and Molecular Biology (all) + Mathematics (all)",
+          "projects": 734,
+          "percent_all_projects": 4.2
+        },
+        {
+          "rank": 193,
+          "subject_1": "Earth and Planetary Sciences (all)",
+          "subject_2": "Economics, Econometrics and Finance (all)",
+          "subject_combination": "Earth and Planetary Sciences (all) + Economics, Econometrics and Finance (all)",
+          "projects": 708,
+          "percent_all_projects": 4.0
+        },
+        {
+          "rank": 194,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Neuroscience (all)",
+          "subject_combination": "Arts and Humanities (all) + Neuroscience (all)",
+          "projects": 707,
+          "percent_all_projects": 4.0
+        },
+        {
+          "rank": 195,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Veterinary (all)",
+          "projects": 701,
+          "percent_all_projects": 4.0
+        },
+        {
+          "rank": 196,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Psychology (all)",
+          "subject_combination": "Arts and Humanities (all) + Psychology (all)",
+          "projects": 699,
+          "percent_all_projects": 4.0
+        },
+        {
+          "rank": 197,
+          "subject_1": "Decision Sciences (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Decision Sciences (all) + Social Sciences (all)",
+          "projects": 695,
+          "percent_all_projects": 4.0
+        },
+        {
+          "rank": 198,
+          "subject_1": "Decision Sciences (all)",
+          "subject_2": "Materials Science (all)",
+          "subject_combination": "Decision Sciences (all) + Materials Science (all)",
+          "projects": 691,
+          "percent_all_projects": 3.9
+        },
+        {
+          "rank": 199,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Veterinary (all)",
+          "projects": 686,
+          "percent_all_projects": 3.9
+        },
+        {
+          "rank": 200,
+          "subject_1": "Energy (all)",
+          "subject_2": "Genetics and Molecular Biology (all)",
+          "subject_combination": "Energy (all) + Genetics and Molecular Biology (all)",
+          "projects": 686,
+          "percent_all_projects": 3.9
+        },
+        {
+          "rank": 201,
+          "subject_1": "Genetics and Molecular Biology (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Genetics and Molecular Biology (all) + Social Sciences (all)",
+          "projects": 681,
+          "percent_all_projects": 3.9
+        },
+        {
+          "rank": 202,
+          "subject_1": "Business, Management and Accounting (all)",
+          "subject_2": "Chemical Engineering (all)",
+          "subject_combination": "Business, Management and Accounting (all) + Chemical Engineering (all)",
+          "projects": 661,
+          "percent_all_projects": 3.8
+        },
+        {
+          "rank": 203,
+          "subject_1": "Health Professions  (all)",
+          "subject_2": "Medicine (all)",
+          "subject_combination": "Health Professions  (all) + Medicine (all)",
+          "projects": 641,
+          "percent_all_projects": 3.7
+        },
+        {
+          "rank": 204,
+          "subject_1": "Earth and Planetary Sciences (all)",
+          "subject_2": "Psychology (all)",
+          "subject_combination": "Earth and Planetary Sciences (all) + Psychology (all)",
+          "projects": 638,
+          "percent_all_projects": 3.6
+        },
+        {
+          "rank": 205,
+          "subject_1": "Business, Management and Accounting (all)",
+          "subject_2": "Psychology (all)",
+          "subject_combination": "Business, Management and Accounting (all) + Psychology (all)",
+          "projects": 625,
+          "percent_all_projects": 3.6
+        },
+        {
+          "rank": 206,
+          "subject_1": "Engineering (all)",
+          "subject_2": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Engineering (all) + Pharmacology, Toxicology and Pharmaceutics (all)",
+          "projects": 618,
+          "percent_all_projects": 3.5
+        },
+        {
+          "rank": 207,
+          "subject_1": "Business, Management and Accounting (all)",
+          "subject_2": "Energy (all)",
+          "subject_combination": "Business, Management and Accounting (all) + Energy (all)",
+          "projects": 616,
+          "percent_all_projects": 3.5
+        },
+        {
+          "rank": 208,
+          "subject_1": "Decision Sciences (all)",
+          "subject_2": "Earth and Planetary Sciences (all)",
+          "subject_combination": "Decision Sciences (all) + Earth and Planetary Sciences (all)",
+          "projects": 615,
+          "percent_all_projects": 3.5
+        },
+        {
+          "rank": 209,
+          "subject_1": "Chemistry (all)",
+          "subject_2": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Chemistry (all) + Pharmacology, Toxicology and Pharmaceutics (all)",
+          "projects": 608,
+          "percent_all_projects": 3.5
+        },
+        {
+          "rank": 210,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Pharmacology, Toxicology and Pharmaceutics (all)",
+          "projects": 606,
+          "percent_all_projects": 3.5
+        },
+        {
+          "rank": 211,
+          "subject_1": "Engineering (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Engineering (all) + Veterinary (all)",
+          "projects": 601,
+          "percent_all_projects": 3.4
+        },
+        {
+          "rank": 212,
+          "subject_1": "Chemistry (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Chemistry (all) + Veterinary (all)",
+          "projects": 593,
+          "percent_all_projects": 3.4
+        },
+        {
+          "rank": 213,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Immunology and Microbiology (all)",
+          "subject_combination": "Arts and Humanities (all) + Immunology and Microbiology (all)",
+          "projects": 586,
+          "percent_all_projects": 3.3
+        },
+        {
+          "rank": 214,
+          "subject_1": "Environmental Science (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Environmental Science (all) + Veterinary (all)",
+          "projects": 582,
+          "percent_all_projects": 3.3
+        },
+        {
+          "rank": 215,
+          "subject_1": "Physics and Astronomy (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Physics and Astronomy (all) + Veterinary (all)",
+          "projects": 580,
+          "percent_all_projects": 3.3
+        },
+        {
+          "rank": 216,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Business, Management and Accounting (all)",
+          "subject_combination": "Arts and Humanities (all) + Business, Management and Accounting (all)",
+          "projects": 573,
+          "percent_all_projects": 3.3
+        },
+        {
+          "rank": 217,
+          "subject_1": "Business, Management and Accounting (all)",
+          "subject_2": "Neuroscience (all)",
+          "subject_combination": "Business, Management and Accounting (all) + Neuroscience (all)",
+          "projects": 565,
+          "percent_all_projects": 3.2
+        },
+        {
+          "rank": 218,
+          "subject_1": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_2": "Physics and Astronomy (all)",
+          "subject_combination": "Pharmacology, Toxicology and Pharmaceutics (all) + Physics and Astronomy (all)",
+          "projects": 563,
+          "percent_all_projects": 3.2
+        },
+        {
+          "rank": 219,
+          "subject_1": "Engineering (all)",
+          "subject_2": "Health Professions  (all)",
+          "subject_combination": "Engineering (all) + Health Professions  (all)",
+          "projects": 559,
+          "percent_all_projects": 3.2
+        },
+        {
+          "rank": 220,
+          "subject_1": "Immunology and Microbiology (all)",
+          "subject_2": "Psychology (all)",
+          "subject_combination": "Immunology and Microbiology (all) + Psychology (all)",
+          "projects": 557,
+          "percent_all_projects": 3.2
+        },
+        {
+          "rank": 221,
+          "subject_1": "Business, Management and Accounting (all)",
+          "subject_2": "Economics, Econometrics and Finance (all)",
+          "subject_combination": "Business, Management and Accounting (all) + Economics, Econometrics and Finance (all)",
+          "projects": 543,
+          "percent_all_projects": 3.1
+        },
+        {
+          "rank": 222,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Chemical Engineering (all)",
+          "subject_combination": "Arts and Humanities (all) + Chemical Engineering (all)",
+          "projects": 539,
+          "percent_all_projects": 3.1
+        },
+        {
+          "rank": 223,
+          "subject_1": "Chemical Engineering (all)",
+          "subject_2": "Psychology (all)",
+          "subject_combination": "Chemical Engineering (all) + Psychology (all)",
+          "projects": 535,
+          "percent_all_projects": 3.1
+        },
+        {
+          "rank": 224,
+          "subject_1": "Business, Management and Accounting (all)",
+          "subject_2": "Decision Sciences (all)",
+          "subject_combination": "Business, Management and Accounting (all) + Decision Sciences (all)",
+          "projects": 532,
+          "percent_all_projects": 3.0
+        },
+        {
+          "rank": 225,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Pharmacology, Toxicology and Pharmaceutics (all)",
+          "projects": 528,
+          "percent_all_projects": 3.0
+        },
+        {
+          "rank": 226,
+          "subject_1": "Chemical Engineering (all)",
+          "subject_2": "Economics, Econometrics and Finance (all)",
+          "subject_combination": "Chemical Engineering (all) + Economics, Econometrics and Finance (all)",
+          "projects": 510,
+          "percent_all_projects": 2.9
+        },
+        {
+          "rank": 227,
+          "subject_1": "Medicine (all)",
+          "subject_2": "Nursing (all)",
+          "subject_combination": "Medicine (all) + Nursing (all)",
+          "projects": 507,
+          "percent_all_projects": 2.9
+        },
+        {
+          "rank": 228,
+          "subject_1": "Decision Sciences (all)",
+          "subject_2": "Neuroscience (all)",
+          "subject_combination": "Decision Sciences (all) + Neuroscience (all)",
+          "projects": 497,
+          "percent_all_projects": 2.8
+        },
+        {
+          "rank": 229,
+          "subject_1": "Economics, Econometrics and Finance (all)",
+          "subject_2": "Psychology (all)",
+          "subject_combination": "Economics, Econometrics and Finance (all) + Psychology (all)",
+          "projects": 497,
+          "percent_all_projects": 2.8
+        },
+        {
+          "rank": 230,
+          "subject_1": "Immunology and Microbiology (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Immunology and Microbiology (all) + Veterinary (all)",
+          "projects": 485,
+          "percent_all_projects": 2.8
+        },
+        {
+          "rank": 231,
+          "subject_1": "Computer Science (all)",
+          "subject_2": "Health Professions  (all)",
+          "subject_combination": "Computer Science (all) + Health Professions  (all)",
+          "projects": 484,
+          "percent_all_projects": 2.8
+        },
+        {
+          "rank": 232,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Economics, Econometrics and Finance (all)",
+          "subject_combination": "Arts and Humanities (all) + Economics, Econometrics and Finance (all)",
+          "projects": 480,
+          "percent_all_projects": 2.7
+        },
+        {
+          "rank": 233,
+          "subject_1": "Materials Science (all)",
+          "subject_2": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Materials Science (all) + Pharmacology, Toxicology and Pharmaceutics (all)",
+          "projects": 473,
+          "percent_all_projects": 2.7
+        },
+        {
+          "rank": 234,
+          "subject_1": "Business, Management and Accounting (all)",
+          "subject_2": "Immunology and Microbiology (all)",
+          "subject_combination": "Business, Management and Accounting (all) + Immunology and Microbiology (all)",
+          "projects": 467,
+          "percent_all_projects": 2.7
+        },
+        {
+          "rank": 235,
+          "subject_1": "Economics, Econometrics and Finance (all)",
+          "subject_2": "Energy (all)",
+          "subject_combination": "Economics, Econometrics and Finance (all) + Energy (all)",
+          "projects": 461,
+          "percent_all_projects": 2.6
+        },
+        {
+          "rank": 236,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Energy (all)",
+          "subject_combination": "Arts and Humanities (all) + Energy (all)",
+          "projects": 460,
+          "percent_all_projects": 2.6
+        },
+        {
+          "rank": 237,
+          "subject_1": "Chemical Engineering (all)",
+          "subject_2": "Decision Sciences (all)",
+          "subject_combination": "Chemical Engineering (all) + Decision Sciences (all)",
+          "projects": 460,
+          "percent_all_projects": 2.6
+        },
+        {
+          "rank": 238,
+          "subject_1": "Management and Accounting (all)",
+          "subject_2": "Medicine (all)",
+          "subject_combination": "Management and Accounting (all) + Medicine (all)",
+          "projects": 449,
+          "percent_all_projects": 2.6
+        },
+        {
+          "rank": 239,
+          "subject_1": "Economics, Econometrics and Finance (all)",
+          "subject_2": "Neuroscience (all)",
+          "subject_combination": "Economics, Econometrics and Finance (all) + Neuroscience (all)",
+          "projects": 447,
+          "percent_all_projects": 2.6
+        },
+        {
+          "rank": 240,
+          "subject_1": "Neuroscience (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Neuroscience (all) + Veterinary (all)",
+          "projects": 444,
+          "percent_all_projects": 2.5
+        },
+        {
+          "rank": 241,
+          "subject_1": "Engineering (all)",
+          "subject_2": "Nursing (all)",
+          "subject_combination": "Engineering (all) + Nursing (all)",
+          "projects": 438,
+          "percent_all_projects": 2.5
+        },
+        {
+          "rank": 242,
+          "subject_1": "Engineering (all)",
+          "subject_2": "Management and Accounting (all)",
+          "subject_combination": "Engineering (all) + Management and Accounting (all)",
+          "projects": 437,
+          "percent_all_projects": 2.5
+        },
+        {
+          "rank": 243,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Health Professions  (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Health Professions  (all)",
+          "projects": 429,
+          "percent_all_projects": 2.5
+        },
+        {
+          "rank": 244,
+          "subject_1": "Chemical Engineering (all)",
+          "subject_2": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Chemical Engineering (all) + Pharmacology, Toxicology and Pharmaceutics (all)",
+          "projects": 428,
+          "percent_all_projects": 2.4
+        },
+        {
+          "rank": 245,
+          "subject_1": "Decision Sciences (all)",
+          "subject_2": "Energy (all)",
+          "subject_combination": "Decision Sciences (all) + Energy (all)",
+          "projects": 418,
+          "percent_all_projects": 2.4
+        },
+        {
+          "rank": 246,
+          "subject_1": "Energy (all)",
+          "subject_2": "Psychology (all)",
+          "subject_combination": "Energy (all) + Psychology (all)",
+          "projects": 401,
+          "percent_all_projects": 2.3
+        },
+        {
+          "rank": 247,
+          "subject_1": "Environmental Science (all)",
+          "subject_2": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Environmental Science (all) + Pharmacology, Toxicology and Pharmaceutics (all)",
+          "projects": 400,
+          "percent_all_projects": 2.3
+        },
+        {
+          "rank": 248,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Genetics and Molecular Biology (all)",
+          "subject_combination": "Arts and Humanities (all) + Genetics and Molecular Biology (all)",
+          "projects": 393,
+          "percent_all_projects": 2.2
+        },
+        {
+          "rank": 249,
+          "subject_1": "Dentistry (all)",
+          "subject_2": "Medicine (all)",
+          "subject_combination": "Dentistry (all) + Medicine (all)",
+          "projects": 392,
+          "percent_all_projects": 2.2
+        },
+        {
+          "rank": 250,
+          "subject_1": "Economics, Econometrics and Finance (all)",
+          "subject_2": "Immunology and Microbiology (all)",
+          "subject_combination": "Economics, Econometrics and Finance (all) + Immunology and Microbiology (all)",
+          "projects": 392,
+          "percent_all_projects": 2.2
+        },
+        {
+          "rank": 251,
+          "subject_1": "Decision Sciences (all)",
+          "subject_2": "Immunology and Microbiology (all)",
+          "subject_combination": "Decision Sciences (all) + Immunology and Microbiology (all)",
+          "projects": 390,
+          "percent_all_projects": 2.2
+        },
+        {
+          "rank": 252,
+          "subject_1": "Decision Sciences (all)",
+          "subject_2": "Economics, Econometrics and Finance (all)",
+          "subject_combination": "Decision Sciences (all) + Economics, Econometrics and Finance (all)",
+          "projects": 389,
+          "percent_all_projects": 2.2
+        },
+        {
+          "rank": 253,
+          "subject_1": "Computer Science (all)",
+          "subject_2": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Computer Science (all) + Pharmacology, Toxicology and Pharmaceutics (all)",
+          "projects": 386,
+          "percent_all_projects": 2.2
+        },
+        {
+          "rank": 254,
+          "subject_1": "Earth and Planetary Sciences (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Earth and Planetary Sciences (all) + Veterinary (all)",
+          "projects": 383,
+          "percent_all_projects": 2.2
+        },
+        {
+          "rank": 255,
+          "subject_1": "Decision Sciences (all)",
+          "subject_2": "Psychology (all)",
+          "subject_combination": "Decision Sciences (all) + Psychology (all)",
+          "projects": 381,
+          "percent_all_projects": 2.2
+        },
+        {
+          "rank": 256,
+          "subject_1": "Computer Science (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Computer Science (all) + Veterinary (all)",
+          "projects": 377,
+          "percent_all_projects": 2.2
+        },
+        {
+          "rank": 257,
+          "subject_1": "Computer Science (all)",
+          "subject_2": "Management and Accounting (all)",
+          "subject_combination": "Computer Science (all) + Management and Accounting (all)",
+          "projects": 372,
+          "percent_all_projects": 2.1
+        },
+        {
+          "rank": 258,
+          "subject_1": "Materials Science (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Materials Science (all) + Veterinary (all)",
+          "projects": 366,
+          "percent_all_projects": 2.1
+        },
+        {
+          "rank": 259,
+          "subject_1": "Neuroscience (all)",
+          "subject_2": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Neuroscience (all) + Pharmacology, Toxicology and Pharmaceutics (all)",
+          "projects": 353,
+          "percent_all_projects": 2.0
+        },
+        {
+          "rank": 260,
+          "subject_1": "Genetics and Molecular Biology (all)",
+          "subject_2": "Psychology (all)",
+          "subject_combination": "Genetics and Molecular Biology (all) + Psychology (all)",
+          "projects": 352,
+          "percent_all_projects": 2.0
+        },
+        {
+          "rank": 261,
+          "subject_1": "Computer Science (all)",
+          "subject_2": "Nursing (all)",
+          "subject_combination": "Computer Science (all) + Nursing (all)",
+          "projects": 343,
+          "percent_all_projects": 2.0
+        },
+        {
+          "rank": 262,
+          "subject_1": "Health Professions  (all)",
+          "subject_2": "Physics and Astronomy (all)",
+          "subject_combination": "Health Professions  (all) + Physics and Astronomy (all)",
+          "projects": 341,
+          "percent_all_projects": 1.9
+        },
+        {
+          "rank": 263,
+          "subject_1": "Immunology and Microbiology (all)",
+          "subject_2": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Immunology and Microbiology (all) + Pharmacology, Toxicology and Pharmaceutics (all)",
+          "projects": 339,
+          "percent_all_projects": 1.9
+        },
+        {
+          "rank": 264,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Management and Accounting (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Management and Accounting (all)",
+          "projects": 338,
+          "percent_all_projects": 1.9
+        },
+        {
+          "rank": 265,
+          "subject_1": "Econometrics and Finance (all)",
+          "subject_2": "Medicine (all)",
+          "subject_combination": "Econometrics and Finance (all) + Medicine (all)",
+          "projects": 333,
+          "percent_all_projects": 1.9
+        },
+        {
+          "rank": 266,
+          "subject_1": "Health Professions  (all)",
+          "subject_2": "Materials Science (all)",
+          "subject_combination": "Health Professions  (all) + Materials Science (all)",
+          "projects": 328,
+          "percent_all_projects": 1.9
+        },
+        {
+          "rank": 267,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Decision Sciences (all)",
+          "subject_combination": "Arts and Humanities (all) + Decision Sciences (all)",
+          "projects": 326,
+          "percent_all_projects": 1.9
+        },
+        {
+          "rank": 268,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Nursing (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Nursing (all)",
+          "projects": 325,
+          "percent_all_projects": 1.9
+        },
+        {
+          "rank": 269,
+          "subject_1": "Business, Management and Accounting (all)",
+          "subject_2": "Genetics and Molecular Biology (all)",
+          "subject_combination": "Business, Management and Accounting (all) + Genetics and Molecular Biology (all)",
+          "projects": 325,
+          "percent_all_projects": 1.9
+        },
+        {
+          "rank": 270,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Health Professions  (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Health Professions  (all)",
+          "projects": 324,
+          "percent_all_projects": 1.9
+        },
+        {
+          "rank": 271,
+          "subject_1": "Health Professions  (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Health Professions  (all) + Social Sciences (all)",
+          "projects": 322,
+          "percent_all_projects": 1.8
+        },
+        {
+          "rank": 272,
+          "subject_1": "Dentistry (all)",
+          "subject_2": "Engineering (all)",
+          "subject_combination": "Dentistry (all) + Engineering (all)",
+          "projects": 319,
+          "percent_all_projects": 1.8
+        },
+        {
+          "rank": 273,
+          "subject_1": "Social Sciences (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Social Sciences (all) + Veterinary (all)",
+          "projects": 318,
+          "percent_all_projects": 1.8
+        },
+        {
+          "rank": 274,
+          "subject_1": "Chemical Engineering (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Chemical Engineering (all) + Veterinary (all)",
+          "projects": 316,
+          "percent_all_projects": 1.8
+        },
+        {
+          "rank": 275,
+          "subject_1": "Chemistry (all)",
+          "subject_2": "Health Professions  (all)",
+          "subject_combination": "Chemistry (all) + Health Professions  (all)",
+          "projects": 316,
+          "percent_all_projects": 1.8
+        },
+        {
+          "rank": 276,
+          "subject_1": "Management and Accounting (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Management and Accounting (all) + Social Sciences (all)",
+          "projects": 311,
+          "percent_all_projects": 1.8
+        },
+        {
+          "rank": 277,
+          "subject_1": "Econometrics and Finance (all)",
+          "subject_2": "Engineering (all)",
+          "subject_combination": "Econometrics and Finance (all) + Engineering (all)",
+          "projects": 303,
+          "percent_all_projects": 1.7
+        },
+        {
+          "rank": 278,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Dentistry (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Dentistry (all)",
+          "projects": 299,
+          "percent_all_projects": 1.7
+        },
+        {
+          "rank": 279,
+          "subject_1": "Chemistry (all)",
+          "subject_2": "Dentistry (all)",
+          "subject_combination": "Chemistry (all) + Dentistry (all)",
+          "projects": 297,
+          "percent_all_projects": 1.7
+        },
+        {
+          "rank": 280,
+          "subject_1": "Health Professions  (all)",
+          "subject_2": "Mathematics (all)",
+          "subject_combination": "Health Professions  (all) + Mathematics (all)",
+          "projects": 295,
+          "percent_all_projects": 1.7
+        },
+        {
+          "rank": 281,
+          "subject_1": "Dentistry (all)",
+          "subject_2": "Physics and Astronomy (all)",
+          "subject_combination": "Dentistry (all) + Physics and Astronomy (all)",
+          "projects": 289,
+          "percent_all_projects": 1.7
+        },
+        {
+          "rank": 282,
+          "subject_1": "Business, Management and Accounting (all)",
+          "subject_2": "Management and Accounting (all)",
+          "subject_combination": "Business, Management and Accounting (all) + Management and Accounting (all)",
+          "projects": 282,
+          "percent_all_projects": 1.6
+        },
+        {
+          "rank": 283,
+          "subject_1": "Nursing (all)",
+          "subject_2": "Physics and Astronomy (all)",
+          "subject_combination": "Nursing (all) + Physics and Astronomy (all)",
+          "projects": 281,
+          "percent_all_projects": 1.6
+        },
+        {
+          "rank": 284,
+          "subject_1": "Energy (all)",
+          "subject_2": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Energy (all) + Pharmacology, Toxicology and Pharmaceutics (all)",
+          "projects": 279,
+          "percent_all_projects": 1.6
+        },
+        {
+          "rank": 285,
+          "subject_1": "Nursing (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Nursing (all) + Social Sciences (all)",
+          "projects": 273,
+          "percent_all_projects": 1.6
+        },
+        {
+          "rank": 286,
+          "subject_1": "Mathematics (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Mathematics (all) + Veterinary (all)",
+          "projects": 271,
+          "percent_all_projects": 1.5
+        },
+        {
+          "rank": 287,
+          "subject_1": "Chemistry (all)",
+          "subject_2": "Nursing (all)",
+          "subject_combination": "Chemistry (all) + Nursing (all)",
+          "projects": 265,
+          "percent_all_projects": 1.5
+        },
+        {
+          "rank": 288,
+          "subject_1": "Economics, Econometrics and Finance (all)",
+          "subject_2": "Genetics and Molecular Biology (all)",
+          "subject_combination": "Economics, Econometrics and Finance (all) + Genetics and Molecular Biology (all)",
+          "projects": 265,
+          "percent_all_projects": 1.5
+        },
+        {
+          "rank": 289,
+          "subject_1": "Management and Accounting (all)",
+          "subject_2": "Physics and Astronomy (all)",
+          "subject_combination": "Management and Accounting (all) + Physics and Astronomy (all)",
+          "projects": 265,
+          "percent_all_projects": 1.5
+        },
+        {
+          "rank": 290,
+          "subject_1": "Environmental Science (all)",
+          "subject_2": "Health Professions  (all)",
+          "subject_combination": "Environmental Science (all) + Health Professions  (all)",
+          "projects": 264,
+          "percent_all_projects": 1.5
+        },
+        {
+          "rank": 291,
+          "subject_1": "Management and Accounting (all)",
+          "subject_2": "Mathematics (all)",
+          "subject_combination": "Management and Accounting (all) + Mathematics (all)",
+          "projects": 264,
+          "percent_all_projects": 1.5
+        },
+        {
+          "rank": 292,
+          "subject_1": "Dentistry (all)",
+          "subject_2": "Materials Science (all)",
+          "subject_combination": "Dentistry (all) + Materials Science (all)",
+          "projects": 263,
+          "percent_all_projects": 1.5
+        },
+        {
+          "rank": 293,
+          "subject_1": "Health Professions  (all)",
+          "subject_2": "Neuroscience (all)",
+          "subject_combination": "Health Professions  (all) + Neuroscience (all)",
+          "projects": 263,
+          "percent_all_projects": 1.5
+        },
+        {
+          "rank": 294,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Nursing (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Nursing (all)",
+          "projects": 256,
+          "percent_all_projects": 1.5
+        },
+        {
+          "rank": 295,
+          "subject_1": "Decision Sciences (all)",
+          "subject_2": "Genetics and Molecular Biology (all)",
+          "subject_combination": "Decision Sciences (all) + Genetics and Molecular Biology (all)",
+          "projects": 256,
+          "percent_all_projects": 1.5
+        },
+        {
+          "rank": 296,
+          "subject_1": "Econometrics and Finance (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Econometrics and Finance (all) + Social Sciences (all)",
+          "projects": 250,
+          "percent_all_projects": 1.4
+        },
+        {
+          "rank": 297,
+          "subject_1": "Materials Science (all)",
+          "subject_2": "Nursing (all)",
+          "subject_combination": "Materials Science (all) + Nursing (all)",
+          "projects": 249,
+          "percent_all_projects": 1.4
+        },
+        {
+          "rank": 298,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Management and Accounting (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Management and Accounting (all)",
+          "projects": 247,
+          "percent_all_projects": 1.4
+        },
+        {
+          "rank": 299,
+          "subject_1": "Chemical Engineering (all)",
+          "subject_2": "Health Professions  (all)",
+          "subject_combination": "Chemical Engineering (all) + Health Professions  (all)",
+          "projects": 247,
+          "percent_all_projects": 1.4
+        },
+        {
+          "rank": 300,
+          "subject_1": "Environmental Science (all)",
+          "subject_2": "Management and Accounting (all)",
+          "subject_combination": "Environmental Science (all) + Management and Accounting (all)",
+          "projects": 247,
+          "percent_all_projects": 1.4
+        },
+        {
+          "rank": 301,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Econometrics and Finance (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Econometrics and Finance (all)",
+          "projects": 246,
+          "percent_all_projects": 1.4
+        },
+        {
+          "rank": 302,
+          "subject_1": "Computer Science (all)",
+          "subject_2": "Econometrics and Finance (all)",
+          "subject_combination": "Computer Science (all) + Econometrics and Finance (all)",
+          "projects": 246,
+          "percent_all_projects": 1.4
+        },
+        {
+          "rank": 303,
+          "subject_1": "Genetics and Molecular Biology (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Genetics and Molecular Biology (all) + Veterinary (all)",
+          "projects": 242,
+          "percent_all_projects": 1.4
+        },
+        {
+          "rank": 304,
+          "subject_1": "Chemical Engineering (all)",
+          "subject_2": "Dentistry (all)",
+          "subject_combination": "Chemical Engineering (all) + Dentistry (all)",
+          "projects": 240,
+          "percent_all_projects": 1.4
+        },
+        {
+          "rank": 305,
+          "subject_1": "Health Professions  (all)",
+          "subject_2": "Psychology (all)",
+          "subject_combination": "Health Professions  (all) + Psychology (all)",
+          "projects": 239,
+          "percent_all_projects": 1.4
+        },
+        {
+          "rank": 306,
+          "subject_1": "Environmental Science (all)",
+          "subject_2": "Nursing (all)",
+          "subject_combination": "Environmental Science (all) + Nursing (all)",
+          "projects": 237,
+          "percent_all_projects": 1.4
+        },
+        {
+          "rank": 307,
+          "subject_1": "Earth and Planetary Sciences (all)",
+          "subject_2": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Earth and Planetary Sciences (all) + Pharmacology, Toxicology and Pharmaceutics (all)",
+          "projects": 236,
+          "percent_all_projects": 1.3
+        },
+        {
+          "rank": 308,
+          "subject_1": "Mathematics (all)",
+          "subject_2": "Nursing (all)",
+          "subject_combination": "Mathematics (all) + Nursing (all)",
+          "projects": 234,
+          "percent_all_projects": 1.3
+        },
+        {
+          "rank": 309,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Dentistry (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Dentistry (all)",
+          "projects": 232,
+          "percent_all_projects": 1.3
+        },
+        {
+          "rank": 310,
+          "subject_1": "Management and Accounting (all)",
+          "subject_2": "Materials Science (all)",
+          "subject_combination": "Management and Accounting (all) + Materials Science (all)",
+          "projects": 231,
+          "percent_all_projects": 1.3
+        },
+        {
+          "rank": 311,
+          "subject_1": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Pharmacology, Toxicology and Pharmaceutics (all) + Social Sciences (all)",
+          "projects": 228,
+          "percent_all_projects": 1.3
+        },
+        {
+          "rank": 312,
+          "subject_1": "Mathematics (all)",
+          "subject_2": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Mathematics (all) + Pharmacology, Toxicology and Pharmaceutics (all)",
+          "projects": 224,
+          "percent_all_projects": 1.3
+        },
+        {
+          "rank": 313,
+          "subject_1": "Chemistry (all)",
+          "subject_2": "Management and Accounting (all)",
+          "subject_combination": "Chemistry (all) + Management and Accounting (all)",
+          "projects": 222,
+          "percent_all_projects": 1.3
+        },
+        {
+          "rank": 314,
+          "subject_1": "Economics, Econometrics and Finance (all)",
+          "subject_2": "Management and Accounting (all)",
+          "subject_combination": "Economics, Econometrics and Finance (all) + Management and Accounting (all)",
+          "projects": 218,
+          "percent_all_projects": 1.2
+        },
+        {
+          "rank": 315,
+          "subject_1": "Neuroscience (all)",
+          "subject_2": "Nursing (all)",
+          "subject_combination": "Neuroscience (all) + Nursing (all)",
+          "projects": 215,
+          "percent_all_projects": 1.2
+        },
+        {
+          "rank": 316,
+          "subject_1": "Econometrics and Finance (all)",
+          "subject_2": "Environmental Science (all)",
+          "subject_combination": "Econometrics and Finance (all) + Environmental Science (all)",
+          "projects": 207,
+          "percent_all_projects": 1.2
+        },
+        {
+          "rank": 317,
+          "subject_1": "Energy (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Energy (all) + Veterinary (all)",
+          "projects": 204,
+          "percent_all_projects": 1.2
+        },
+        {
+          "rank": 318,
+          "subject_1": "Business, Management and Accounting (all)",
+          "subject_2": "Econometrics and Finance (all)",
+          "subject_combination": "Business, Management and Accounting (all) + Econometrics and Finance (all)",
+          "projects": 198,
+          "percent_all_projects": 1.1
+        },
+        {
+          "rank": 319,
+          "subject_1": "Computer Science (all)",
+          "subject_2": "Dentistry (all)",
+          "subject_combination": "Computer Science (all) + Dentistry (all)",
+          "projects": 194,
+          "percent_all_projects": 1.1
+        },
+        {
+          "rank": 320,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Econometrics and Finance (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Econometrics and Finance (all)",
+          "projects": 191,
+          "percent_all_projects": 1.1
+        },
+        {
+          "rank": 321,
+          "subject_1": "Earth and Planetary Sciences (all)",
+          "subject_2": "Management and Accounting (all)",
+          "subject_combination": "Earth and Planetary Sciences (all) + Management and Accounting (all)",
+          "projects": 191,
+          "percent_all_projects": 1.1
+        },
+        {
+          "rank": 322,
+          "subject_1": "Econometrics and Finance (all)",
+          "subject_2": "Physics and Astronomy (all)",
+          "subject_combination": "Econometrics and Finance (all) + Physics and Astronomy (all)",
+          "projects": 191,
+          "percent_all_projects": 1.1
+        },
+        {
+          "rank": 323,
+          "subject_1": "Genetics and Molecular Biology (all)",
+          "subject_2": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Genetics and Molecular Biology (all) + Pharmacology, Toxicology and Pharmaceutics (all)",
+          "projects": 191,
+          "percent_all_projects": 1.1
+        },
+        {
+          "rank": 324,
+          "subject_1": "Chemical Engineering (all)",
+          "subject_2": "Nursing (all)",
+          "subject_combination": "Chemical Engineering (all) + Nursing (all)",
+          "projects": 186,
+          "percent_all_projects": 1.1
+        },
+        {
+          "rank": 325,
+          "subject_1": "Business, Management and Accounting (all)",
+          "subject_2": "Health Professions  (all)",
+          "subject_combination": "Business, Management and Accounting (all) + Health Professions  (all)",
+          "projects": 183,
+          "percent_all_projects": 1.0
+        },
+        {
+          "rank": 326,
+          "subject_1": "Nursing (all)",
+          "subject_2": "Psychology (all)",
+          "subject_combination": "Nursing (all) + Psychology (all)",
+          "projects": 183,
+          "percent_all_projects": 1.0
+        },
+        {
+          "rank": 327,
+          "subject_1": "Dentistry (all)",
+          "subject_2": "Neuroscience (all)",
+          "subject_combination": "Dentistry (all) + Neuroscience (all)",
+          "projects": 180,
+          "percent_all_projects": 1.0
+        },
+        {
+          "rank": 328,
+          "subject_1": "Dentistry (all)",
+          "subject_2": "Environmental Science (all)",
+          "subject_combination": "Dentistry (all) + Environmental Science (all)",
+          "projects": 179,
+          "percent_all_projects": 1.0
+        },
+        {
+          "rank": 329,
+          "subject_1": "Econometrics and Finance (all)",
+          "subject_2": "Economics, Econometrics and Finance (all)",
+          "subject_combination": "Econometrics and Finance (all) + Economics, Econometrics and Finance (all)",
+          "projects": 179,
+          "percent_all_projects": 1.0
+        },
+        {
+          "rank": 330,
+          "subject_1": "Earth and Planetary Sciences (all)",
+          "subject_2": "Health Professions  (all)",
+          "subject_combination": "Earth and Planetary Sciences (all) + Health Professions  (all)",
+          "projects": 178,
+          "percent_all_projects": 1.0
+        },
+        {
+          "rank": 331,
+          "subject_1": "Econometrics and Finance (all)",
+          "subject_2": "Mathematics (all)",
+          "subject_combination": "Econometrics and Finance (all) + Mathematics (all)",
+          "projects": 178,
+          "percent_all_projects": 1.0
+        },
+        {
+          "rank": 332,
+          "subject_1": "Chemistry (all)",
+          "subject_2": "Econometrics and Finance (all)",
+          "subject_combination": "Chemistry (all) + Econometrics and Finance (all)",
+          "projects": 177,
+          "percent_all_projects": 1.0
+        },
+        {
+          "rank": 333,
+          "subject_1": "Energy (all)",
+          "subject_2": "Health Professions  (all)",
+          "subject_combination": "Energy (all) + Health Professions  (all)",
+          "projects": 177,
+          "percent_all_projects": 1.0
+        },
+        {
+          "rank": 334,
+          "subject_1": "Health Professions  (all)",
+          "subject_2": "Immunology and Microbiology (all)",
+          "subject_combination": "Health Professions  (all) + Immunology and Microbiology (all)",
+          "projects": 176,
+          "percent_all_projects": 1.0
+        },
+        {
+          "rank": 335,
+          "subject_1": "Earth and Planetary Sciences (all)",
+          "subject_2": "Nursing (all)",
+          "subject_combination": "Earth and Planetary Sciences (all) + Nursing (all)",
+          "projects": 173,
+          "percent_all_projects": 1.0
+        },
+        {
+          "rank": 336,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Arts and Humanities (all) + Veterinary (all)",
+          "projects": 167,
+          "percent_all_projects": 1.0
+        },
+        {
+          "rank": 337,
+          "subject_1": "Econometrics and Finance (all)",
+          "subject_2": "Materials Science (all)",
+          "subject_combination": "Econometrics and Finance (all) + Materials Science (all)",
+          "projects": 167,
+          "percent_all_projects": 1.0
+        },
+        {
+          "rank": 338,
+          "subject_1": "Psychology (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Psychology (all) + Veterinary (all)",
+          "projects": 167,
+          "percent_all_projects": 1.0
+        },
+        {
+          "rank": 339,
+          "subject_1": "Medicine (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Medicine (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 166,
+          "percent_all_projects": 0.9
+        },
+        {
+          "rank": 340,
+          "subject_1": "Chemical Engineering (all)",
+          "subject_2": "Management and Accounting (all)",
+          "subject_combination": "Chemical Engineering (all) + Management and Accounting (all)",
+          "projects": 165,
+          "percent_all_projects": 0.9
+        },
+        {
+          "rank": 341,
+          "subject_1": "Dentistry (all)",
+          "subject_2": "Immunology and Microbiology (all)",
+          "subject_combination": "Dentistry (all) + Immunology and Microbiology (all)",
+          "projects": 164,
+          "percent_all_projects": 0.9
+        },
+        {
+          "rank": 342,
+          "subject_1": "Earth and Planetary Sciences (all)",
+          "subject_2": "Econometrics and Finance (all)",
+          "subject_combination": "Earth and Planetary Sciences (all) + Econometrics and Finance (all)",
+          "projects": 164,
+          "percent_all_projects": 0.9
+        },
+        {
+          "rank": 343,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Health Professions  (all)",
+          "subject_combination": "Arts and Humanities (all) + Health Professions  (all)",
+          "projects": 150,
+          "percent_all_projects": 0.9
+        },
+        {
+          "rank": 344,
+          "subject_1": "Decision Sciences (all)",
+          "subject_2": "Management and Accounting (all)",
+          "subject_combination": "Decision Sciences (all) + Management and Accounting (all)",
+          "projects": 150,
+          "percent_all_projects": 0.9
+        },
+        {
+          "rank": 345,
+          "subject_1": "Business, Management and Accounting (all)",
+          "subject_2": "Nursing (all)",
+          "subject_combination": "Business, Management and Accounting (all) + Nursing (all)",
+          "projects": 149,
+          "percent_all_projects": 0.9
+        },
+        {
+          "rank": 346,
+          "subject_1": "Business, Management and Accounting (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Business, Management and Accounting (all) + Veterinary (all)",
+          "projects": 149,
+          "percent_all_projects": 0.9
+        },
+        {
+          "rank": 347,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Management and Accounting (all)",
+          "subject_combination": "Arts and Humanities (all) + Management and Accounting (all)",
+          "projects": 148,
+          "percent_all_projects": 0.8
+        },
+        {
+          "rank": 348,
+          "subject_1": "Dentistry (all)",
+          "subject_2": "Energy (all)",
+          "subject_combination": "Dentistry (all) + Energy (all)",
+          "projects": 148,
+          "percent_all_projects": 0.8
+        },
+        {
+          "rank": 349,
+          "subject_1": "Biochemistry, Genetics and Molecular Biology (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Biochemistry, Genetics and Molecular Biology (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 147,
+          "percent_all_projects": 0.8
+        },
+        {
+          "rank": 350,
+          "subject_1": "Management and Accounting (all)",
+          "subject_2": "Psychology (all)",
+          "subject_combination": "Management and Accounting (all) + Psychology (all)",
+          "projects": 146,
+          "percent_all_projects": 0.8
+        },
+        {
+          "rank": 351,
+          "subject_1": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_2": "Psychology (all)",
+          "subject_combination": "Pharmacology, Toxicology and Pharmaceutics (all) + Psychology (all)",
+          "projects": 145,
+          "percent_all_projects": 0.8
+        },
+        {
+          "rank": 352,
+          "subject_1": "Immunology and Microbiology (all)",
+          "subject_2": "Nursing (all)",
+          "subject_combination": "Immunology and Microbiology (all) + Nursing (all)",
+          "projects": 141,
+          "percent_all_projects": 0.8
+        },
+        {
+          "rank": 353,
+          "subject_1": "Management and Accounting (all)",
+          "subject_2": "Neuroscience (all)",
+          "subject_combination": "Management and Accounting (all) + Neuroscience (all)",
+          "projects": 139,
+          "percent_all_projects": 0.8
+        },
+        {
+          "rank": 354,
+          "subject_1": "Energy (all)",
+          "subject_2": "Management and Accounting (all)",
+          "subject_combination": "Energy (all) + Management and Accounting (all)",
+          "projects": 137,
+          "percent_all_projects": 0.8
+        },
+        {
+          "rank": 355,
+          "subject_1": "Econometrics and Finance (all)",
+          "subject_2": "Psychology (all)",
+          "subject_combination": "Econometrics and Finance (all) + Psychology (all)",
+          "projects": 135,
+          "percent_all_projects": 0.8
+        },
+        {
+          "rank": 356,
+          "subject_1": "Dentistry (all)",
+          "subject_2": "Mathematics (all)",
+          "subject_combination": "Dentistry (all) + Mathematics (all)",
+          "projects": 134,
+          "percent_all_projects": 0.8
+        },
+        {
+          "rank": 357,
+          "subject_1": "Energy (all)",
+          "subject_2": "Nursing (all)",
+          "subject_combination": "Energy (all) + Nursing (all)",
+          "projects": 133,
+          "percent_all_projects": 0.8
+        },
+        {
+          "rank": 358,
+          "subject_1": "Economics, Econometrics and Finance (all)",
+          "subject_2": "Health Professions  (all)",
+          "subject_combination": "Economics, Econometrics and Finance (all) + Health Professions  (all)",
+          "projects": 132,
+          "percent_all_projects": 0.8
+        },
+        {
+          "rank": 359,
+          "subject_1": "Chemical Engineering (all)",
+          "subject_2": "Econometrics and Finance (all)",
+          "subject_combination": "Chemical Engineering (all) + Econometrics and Finance (all)",
+          "projects": 131,
+          "percent_all_projects": 0.7
+        },
+        {
+          "rank": 360,
+          "subject_1": "Chemistry (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Chemistry (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 129,
+          "percent_all_projects": 0.7
+        },
+        {
+          "rank": 361,
+          "subject_1": "Engineering (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Engineering (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 129,
+          "percent_all_projects": 0.7
+        },
+        {
+          "rank": 362,
+          "subject_1": "Physics and Astronomy (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Physics and Astronomy (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 128,
+          "percent_all_projects": 0.7
+        },
+        {
+          "rank": 363,
+          "subject_1": "Economics, Econometrics and Finance (all)",
+          "subject_2": "Nursing (all)",
+          "subject_combination": "Economics, Econometrics and Finance (all) + Nursing (all)",
+          "projects": 125,
+          "percent_all_projects": 0.7
+        },
+        {
+          "rank": 364,
+          "subject_1": "Decision Sciences (all)",
+          "subject_2": "Health Professions  (all)",
+          "subject_combination": "Decision Sciences (all) + Health Professions  (all)",
+          "projects": 124,
+          "percent_all_projects": 0.7
+        },
+        {
+          "rank": 365,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Econometrics and Finance (all)",
+          "subject_combination": "Arts and Humanities (all) + Econometrics and Finance (all)",
+          "projects": 121,
+          "percent_all_projects": 0.7
+        },
+        {
+          "rank": 366,
+          "subject_1": "Business, Management and Accounting (all)",
+          "subject_2": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Business, Management and Accounting (all) + Pharmacology, Toxicology and Pharmaceutics (all)",
+          "projects": 121,
+          "percent_all_projects": 0.7
+        },
+        {
+          "rank": 367,
+          "subject_1": "Agricultural and Biological Sciences (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Agricultural and Biological Sciences (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 119,
+          "percent_all_projects": 0.7
+        },
+        {
+          "rank": 368,
+          "subject_1": "Decision Sciences (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Decision Sciences (all) + Veterinary (all)",
+          "projects": 117,
+          "percent_all_projects": 0.7
+        },
+        {
+          "rank": 369,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Nursing (all)",
+          "subject_combination": "Arts and Humanities (all) + Nursing (all)",
+          "projects": 116,
+          "percent_all_projects": 0.7
+        },
+        {
+          "rank": 370,
+          "subject_1": "Economics, Econometrics and Finance (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Economics, Econometrics and Finance (all) + Veterinary (all)",
+          "projects": 115,
+          "percent_all_projects": 0.7
+        },
+        {
+          "rank": 371,
+          "subject_1": "Genetics and Molecular Biology (all)",
+          "subject_2": "Health Professions  (all)",
+          "subject_combination": "Genetics and Molecular Biology (all) + Health Professions  (all)",
+          "projects": 114,
+          "percent_all_projects": 0.7
+        },
+        {
+          "rank": 372,
+          "subject_1": "Dentistry (all)",
+          "subject_2": "Social Sciences (all)",
+          "subject_combination": "Dentistry (all) + Social Sciences (all)",
+          "projects": 113,
+          "percent_all_projects": 0.6
+        },
+        {
+          "rank": 373,
+          "subject_1": "Econometrics and Finance (all)",
+          "subject_2": "Energy (all)",
+          "subject_combination": "Econometrics and Finance (all) + Energy (all)",
+          "projects": 111,
+          "percent_all_projects": 0.6
+        },
+        {
+          "rank": 374,
+          "subject_1": "Immunology and Microbiology (all)",
+          "subject_2": "Management and Accounting (all)",
+          "subject_combination": "Immunology and Microbiology (all) + Management and Accounting (all)",
+          "projects": 109,
+          "percent_all_projects": 0.6
+        },
+        {
+          "rank": 375,
+          "subject_1": "Econometrics and Finance (all)",
+          "subject_2": "Neuroscience (all)",
+          "subject_combination": "Econometrics and Finance (all) + Neuroscience (all)",
+          "projects": 107,
+          "percent_all_projects": 0.6
+        },
+        {
+          "rank": 376,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Arts and Humanities (all) + Pharmacology, Toxicology and Pharmaceutics (all)",
+          "projects": 103,
+          "percent_all_projects": 0.6
+        },
+        {
+          "rank": 377,
+          "subject_1": "Dentistry (all)",
+          "subject_2": "Earth and Planetary Sciences (all)",
+          "subject_combination": "Dentistry (all) + Earth and Planetary Sciences (all)",
+          "projects": 103,
+          "percent_all_projects": 0.6
+        },
+        {
+          "rank": 378,
+          "subject_1": "Chemical Engineering (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Chemical Engineering (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 101,
+          "percent_all_projects": 0.6
+        },
+        {
+          "rank": 379,
+          "subject_1": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Pharmacology, Toxicology and Pharmaceutics (all) + Veterinary (all)",
+          "projects": 96,
+          "percent_all_projects": 0.5
+        },
+        {
+          "rank": 380,
+          "subject_1": "Genetics and Molecular Biology (all)",
+          "subject_2": "Nursing (all)",
+          "subject_combination": "Genetics and Molecular Biology (all) + Nursing (all)",
+          "projects": 95,
+          "percent_all_projects": 0.5
+        },
+        {
+          "rank": 381,
+          "subject_1": "Econometrics and Finance (all)",
+          "subject_2": "Immunology and Microbiology (all)",
+          "subject_combination": "Econometrics and Finance (all) + Immunology and Microbiology (all)",
+          "projects": 93,
+          "percent_all_projects": 0.5
+        },
+        {
+          "rank": 382,
+          "subject_1": "Decision Sciences (all)",
+          "subject_2": "Econometrics and Finance (all)",
+          "subject_combination": "Decision Sciences (all) + Econometrics and Finance (all)",
+          "projects": 90,
+          "percent_all_projects": 0.5
+        },
+        {
+          "rank": 383,
+          "subject_1": "Decision Sciences (all)",
+          "subject_2": "Nursing (all)",
+          "subject_combination": "Decision Sciences (all) + Nursing (all)",
+          "projects": 90,
+          "percent_all_projects": 0.5
+        },
+        {
+          "rank": 384,
+          "subject_1": "Economics, Econometrics and Finance (all)",
+          "subject_2": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Economics, Econometrics and Finance (all) + Pharmacology, Toxicology and Pharmaceutics (all)",
+          "projects": 90,
+          "percent_all_projects": 0.5
+        },
+        {
+          "rank": 385,
+          "subject_1": "Materials Science (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Materials Science (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 90,
+          "percent_all_projects": 0.5
+        },
+        {
+          "rank": 386,
+          "subject_1": "Neuroscience (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Neuroscience (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 89,
+          "percent_all_projects": 0.5
+        },
+        {
+          "rank": 387,
+          "subject_1": "Environmental Science (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Environmental Science (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 87,
+          "percent_all_projects": 0.5
+        },
+        {
+          "rank": 388,
+          "subject_1": "Decision Sciences (all)",
+          "subject_2": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Decision Sciences (all) + Pharmacology, Toxicology and Pharmaceutics (all)",
+          "projects": 86,
+          "percent_all_projects": 0.5
+        },
+        {
+          "rank": 389,
+          "subject_1": "Health Professions  (all)",
+          "subject_2": "Nursing (all)",
+          "subject_combination": "Health Professions  (all) + Nursing (all)",
+          "projects": 86,
+          "percent_all_projects": 0.5
+        },
+        {
+          "rank": 390,
+          "subject_1": "Dentistry (all)",
+          "subject_2": "Genetics and Molecular Biology (all)",
+          "subject_combination": "Dentistry (all) + Genetics and Molecular Biology (all)",
+          "projects": 79,
+          "percent_all_projects": 0.5
+        },
+        {
+          "rank": 391,
+          "subject_1": "Immunology and Microbiology (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Immunology and Microbiology (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 78,
+          "percent_all_projects": 0.4
+        },
+        {
+          "rank": 392,
+          "subject_1": "Computer Science (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Computer Science (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 77,
+          "percent_all_projects": 0.4
+        },
+        {
+          "rank": 393,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Dentistry (all)",
+          "subject_combination": "Arts and Humanities (all) + Dentistry (all)",
+          "projects": 63,
+          "percent_all_projects": 0.4
+        },
+        {
+          "rank": 394,
+          "subject_1": "Business, Management and Accounting (all)",
+          "subject_2": "Dentistry (all)",
+          "subject_combination": "Business, Management and Accounting (all) + Dentistry (all)",
+          "projects": 62,
+          "percent_all_projects": 0.4
+        },
+        {
+          "rank": 395,
+          "subject_1": "Nursing (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Nursing (all) + Veterinary (all)",
+          "projects": 58,
+          "percent_all_projects": 0.3
+        },
+        {
+          "rank": 396,
+          "subject_1": "Mathematics (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Mathematics (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 56,
+          "percent_all_projects": 0.3
+        },
+        {
+          "rank": 397,
+          "subject_1": "Dentistry (all)",
+          "subject_2": "Economics, Econometrics and Finance (all)",
+          "subject_combination": "Dentistry (all) + Economics, Econometrics and Finance (all)",
+          "projects": 52,
+          "percent_all_projects": 0.3
+        },
+        {
+          "rank": 398,
+          "subject_1": "Dentistry (all)",
+          "subject_2": "Psychology (all)",
+          "subject_combination": "Dentistry (all) + Psychology (all)",
+          "projects": 52,
+          "percent_all_projects": 0.3
+        },
+        {
+          "rank": 399,
+          "subject_1": "Energy (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Energy (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 52,
+          "percent_all_projects": 0.3
+        },
+        {
+          "rank": 400,
+          "subject_1": "Health Professions  (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Health Professions  (all) + Veterinary (all)",
+          "projects": 52,
+          "percent_all_projects": 0.3
+        },
+        {
+          "rank": 401,
+          "subject_1": "Earth and Planetary Sciences (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Earth and Planetary Sciences (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 47,
+          "percent_all_projects": 0.3
+        },
+        {
+          "rank": 402,
+          "subject_1": "Dentistry (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Dentistry (all) + Veterinary (all)",
+          "projects": 45,
+          "percent_all_projects": 0.3
+        },
+        {
+          "rank": 403,
+          "subject_1": "Decision Sciences (all)",
+          "subject_2": "Dentistry (all)",
+          "subject_combination": "Decision Sciences (all) + Dentistry (all)",
+          "projects": 42,
+          "percent_all_projects": 0.2
+        },
+        {
+          "rank": 404,
+          "subject_1": "Management and Accounting (all)",
+          "subject_2": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Management and Accounting (all) + Pharmacology, Toxicology and Pharmaceutics (all)",
+          "projects": 42,
+          "percent_all_projects": 0.2
+        },
+        {
+          "rank": 405,
+          "subject_1": "Social Sciences (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Social Sciences (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 40,
+          "percent_all_projects": 0.2
+        },
+        {
+          "rank": 406,
+          "subject_1": "Dentistry (all)",
+          "subject_2": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Dentistry (all) + Pharmacology, Toxicology and Pharmaceutics (all)",
+          "projects": 38,
+          "percent_all_projects": 0.2
+        },
+        {
+          "rank": 407,
+          "subject_1": "Genetics and Molecular Biology (all)",
+          "subject_2": "Management and Accounting (all)",
+          "subject_combination": "Genetics and Molecular Biology (all) + Management and Accounting (all)",
+          "projects": 38,
+          "percent_all_projects": 0.2
+        },
+        {
+          "rank": 408,
+          "subject_1": "Health Professions  (all)",
+          "subject_2": "Management and Accounting (all)",
+          "subject_combination": "Health Professions  (all) + Management and Accounting (all)",
+          "projects": 36,
+          "percent_all_projects": 0.2
+        },
+        {
+          "rank": 409,
+          "subject_1": "Psychology (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Psychology (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 34,
+          "percent_all_projects": 0.2
+        },
+        {
+          "rank": 410,
+          "subject_1": "Management and Accounting (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Management and Accounting (all) + Veterinary (all)",
+          "projects": 33,
+          "percent_all_projects": 0.2
+        },
+        {
+          "rank": 411,
+          "subject_1": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Pharmacology, Toxicology and Pharmaceutics (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 33,
+          "percent_all_projects": 0.2
+        },
+        {
+          "rank": 412,
+          "subject_1": "Dentistry (all)",
+          "subject_2": "Health Professions  (all)",
+          "subject_combination": "Dentistry (all) + Health Professions  (all)",
+          "projects": 32,
+          "percent_all_projects": 0.2
+        },
+        {
+          "rank": 413,
+          "subject_1": "Nursing (all)",
+          "subject_2": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Nursing (all) + Pharmacology, Toxicology and Pharmaceutics (all)",
+          "projects": 31,
+          "percent_all_projects": 0.2
+        },
+        {
+          "rank": 414,
+          "subject_1": "Econometrics and Finance (all)",
+          "subject_2": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Econometrics and Finance (all) + Pharmacology, Toxicology and Pharmaceutics (all)",
+          "projects": 29,
+          "percent_all_projects": 0.2
+        },
+        {
+          "rank": 415,
+          "subject_1": "Health Professions  (all)",
+          "subject_2": "Pharmacology, Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Health Professions  (all) + Pharmacology, Toxicology and Pharmaceutics (all)",
+          "projects": 29,
+          "percent_all_projects": 0.2
+        },
+        {
+          "rank": 416,
+          "subject_1": "Econometrics and Finance (all)",
+          "subject_2": "Genetics and Molecular Biology (all)",
+          "subject_combination": "Econometrics and Finance (all) + Genetics and Molecular Biology (all)",
+          "projects": 28,
+          "percent_all_projects": 0.2
+        },
+        {
+          "rank": 417,
+          "subject_1": "Econometrics and Finance (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Econometrics and Finance (all) + Veterinary (all)",
+          "projects": 28,
+          "percent_all_projects": 0.2
+        },
+        {
+          "rank": 418,
+          "subject_1": "Management and Accounting (all)",
+          "subject_2": "Nursing (all)",
+          "subject_combination": "Management and Accounting (all) + Nursing (all)",
+          "projects": 27,
+          "percent_all_projects": 0.2
+        },
+        {
+          "rank": 419,
+          "subject_1": "Decision Sciences (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Decision Sciences (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 25,
+          "percent_all_projects": 0.1
+        },
+        {
+          "rank": 420,
+          "subject_1": "Arts and Humanities (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Arts and Humanities (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 24,
+          "percent_all_projects": 0.1
+        },
+        {
+          "rank": 421,
+          "subject_1": "Business, Management and Accounting (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Business, Management and Accounting (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 22,
+          "percent_all_projects": 0.1
+        },
+        {
+          "rank": 422,
+          "subject_1": "Dentistry (all)",
+          "subject_2": "Nursing (all)",
+          "subject_combination": "Dentistry (all) + Nursing (all)",
+          "projects": 21,
+          "percent_all_projects": 0.1
+        },
+        {
+          "rank": 423,
+          "subject_1": "Toxicology and Pharmaceutics (all)",
+          "subject_2": "Veterinary (all)",
+          "subject_combination": "Toxicology and Pharmaceutics (all) + Veterinary (all)",
+          "projects": 21,
+          "percent_all_projects": 0.1
+        },
+        {
+          "rank": 424,
+          "subject_1": "Econometrics and Finance (all)",
+          "subject_2": "Health Professions  (all)",
+          "subject_combination": "Econometrics and Finance (all) + Health Professions  (all)",
+          "projects": 20,
+          "percent_all_projects": 0.1
+        },
+        {
+          "rank": 425,
+          "subject_1": "Econometrics and Finance (all)",
+          "subject_2": "Nursing (all)",
+          "subject_combination": "Econometrics and Finance (all) + Nursing (all)",
+          "projects": 20,
+          "percent_all_projects": 0.1
+        },
+        {
+          "rank": 426,
+          "subject_1": "Economics, Econometrics and Finance (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Economics, Econometrics and Finance (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 16,
+          "percent_all_projects": 0.1
+        },
+        {
+          "rank": 427,
+          "subject_1": "Health Professions  (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Health Professions  (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 14,
+          "percent_all_projects": 0.1
+        },
+        {
+          "rank": 428,
+          "subject_1": "Dentistry (all)",
+          "subject_2": "Management and Accounting (all)",
+          "subject_combination": "Dentistry (all) + Management and Accounting (all)",
+          "projects": 12,
+          "percent_all_projects": 0.1
+        },
+        {
+          "rank": 429,
+          "subject_1": "Econometrics and Finance (all)",
+          "subject_2": "Management and Accounting (all)",
+          "subject_combination": "Econometrics and Finance (all) + Management and Accounting (all)",
+          "projects": 12,
+          "percent_all_projects": 0.1
+        },
+        {
+          "rank": 430,
+          "subject_1": "Genetics and Molecular Biology (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Genetics and Molecular Biology (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 12,
+          "percent_all_projects": 0.1
+        },
+        {
+          "rank": 431,
+          "subject_1": "Nursing (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Nursing (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 12,
+          "percent_all_projects": 0.1
+        },
+        {
+          "rank": 432,
+          "subject_1": "Dentistry (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Dentistry (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 11,
+          "percent_all_projects": 0.1
+        },
+        {
+          "rank": 433,
+          "subject_1": "Dentistry (all)",
+          "subject_2": "Econometrics and Finance (all)",
+          "subject_combination": "Dentistry (all) + Econometrics and Finance (all)",
+          "projects": 10,
+          "percent_all_projects": 0.1
+        },
+        {
+          "rank": 434,
+          "subject_1": "Econometrics and Finance (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Econometrics and Finance (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 2,
+          "percent_all_projects": 0.0
+        },
+        {
+          "rank": 435,
+          "subject_1": "Management and Accounting (all)",
+          "subject_2": "Toxicology and Pharmaceutics (all)",
+          "subject_combination": "Management and Accounting (all) + Toxicology and Pharmaceutics (all)",
+          "projects": 2,
+          "percent_all_projects": 0.0
+        }
+      ]
+    }
+  },
+  "rq2": {
+    "award_recipient_dimensions": {
+      "research2025_status": {
+        "missing_in_source": 12726,
+        "research_tier_recorded": 11549,
+        "no_research_designation": 473
+      },
+      "research2025_value": {
+        "-99": 12726,
+        "1": 10127,
+        "2": 888,
+        "-2": 473,
+        "3": 534
+      },
+      "control_description": {
+        "not found": 12726,
+        "Private not-for-profit": 4711,
+        "Public": 7311
+      },
+      "ic2025size_description": {
+        "not found": 12726,
+        "Very Large": 3079,
+        "Medium": 3207,
+        "Large": 5081,
+        "Small": 644,
+        "Very Small": 11
+      },
+      "setting2025_description": {
+        "not found": 12726,
+        "Primarily residential": 4716,
+        "Residential": 2291,
+        "Highly residental": 4551,
+        "Online and on-campus learning": 22,
+        "Primarily non-residential": 230,
+        "Mostly part-time, not residential": 91,
+        "Mostly full-time, not residential": 68,
+        "Graduate-focused": 52,
+        "Primarily online": 1
+      }
+    },
+    "verified_recipient_dimensions": {
+      "control_description": {
+        "Private not-for-profit": 4699,
+        "Public": 7308,
+        "not found": 6260
+      },
+      "ic2025size_description": {
+        "Very Large": 3079,
+        "Medium": 3206,
+        "Large": 5080,
+        "not found": 6260,
+        "Small": 631,
+        "Very Small": 11
+      },
+      "setting2025_description": {
+        "Primarily residential": 4716,
+        "Residential": 2291,
+        "not found": 6260,
+        "Highly residental": 4541,
+        "Online and on-campus learning": 22,
+        "Primarily non-residential": 230,
+        "Mostly part-time, not residential": 89,
+        "Mostly full-time, not residential": 67,
+        "Graduate-focused": 50,
+        "Primarily online": 1
+      }
+    }
+  },
+  "rq3": {
+    "person_activity_histogram": {
+      "1": 20448,
+      "2": 5427,
+      "3": 2324,
+      "4": 1048,
+      "5": 484,
+      "6": 256,
+      "7": 118,
+      "8": 50,
+      "9": 34,
+      "10": 21,
+      "11": 20,
+      "12": 2,
+      "13": 5,
+      "15": 1,
+      "21": 1
+    },
+    "person_role_coverage": {
+      "any Co-PI": 17790,
+      "any PI": 15743,
+      "former only": 1072
+    },
+    "median_distinct_collaborators": 3,
+    "people_with_more_than_one_project": 9791,
+    "people_with_program_element_in_any_project": 30200
+  }
+}

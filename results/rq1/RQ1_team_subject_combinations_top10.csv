@@ -1,0 +1,11 @@
+﻿rank,subject_1,subject_2,subject_combination,projects,percent_all_projects
+1,Engineering (all),Medicine (all),Engineering (all) + Medicine (all),9351,53.4
+2,"Biochemistry, Genetics and Molecular Biology (all)",Medicine (all),"Biochemistry, Genetics and Molecular Biology (all) + Medicine (all)",8611,49.2
+3,Medicine (all),Physics and Astronomy (all),Medicine (all) + Physics and Astronomy (all),8249,47.1
+4,Chemistry (all),Medicine (all),Chemistry (all) + Medicine (all),7720,44.1
+5,Engineering (all),Physics and Astronomy (all),Engineering (all) + Physics and Astronomy (all),7042,40.2
+6,"Biochemistry, Genetics and Molecular Biology (all)",Engineering (all),"Biochemistry, Genetics and Molecular Biology (all) + Engineering (all)",6984,39.9
+7,Environmental Science (all),Medicine (all),Environmental Science (all) + Medicine (all),6641,37.9
+8,Agricultural and Biological Sciences (all),Medicine (all),Agricultural and Biological Sciences (all) + Medicine (all),6458,36.9
+9,Chemistry (all),Engineering (all),Chemistry (all) + Engineering (all),6455,36.9
+10,Computer Science (all),Medicine (all),Computer Science (all) + Medicine (all),6269,35.8

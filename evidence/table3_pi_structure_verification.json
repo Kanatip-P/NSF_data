@@ -1,0 +1,16 @@
+{
+  "checked_utc": "2026-10-29T04:30:46.610867+00:00",
+  "database": "nsf-project-workon-enriched",
+  "query": "MATCH (p:Project)-[:HAS_AWARD]->(a:Award)\nWITH p, count(DISTINCT a) AS awards\nMATCH (person:Person)-[w:WORK_ON]->(p)\nWITH p, awards, count(DISTINCT CASE WHEN w.role='PI' THEN person END) AS pi\nWHERE pi>1\nRETURN CASE WHEN awards=1 THEN 'single_award' ELSE 'multi_award' END AS structure,\ncount(*) AS projects ORDER BY structure",
+  "results": [
+    {
+      "structure": "multi_award",
+      "projects": 5112
+    },
+    {
+      "structure": "single_award",
+      "projects": 220
+    }
+  ],
+  "passed": true
+}

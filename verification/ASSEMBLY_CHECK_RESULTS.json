@@ -1,0 +1,305 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "check": "Prepared snapshot projects",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Prepared snapshot people",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Prepared snapshot awards",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Prepared snapshot universities",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Prepared snapshot work_on",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Prepared snapshot has_award",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Prepared snapshot investigator_on",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Prepared snapshot hosted_by",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Prepared snapshot program_elements",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Prepared snapshot has_program_element",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Prepared snapshot program_references",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Prepared snapshot has_program_reference",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Declared cohort sizes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "No credential fields in prepared graph exports",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "RQ1 full subject ranking and coverage",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "RQ1 top-ten CSV matches computed ranking",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "RQ1 complete CSV matches computed ranking",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Portable offline recomputation analyze_rqs.py",
+      "passed": true,
+      "detail": "Exact archived JSON match"
+    },
+    {
+      "check": "Portable offline recomputation analyze_cohort.py",
+      "passed": true,
+      "detail": "Exact archived JSON match"
+    },
+    {
+      "check": "Archived core evidence passed eleven comparisons",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact executed core Cypher preserved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact crosswalk preserved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact Carnegie workbook preserved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Supplemental live evidence passed on the same enriched database",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Six baseline result tables match archived live query rows",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "RQ1 funding table matches live amounts and offline durations",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "RQ2 verified classification totals",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "RQ2 classification subset and full-award denominator",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "RQ2 parameters reproduce the reviewed crosswalk",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Award and project roster layers reconcile",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "RQ3 all-person export",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "RQ3 independent all-person activity, degree, normalization and Decimal funding",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "RQ3 independently derived award edges and repeat strengths",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "award degree and component identities",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "award eigenvector convergence",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "award top-ten export degree",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "award top-ten export betweenness",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "award top-ten export eigenvector",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "award top-ten export award_participation",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "award top-ten export funding",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "grouped_project degree and component identities",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "grouped_project eigenvector convergence",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "grouped_project top-ten export degree",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "grouped_project top-ten export betweenness",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "grouped_project top-ten export eigenvector",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "grouped_project top-ten export award_participation",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "grouped_project top-ten export funding",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "RQ3 eigenvector equation independently checked from exported values",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Historical full-person grouped centralities reproduced",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Archived supplemental graph verification passed",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "No manuscript or office document files in repository",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Every file below GitHub browser limit of 25 MiB",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "No hardcoded credential assignments",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "No workstation user paths",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "All Python scripts compile",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Local Markdown links resolve",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Execute analysis/analyze_rq2.py",
+      "passed": true,
+      "detail": "{\n  \"source\": \"prepared recipient and award links plus archived Carnegie workbook\",\n  \"verified_recipient_identities\": 612,\n  \"classified_awards\": 18267,\n  \"class_awards\": {\n    \"1\": 16137,\n    \"-2\": 474,\n    \"3\": 568,\n    \"2\": 1088\n  },\n  \"outside_subset_awards\": 6481,\n  \"workbook_exceptions\": [\n    {\n      \"verified_unitid\": \"228778\",\n      \"name\": \"University of Texas at Austin\",\n      \"workbook_unitid\": \"F\"\n    }\n  ],\n  \"archived_crosswalk_matches\": true\n}\n"
+    },
+    {
+      "check": "Execute analysis/test_subject_combinations.py",
+      "passed": true,
+      "detail": "....\n----------------------------------------------------------------------\nRan 4 tests in 0.000s\n\nOK\n"
+    },
+    {
+      "check": "Execute analysis/verify_award_centrality.py",
+      "passed": true,
+      "detail": "31 verification checks passed.\n"
+    }
+  ],
+  "check_count": 59,
+  "database_connection_used": false,
+  "centrality_recomputed_during_assembly": true,
+  "fresh_centrality_summary_timestamp": "2026-11-02T00:12:28.608683+00:00",
+  "assembly_note": "Both exact network projections were freshly calculated from this folder before the final full verification."
+}

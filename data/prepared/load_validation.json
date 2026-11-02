@@ -1,0 +1,21 @@
+{
+  "database": "nsf-project-workon-enriched",
+  "source_counts": {
+    "selected_projects_in_window": 17503,
+    "selected_work_on_in_window": 36027,
+    "original_universities": 26440,
+    "original_awards_in_window": 126282
+  },
+  "target_counts": {
+    "projects": 17503,
+    "people": 30239,
+    "awards": 24748,
+    "universities": 1374,
+    "work_on": 48509,
+    "has_award": 24748,
+    "investigator_on": 73212,
+    "hosted_by": 24748,
+    "eligible_projects": 17487
+  },
+  "status": "PASS"
+}

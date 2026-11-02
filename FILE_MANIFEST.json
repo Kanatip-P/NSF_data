@@ -8,8 +8,8 @@
     },
     {
       "path": ".gitattributes",
-      "bytes": 61,
-      "sha256": "ac774eb669f50866617e70163b28b623becc5932dc7a33086a70bf5c57fdad72"
+      "bytes": 134,
+      "sha256": "c2f5ab761e3190cdfe39a346b181d10bdaa2b4f8b433ab75091b6a2f499bf23d"
     },
     {
       "path": ".gitignore",
@@ -213,8 +213,8 @@
     },
     {
       "path": "docs/UPLOAD_TO_GITHUB.md",
-      "bytes": 2245,
-      "sha256": "5023f71b2d6cc00393e11cfb82c1310c7fc20ec329d1b200c91650a2d08bce1b"
+      "bytes": 2340,
+      "sha256": "c97bca9b38c8acee2b3d2050dd9eab4112d035dbf600595316c2f21d8e4c017a"
     },
     {
       "path": "evidence/cohort_analysis_reference.json",
@@ -308,8 +308,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3769,
-      "sha256": "0ff1af7a2e7c42b3b7ca4f57c1442cf74353e4168e16c47c3f4f5342906f55c0"
+      "bytes": 3777,
+      "sha256": "051dba674bc88532d203f43c319f0fbe8545ae0bf8a0ef1b6fe6692dc1383fd6"
     },
     {
       "path": "requirements-live.txt",

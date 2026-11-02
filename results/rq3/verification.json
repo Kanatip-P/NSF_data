@@ -1,0 +1,130 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "check": "Seven synthetic graph/funding/ranking regression tests",
+      "passed": true
+    },
+    {
+      "check": "Input hash people",
+      "passed": true
+    },
+    {
+      "check": "Input hash awards",
+      "passed": true
+    },
+    {
+      "check": "Input hash projects",
+      "passed": true
+    },
+    {
+      "check": "Input hash investigator_on",
+      "passed": true
+    },
+    {
+      "check": "Input hash work_on",
+      "passed": true
+    },
+    {
+      "check": "Input hash has_award",
+      "passed": true
+    },
+    {
+      "check": "All award owners unique and present",
+      "passed": true
+    },
+    {
+      "check": "Project membership equals union of owned award rosters",
+      "passed": true
+    },
+    {
+      "check": "All 30,239 source IDs retained once",
+      "passed": true
+    },
+    {
+      "check": "Independent per-person awards, projects, neighbors and Decimal funding sums",
+      "passed": true
+    },
+    {
+      "check": "Independent award edge count",
+      "passed": true
+    },
+    {
+      "check": "Grouped degree and exact betweenness reproduce historical full-person export",
+      "passed": true
+    },
+    {
+      "check": "award graph is simple with reconciled degree and components",
+      "passed": true
+    },
+    {
+      "check": "award LCC connected and eigenvector residual below 1e-9",
+      "passed": true
+    },
+    {
+      "check": "award edge endpoints and repeat counts",
+      "passed": true
+    },
+    {
+      "check": "award top ten degree",
+      "passed": true
+    },
+    {
+      "check": "award top ten betweenness",
+      "passed": true
+    },
+    {
+      "check": "award top ten eigenvector",
+      "passed": true
+    },
+    {
+      "check": "award top ten award_participation",
+      "passed": true
+    },
+    {
+      "check": "award top ten funding",
+      "passed": true
+    },
+    {
+      "check": "grouped_project graph is simple with reconciled degree and components",
+      "passed": true
+    },
+    {
+      "check": "grouped_project LCC connected and eigenvector residual below 1e-9",
+      "passed": true
+    },
+    {
+      "check": "grouped_project edge endpoints and repeat counts",
+      "passed": true
+    },
+    {
+      "check": "grouped_project top ten degree",
+      "passed": true
+    },
+    {
+      "check": "grouped_project top ten betweenness",
+      "passed": true
+    },
+    {
+      "check": "grouped_project top ten eigenvector",
+      "passed": true
+    },
+    {
+      "check": "grouped_project top ten award_participation",
+      "passed": true
+    },
+    {
+      "check": "grouped_project top ten funding",
+      "passed": true
+    },
+    {
+      "check": "Ego figure retains focal node and all neighbors",
+      "passed": true
+    },
+    {
+      "check": "Ego figure retains all induced edges",
+      "passed": true
+    }
+  ],
+  "regression_test_output": ".......\n----------------------------------------------------------------------\nRan 7 tests in 0.002s\n\nOK"
+}

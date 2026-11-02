@@ -1,0 +1,11 @@
+﻿measure_1,measure_2,people,spearman_rho
+degree,betweenness,30239,0.6101888462877788
+degree,eigenvector,15572,0.30739496916051096
+degree,award_participation,30239,0.5710040691006136
+degree,funding,30239,0.5699832031441562
+betweenness,eigenvector,15572,0.1813840181500378
+betweenness,award_participation,30239,0.6939265677321298
+betweenness,funding,30239,0.5139287387073341
+eigenvector,award_participation,15572,0.2350740950902481
+eigenvector,funding,15572,0.1650163581090931
+award_participation,funding,30239,0.5963586920499407

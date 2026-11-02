@@ -1,0 +1,444 @@
+{
+  "checked_utc": "2026-10-29T18:59:54.442577+00:00",
+  "database": "nsf-project-workon-enriched",
+  "query_file_sha256": "6eaa23cfeba8bead7f5a618155aca3109ea7524d78c064dfe1a1de51a49b1749",
+  "crosswalk_sha256": "c871eb517f203df95f38c1f5ace78f3237ba02173cced25cc182d8ea61682e9f",
+  "workbook_sha256": "c867a2443f739678fff639ed7f84870c12da2addbc8cab421c04ca5c9c2e4232",
+  "mapping_recipients": 612,
+  "results": {
+    "Q01_POPULATION": [
+      {
+        "label": "Award",
+        "n": 24748
+      },
+      {
+        "label": "Person",
+        "n": 30239
+      },
+      {
+        "label": "ProgramElement",
+        "n": 552
+      },
+      {
+        "label": "ProgramReference",
+        "n": 959
+      },
+      {
+        "label": "Project",
+        "n": 17503
+      },
+      {
+        "label": "University",
+        "n": 1374
+      }
+    ],
+    "Q02_AWARD_LINKS": [
+      {
+        "awards": 24748,
+        "invalid_owner_count": 0,
+        "invalid_recipient_count": 0
+      }
+    ],
+    "Q03_TEAM_AMOUNTS": [
+      {
+        "team": "multiple PIs and Co-PIs",
+        "projects": 2067,
+        "amount_n": 2067,
+        "median_amount": 701379.0
+      },
+      {
+        "team": "multiple PIs no Co-PI",
+        "projects": 3265,
+        "amount_n": 3265,
+        "median_amount": 508887.0
+      },
+      {
+        "team": "one PI multiple Co-PIs",
+        "projects": 4059,
+        "amount_n": 4057,
+        "median_amount": 464102.0
+      },
+      {
+        "team": "one PI no Co-PI",
+        "projects": 472,
+        "amount_n": 472,
+        "median_amount": 461928.0
+      },
+      {
+        "team": "one PI one Co-PI",
+        "projects": 7640,
+        "amount_n": 7628,
+        "median_amount": 299818.0
+      }
+    ],
+    "Q04_PERSON_ACTIVITY": [
+      {
+        "projects": 1,
+        "people": 20448
+      },
+      {
+        "projects": 2,
+        "people": 5427
+      },
+      {
+        "projects": 3,
+        "people": 2324
+      },
+      {
+        "projects": 4,
+        "people": 1048
+      },
+      {
+        "projects": 5,
+        "people": 484
+      },
+      {
+        "projects": 6,
+        "people": 256
+      },
+      {
+        "projects": 7,
+        "people": 118
+      },
+      {
+        "projects": 8,
+        "people": 50
+      },
+      {
+        "projects": 9,
+        "people": 34
+      },
+      {
+        "projects": 10,
+        "people": 21
+      },
+      {
+        "projects": 11,
+        "people": 20
+      },
+      {
+        "projects": 12,
+        "people": 2
+      },
+      {
+        "projects": 13,
+        "people": 5
+      },
+      {
+        "projects": 15,
+        "people": 1
+      },
+      {
+        "projects": 21,
+        "people": 1
+      }
+    ],
+    "Q05_RAW_RECIPIENT_CODES": [
+      {
+        "raw_code": -99,
+        "awards": 12726
+      },
+      {
+        "raw_code": -2,
+        "awards": 473
+      },
+      {
+        "raw_code": 1,
+        "awards": 10127
+      },
+      {
+        "raw_code": 2,
+        "awards": 888
+      },
+      {
+        "raw_code": 3,
+        "awards": 534
+      }
+    ],
+    "Q06_VERIFIED_ID_RECOVERY": [
+      {
+        "identity": "outside_classified_subset",
+        "raw_status": "populated_raw_code",
+        "recipients": 8,
+        "awards": 15
+      },
+      {
+        "identity": "outside_classified_subset",
+        "raw_status": "unpopulated_raw_code",
+        "recipients": 754,
+        "awards": 6466
+      },
+      {
+        "identity": "verified_id",
+        "raw_status": "populated_raw_code",
+        "recipients": 556,
+        "awards": 12007
+      },
+      {
+        "identity": "verified_id",
+        "raw_status": "unpopulated_raw_code",
+        "recipients": 56,
+        "awards": 6260
+      }
+    ],
+    "Q07_VERIFIED_OFFICIAL_CLASSIFICATION": [
+      {
+        "research_code": -2,
+        "awards": 474,
+        "recipients": 277
+      },
+      {
+        "research_code": 1,
+        "awards": 16137,
+        "recipients": 136
+      },
+      {
+        "research_code": 2,
+        "awards": 1088,
+        "recipients": 85
+      },
+      {
+        "research_code": 3,
+        "awards": 568,
+        "recipients": 114
+      }
+    ],
+    "Q08_PROFILE_AND_PROGRAM_COVERAGE": [
+      {
+        "metric": "usable_people",
+        "n": 25978
+      },
+      {
+        "metric": "eligible_projects",
+        "n": 17487
+      },
+      {
+        "metric": "projects_with_element",
+        "n": 17473
+      },
+      {
+        "metric": "projects_with_reference",
+        "n": 15646
+      }
+    ],
+    "Q09_RELATIONSHIP_COUNTS": [
+      {
+        "relationship": "HAS_AWARD",
+        "n": 24748
+      },
+      {
+        "relationship": "HAS_PROGRAM_ELEMENT",
+        "n": 23296
+      },
+      {
+        "relationship": "HAS_PROGRAM_REFERENCE",
+        "n": 40626
+      },
+      {
+        "relationship": "HOSTED_BY",
+        "n": 24748
+      },
+      {
+        "relationship": "INVESTIGATOR_ON",
+        "n": 73212
+      },
+      {
+        "relationship": "WORK_ON",
+        "n": 48509
+      }
+    ]
+  },
+  "checks": [
+    {
+      "name": "population",
+      "actual": {
+        "Award": 24748,
+        "Person": 30239,
+        "ProgramElement": 552,
+        "ProgramReference": 959,
+        "Project": 17503,
+        "University": 1374
+      },
+      "expected": {
+        "Award": 24748,
+        "Person": 30239,
+        "Project": 17503,
+        "University": 1374,
+        "ProgramElement": 552,
+        "ProgramReference": 959
+      },
+      "passed": true
+    },
+    {
+      "name": "exactly_one_owner_and_recipient",
+      "actual": [
+        {
+          "awards": 24748,
+          "invalid_owner_count": 0,
+          "invalid_recipient_count": 0
+        }
+      ],
+      "expected": [
+        {
+          "awards": 24748,
+          "invalid_owner_count": 0,
+          "invalid_recipient_count": 0
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "team_counts",
+      "actual": {
+        "multiple PIs and Co-PIs": 2067,
+        "multiple PIs no Co-PI": 3265,
+        "one PI multiple Co-PIs": 4059,
+        "one PI no Co-PI": 472,
+        "one PI one Co-PI": 7640
+      },
+      "expected": {
+        "one PI one Co-PI": 7640,
+        "one PI no Co-PI": 472,
+        "one PI multiple Co-PIs": 4059,
+        "multiple PIs no Co-PI": 3265,
+        "multiple PIs and Co-PIs": 2067
+      },
+      "passed": true
+    },
+    {
+      "name": "team_amount_denominators",
+      "actual": {
+        "multiple PIs and Co-PIs": 2067,
+        "multiple PIs no Co-PI": 3265,
+        "one PI multiple Co-PIs": 4057,
+        "one PI no Co-PI": 472,
+        "one PI one Co-PI": 7628
+      },
+      "expected": {
+        "one PI one Co-PI": 7628,
+        "one PI no Co-PI": 472,
+        "one PI multiple Co-PIs": 4057,
+        "multiple PIs no Co-PI": 3265,
+        "multiple PIs and Co-PIs": 2067
+      },
+      "passed": true
+    },
+    {
+      "name": "team_amount_medians",
+      "actual": {
+        "multiple PIs and Co-PIs": 701379.0,
+        "multiple PIs no Co-PI": 508887.0,
+        "one PI multiple Co-PIs": 464102.0,
+        "one PI no Co-PI": 461928.0,
+        "one PI one Co-PI": 299818.0
+      },
+      "expected": {
+        "one PI one Co-PI": 299818.0,
+        "one PI no Co-PI": 461928.0,
+        "one PI multiple Co-PIs": 464102.0,
+        "multiple PIs no Co-PI": 508887.0,
+        "multiple PIs and Co-PIs": 701379.0
+      },
+      "passed": true
+    },
+    {
+      "name": "all_person_activity",
+      "actual": {
+        "1": 20448,
+        "2": 5427,
+        "3": 2324,
+        "4": 1048,
+        "5": 484,
+        "6": 256,
+        "7": 118,
+        "8": 50,
+        "9": 34,
+        "10": 21,
+        "11": 20,
+        "12": 2,
+        "13": 5,
+        "15": 1,
+        "21": 1
+      },
+      "expected": {
+        "1": 20448,
+        "2": 5427,
+        "3": 2324,
+        "4": 1048,
+        "5": 484,
+        "6": 256,
+        "7": 118,
+        "8": 50,
+        "9": 34,
+        "10": 21,
+        "11": 20,
+        "12": 2,
+        "13": 5,
+        "15": 1,
+        "21": 1
+      },
+      "passed": true
+    },
+    {
+      "name": "verified_official_awards",
+      "actual": {
+        "-2": 474,
+        "1": 16137,
+        "2": 1088,
+        "3": 568
+      },
+      "expected": {
+        "1": 16137,
+        "2": 1088,
+        "3": 568,
+        "-2": 474
+      },
+      "passed": true
+    },
+    {
+      "name": "verified_award_total",
+      "actual": 18267,
+      "expected": 18267,
+      "passed": true
+    },
+    {
+      "name": "raw_code_award_total",
+      "actual": 24748,
+      "expected": 24748,
+      "passed": true
+    },
+    {
+      "name": "recoverable_raw_codes",
+      "actual": [
+        [
+          56,
+          6260
+        ]
+      ],
+      "expected": [
+        [
+          56,
+          6260
+        ]
+      ],
+      "passed": true
+    },
+    {
+      "name": "profile_program_coverage",
+      "actual": {
+        "usable_people": 25978,
+        "eligible_projects": 17487,
+        "projects_with_element": 17473,
+        "projects_with_reference": 15646
+      },
+      "expected": {
+        "usable_people": 25978,
+        "eligible_projects": 17487,
+        "projects_with_element": 17473,
+        "projects_with_reference": 15646
+      },
+      "passed": true
+    }
+  ],
+  "passed": true
+}

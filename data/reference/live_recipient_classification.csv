@@ -1,0 +1,1375 @@
+﻿recipient,awards,source_key,verified_unitid,raw_research,official_name,official_research,status
+University of Colorado at Boulder,514,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:225,126614,-99,University of Colorado Boulder,1,verified_unitid_raw_missing
+Purdue University,513,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1392,243780,-99,Purdue University-Main Campus,1,verified_unitid_raw_missing
+Pennsylvania State Univ University Park,449,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:417,214777,-99,Pennsylvania State University-Main Campus,1,verified_unitid_raw_missing
+Regents of the University of Michigan - Ann Arbor,411,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:104,170976,-99,University of Michigan-Ann Arbor,1,verified_unitid_raw_missing
+University of Washington,384,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:678,236948,-99,University of Washington-Seattle Campus,1,verified_unitid_raw_missing
+Virginia Polytechnic Institute and State University,352,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:504,233921,1,Virginia Polytechnic Institute and State University,1,verified_unitid_raw_recorded
+Georgia Tech Research Corporation,345,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38,139755,-99,Georgia Institute of Technology-Main Campus,1,verified_unitid_raw_missing
+University of Illinois at Urbana-Champaign,337,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:43,145637,-99,University of Illinois Urbana-Champaign,1,verified_unitid_raw_missing
+Arizona State University,331,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:76,,-99,,,unresolved_identity
+Columbia University,323,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:58,190150,-99,Columbia University in the City of New York,1,verified_unitid_raw_missing
+University of Texas at Austin,308,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:13,228778,-99,The University of Texas at Austin,1,verified_unitid_raw_missing
+University of Wisconsin-Madison,301,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:451,240444,1,University of Wisconsin-Madison,1,verified_unitid_raw_recorded
+Ohio State University,265,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2940,,-99,,,unresolved_identity
+Rutgers University New Brunswick,251,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:158,186380,-99,Rutgers University-New Brunswick,1,verified_unitid_raw_missing
+University of Hawaii,251,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:644,,-99,,,unresolved_identity
+University of Florida,250,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1,134130,1,University of Florida,1,verified_unitid_raw_recorded
+University of Massachusetts Amherst,250,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:353,166629,-99,University of Massachusetts-Amherst,1,verified_unitid_raw_missing
+University of California-Berkeley,249,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:217,110635,1,University of California-Berkeley,1,verified_unitid_raw_recorded
+Cornell University,247,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:184,190415,1,Cornell University,1,verified_unitid_raw_recorded
+University of Minnesota-Twin Cities,246,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:83,174066,1,University of Minnesota-Twin Cities,1,verified_unitid_raw_recorded
+Massachusetts Institute of Technology,237,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:380,166683,1,Massachusetts Institute of Technology,1,verified_unitid_raw_recorded
+Carnegie-Mellon University,234,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:583,211440,-99,Carnegie Mellon University,1,verified_unitid_raw_missing
+North Carolina State University,233,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:7,199193,-99,North Carolina State University at Raleigh,1,verified_unitid_raw_missing
+University of Arizona,233,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:334,104179,1,University of Arizona,1,verified_unitid_raw_recorded
+Woods Hole Oceanographic Institution,226,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:666,,-99,,,unresolved_identity
+"University of Maryland, College Park",225,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:532,163286,-99,University of Maryland-College Park,1,verified_unitid_raw_missing
+University of Virginia Main Campus,224,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:134,234076,-99,University of Virginia-Main Campus,1,verified_unitid_raw_missing
+University of California-Los Angeles,223,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:200,110662,1,University of California-Los Angeles,1,verified_unitid_raw_recorded
+University of California-San Diego,222,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:122,110680,1,University of California-San Diego,1,verified_unitid_raw_recorded
+Northwestern University,217,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:80,147767,1,Northwestern University,1,verified_unitid_raw_recorded
+Northeastern University,211,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1414,167358,1,Northeastern University,1,verified_unitid_raw_recorded
+University of California-Irvine,210,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1570,110653,1,University of California-Irvine,1,verified_unitid_raw_recorded
+University of Southern California,193,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:250,123961,1,University of Southern California,1,verified_unitid_raw_recorded
+Duke University,186,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:191,198419,1,Duke University,1,verified_unitid_raw_recorded
+Indiana University,180,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1554,,-99,,,unresolved_identity
+Oregon State University,179,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:427,209542,1,Oregon State University,1,verified_unitid_raw_recorded
+Michigan State University,179,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:522,171100,1,Michigan State University,1,verified_unitid_raw_recorded
+University of California-Santa Barbara,179,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:97,110705,1,University of California-Santa Barbara,1,verified_unitid_raw_recorded
+University of California-Davis,172,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:447,110644,1,University of California-Davis,1,verified_unitid_raw_recorded
+Harvard University,172,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:357,166027,1,Harvard University,1,verified_unitid_raw_recorded
+Colorado State University,171,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:810,,-99,,,unresolved_identity
+New York University,168,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:269,193900,1,New York University,1,verified_unitid_raw_recorded
+Stanford University,167,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:101,243744,1,Stanford University,1,verified_unitid_raw_recorded
+Texas A&M Engineering Experiment Station,166,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:197,,-99,,,unresolved_identity
+University of Utah,165,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:850,230764,1,University of Utah,1,verified_unitid_raw_recorded
+University of Pittsburgh,162,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:776,,-99,,,unresolved_identity
+University of Notre Dame,159,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4471,152080,1,University of Notre Dame,1,verified_unitid_raw_recorded
+University of Georgia Research Foundation Inc,155,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:328,,-99,,,unresolved_identity
+Princeton University,153,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:253,186131,1,Princeton University,1,verified_unitid_raw_recorded
+Trustees of Boston University,153,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:501,164988,-99,Boston University,1,verified_unitid_raw_missing
+University of Chicago,151,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1112,144050,1,University of Chicago,1,verified_unitid_raw_recorded
+Yale University,151,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:147,130794,1,Yale University,1,verified_unitid_raw_recorded
+Iowa State University,143,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1259,153603,1,Iowa State University,1,verified_unitid_raw_recorded
+SUNY at Buffalo,142,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:650,,-99,,,unresolved_identity
+University of Delaware,140,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:360,130943,1,University of Delaware,1,verified_unitid_raw_recorded
+SUNY at Stony Brook,138,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:922,,-99,,,unresolved_identity
+University of Tennessee Knoxville,136,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:312,221759,-99,The University of Tennessee-Knoxville,1,verified_unitid_raw_missing
+Johns Hopkins University,135,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:130,162928,1,Johns Hopkins University,1,verified_unitid_raw_recorded
+University of Pennsylvania,130,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1465,215062,1,University of Pennsylvania,1,verified_unitid_raw_recorded
+University of New Mexico,130,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:971,,-99,,,unresolved_identity
+University of California-San Diego Scripps Inst of Oceanography,127,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:172,110680,-99,University of California-San Diego,1,verified_unitid_raw_missing
+University of Nebraska-Lincoln,126,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1340,181464,1,University of Nebraska-Lincoln,1,verified_unitid_raw_recorded
+University of Connecticut,126,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:794,129020,1,University of Connecticut,1,verified_unitid_raw_recorded
+University of North Carolina at Chapel Hill,124,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:137,199120,1,University of North Carolina at Chapel Hill,1,verified_unitid_raw_recorded
+Texas A&M University,119,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:30774,,-99,,,unresolved_identity
+Brown University,118,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1071,217156,1,Brown University,1,verified_unitid_raw_recorded
+William Marsh Rice University,114,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:343,227757,-99,Rice University,1,verified_unitid_raw_missing
+Washington University,114,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:528,,-99,,,unresolved_identity
+University of California-Riverside,112,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1739,110671,1,University of California-Riverside,1,verified_unitid_raw_recorded
+University of California-Santa Cruz,110,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:884,110714,1,University of California-Santa Cruz,1,verified_unitid_raw_recorded
+University of Oregon Eugene,110,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:903,209551,-99,University of Oregon,1,verified_unitid_raw_missing
+University of Maine,109,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:894,161253,1,University of Maine,1,verified_unitid_raw_recorded
+University of South Florida,104,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1582,137351,1,University of South Florida,1,verified_unitid_raw_recorded
+Vanderbilt University,103,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4123,221999,1,Vanderbilt University,1,verified_unitid_raw_recorded
+University of Texas at Dallas,99,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1815,,-99,,,unresolved_identity
+University of Alaska Fairbanks Campus,97,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1836,102614,-99,University of Alaska Fairbanks,2,verified_unitid_raw_missing
+University of Houston,96,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2187,225511,1,University of Houston,1,verified_unitid_raw_recorded
+George Washington University,96,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2254,131469,1,George Washington University,1,verified_unitid_raw_recorded
+Rensselaer Polytechnic Institute,95,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:175,194824,1,Rensselaer Polytechnic Institute,1,verified_unitid_raw_recorded
+University of Kansas Center for Research Inc,94,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1509,,-99,,,unresolved_identity
+Syracuse University,91,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:143,196413,1,Syracuse University,1,verified_unitid_raw_recorded
+Washington State University,91,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:566,236939,1,Washington State University,1,verified_unitid_raw_recorded
+University of Illinois at Chicago,90,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:613,,-99,,,unresolved_identity
+Louisiana State University,90,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:866,,-99,,,unresolved_identity
+Temple University,90,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1668,216339,1,Temple University,1,verified_unitid_raw_recorded
+California Institute of Technology,88,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1238,110404,1,California Institute of Technology,1,verified_unitid_raw_recorded
+New Jersey Institute of Technology,88,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6718,185828,1,New Jersey Institute of Technology,1,verified_unitid_raw_recorded
+George Mason University,83,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:72,232186,1,George Mason University,1,verified_unitid_raw_recorded
+Florida State University,82,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:34,134097,1,Florida State University,1,verified_unitid_raw_recorded
+University of Massachusetts Lowell,81,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9111,166513,-99,University of Massachusetts-Lowell,1,verified_unitid_raw_missing
+University of South Carolina at Columbia,80,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5989,,-99,,,unresolved_identity
+Rochester Institute of Tech,80,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6375,,-99,,,unresolved_identity
+Florida International University,78,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:558,133951,1,Florida International University,1,verified_unitid_raw_recorded
+Dartmouth College,78,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1234,182670,1,Dartmouth College,1,verified_unitid_raw_recorded
+Clemson University,77,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1183,217882,1,Clemson University,1,verified_unitid_raw_recorded
+Tulane University,75,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:238,,-99,,,unresolved_identity
+The University of Central Florida Board of Trustees,75,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4177,,-99,,,unresolved_identity
+University of Oklahoma Norman Campus,75,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:492,207500,-99,University of Oklahoma-Norman Campus,1,verified_unitid_raw_missing
+University Corporation For Atmospheric Res,74,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4036,,-99,,,unresolved_identity
+University of Kentucky Research Foundation,73,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:339,,-99,,,unresolved_identity
+University of Rhode Island,72,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1054,217484,1,University of Rhode Island,1,verified_unitid_raw_recorded
+University of Missouri-Columbia,71,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1746,178396,1,University of Missouri-Columbia,1,verified_unitid_raw_recorded
+University of New Hampshire,70,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:670,,-99,,,unresolved_identity
+University of Alabama Tuscaloosa,66,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2117,,-99,,,unresolved_identity
+Texas Tech University,66,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4185,229115,1,Texas Tech University,1,verified_unitid_raw_recorded
+Kansas State University,65,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1005,155399,1,Kansas State University,1,verified_unitid_raw_recorded
+Old Dominion University Research Foundation,65,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1106,,-99,,,unresolved_identity
+University of Rochester,64,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1039,195030,1,University of Rochester,1,verified_unitid_raw_recorded
+University of North Carolina at Charlotte,63,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:7518,199139,1,University of North Carolina at Charlotte,1,verified_unitid_raw_recorded
+Colorado School of Mines,61,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:477,126775,1,Colorado School of Mines,1,verified_unitid_raw_recorded
+University of Arkansas,61,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4787,106397,1,University of Arkansas,1,verified_unitid_raw_recorded
+Drexel University,61,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1596,212054,1,Drexel University,1,verified_unitid_raw_recorded
+Montana State University,61,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4216,180461,1,Montana State University,1,verified_unitid_raw_recorded
+Lehigh University,60,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:481,213543,1,Lehigh University,1,verified_unitid_raw_recorded
+SUNY at Albany,60,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:786,,-99,,,unresolved_identity
+Worcester Polytechnic Institute,58,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1769,168421,1,Worcester Polytechnic Institute,1,verified_unitid_raw_recorded
+University of Iowa,57,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:208,153658,1,University of Iowa,1,verified_unitid_raw_recorded
+University of Miami,57,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:31,135726,1,University of Miami,1,verified_unitid_raw_recorded
+University of Texas at Arlington,57,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3141,,-99,,,unresolved_identity
+Boise State University,57,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3740,142115,2,Boise State University,2,verified_unitid_raw_recorded
+West Virginia University Research Corporation,56,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5464,,-99,,,unresolved_identity
+Tufts University,52,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9347,168148,1,Tufts University,1,verified_unitid_raw_recorded
+Auburn University,52,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1491,100858,1,Auburn University,1,verified_unitid_raw_recorded
+Utah State University,51,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:125,230728,1,Utah State University,1,verified_unitid_raw_recorded
+Northern Arizona University,51,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1270,105330,1,Northern Arizona University,1,verified_unitid_raw_recorded
+University of Cincinnati Main Campus,51,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1389,201885,-99,University of Cincinnati-Main Campus,1,verified_unitid_raw_missing
+Portland State University,49,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:234,209807,2,Portland State University,2,verified_unitid_raw_recorded
+San Diego State University Foundation,48,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:231,,-99,,,unresolved_identity
+CUNY City College,47,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:288,190567,2,CUNY City College,2,verified_unitid_raw_recorded
+University of North Texas,47,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4721,227216,1,University of North Texas,1,verified_unitid_raw_recorded
+Oklahoma State University,46,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:53,,-99,,,unresolved_identity
+North Dakota State University Fargo,45,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5743,,-99,,,unresolved_identity
+University of Maryland Baltimore County,44,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:331,163268,-99,University of Maryland-Baltimore County,1,verified_unitid_raw_missing
+University of Alabama in Huntsville,43,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1292,100706,2,University of Alabama in Huntsville,2,verified_unitid_raw_recorded
+University of Texas at El Paso,43,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1401,,-99,,,unresolved_identity
+"Board of Regents, NSHE, obo University of Nevada, Reno",43,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:21,182290,-99,University of Nevada-Reno,1,verified_unitid_raw_missing
+University of California - Merced,42,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:83775,445188,-99,University of California-Merced,1,verified_unitid_raw_missing
+Missouri University of Science and Technology,42,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:978,178411,1,Missouri University of Science and Technology,1,verified_unitid_raw_recorded
+Emory University,41,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3850,139658,1,Emory University,1,verified_unitid_raw_recorded
+University of Wyoming,40,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1179,240727,1,University of Wyoming,1,verified_unitid_raw_recorded
+University of Texas at San Antonio,40,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4482,,-99,,,unresolved_identity
+University of Colorado at Denver-Downtown Campus,39,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4757,,-99,,,unresolved_identity
+Brigham Young University,39,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2152,230038,1,Brigham Young University,1,verified_unitid_raw_recorded
+North Carolina Agricultural & Technical State University,38,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2229,,-99,,,unresolved_identity
+SUNY at Binghamton,38,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:925,,-99,,,unresolved_identity
+Illinois Institute of Technology,37,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5725,145725,2,Illinois Institute of Technology,2,verified_unitid_raw_recorded
+Georgetown University,36,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1951,131496,1,Georgetown University,1,verified_unitid_raw_recorded
+"Georgia State University Research Foundation, Inc.",36,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3947,,-99,,,unresolved_identity
+New Mexico State University,35,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1252,,-99,,,unresolved_identity
+Michigan Technological University,35,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1434,171128,1,Michigan Technological University,1,verified_unitid_raw_recorded
+Virginia Commonwealth University,35,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1804,234030,1,Virginia Commonwealth University,1,verified_unitid_raw_recorded
+Case Western Reserve University,35,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3996,201645,1,Case Western Reserve University,1,verified_unitid_raw_recorded
+University of Wisconsin-Milwaukee,35,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4401,240453,1,University of Wisconsin-Milwaukee,1,verified_unitid_raw_recorded
+University of Montana,34,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11167,,-99,,,unresolved_identity
+Miami University,33,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1283,,-99,,,unresolved_identity
+University of Akron,33,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1625,,-99,,,unresolved_identity
+Gordon Research Conferences,33,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1765,,-99,,,unresolved_identity
+Wayne State University,33,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2096,172644,1,Wayne State University,1,verified_unitid_raw_recorded
+The University of Texas Rio Grande Valley,32,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11688,227368,2,The University of Texas Rio Grande Valley,2,verified_unitid_raw_recorded
+University of Vermont & State Agricultural College,32,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3452,,-99,,,unresolved_identity
+Boston College,31,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2209,164924,1,Boston College,1,verified_unitid_raw_recorded
+Western Washington University,31,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2477,237011,3,Western Washington University,3,verified_unitid_raw_recorded
+Tuskegee University,30,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2946,102377,3,Tuskegee University,3,verified_unitid_raw_recorded
+Stevens Institute of Technology,29,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:13434,186867,2,Stevens Institute of Technology,2,verified_unitid_raw_recorded
+Texas State University - San Marcos,29,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1724,,-99,,,unresolved_identity
+"University of Massachusetts, Dartmouth",29,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17727,167987,-99,University of Massachusetts-Dartmouth,2,verified_unitid_raw_missing
+Kent State University,29,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:205,,-99,,,unresolved_identity
+University of Louisiana at Lafayette,29,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:23279,160658,1,University of Louisiana at Lafayette,1,verified_unitid_raw_recorded
+University of Louisville Research Foundation Inc,29,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:8500,,-99,,,unresolved_identity
+Regents of the University of Idaho,28,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2796,,-99,,,unresolved_identity
+University of Alabama at Birmingham,28,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3074,100663,1,University of Alabama at Birmingham,1,verified_unitid_raw_recorded
+University of Nebraska at Omaha,26,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:20182,181394,2,University of Nebraska at Omaha,2,verified_unitid_raw_recorded
+Smithsonian Institution,26,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:48,,-99,,,unresolved_identity
+University of North Carolina at Wilmington,25,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1353,,-99,,,unresolved_identity
+Rutgers University Newark,25,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:146255,186399,-99,Rutgers University-Newark,2,verified_unitid_raw_missing
+Texas A&M University Corpus Christi,25,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22415,224147,-99,Texas A & M University-Corpus Christi,2,verified_unitid_raw_missing
+Ohio University,25,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:247,,-99,,,unresolved_identity
+National Bureau of Economic Research Inc,24,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1405,,-99,,,unresolved_identity
+Marine Biological Laboratory,24,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9265,,-99,,,unresolved_identity
+California Polytechnic State University Foundation,23,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6274,,-99,,,unresolved_identity
+Materials Research Society,23,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:713,,-99,,,unresolved_identity
+Carnegie Institution of Washington,23,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1214,,-99,,,unresolved_identity
+San Jose State University Foundation,22,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1428,,-99,,,unresolved_identity
+South Dakota School of Mines and Technology,22,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2584,219347,3,South Dakota School of Mines and Technology,3,verified_unitid_raw_recorded
+Florida Institute of Technology,21,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:12407,133881,2,Florida Institute of Technology,2,verified_unitid_raw_recorded
+Clark University,21,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2347,165334,2,Clark University,2,verified_unitid_raw_recorded
+Southern Methodist University,21,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3980,228246,1,Southern Methodist University,1,verified_unitid_raw_recorded
+Clarkson University,20,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:15116,190044,2,Clarkson University,2,verified_unitid_raw_recorded
+University of Nevada Las Vegas,20,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2615,182281,-99,University of Nevada-Las Vegas,1,verified_unitid_raw_missing
+Florida Atlantic University,20,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4314,133669,1,Florida Atlantic University,1,verified_unitid_raw_recorded
+Oakland University,20,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5773,171571,2,Oakland University,2,verified_unitid_raw_recorded
+TERC Inc,20,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:797,,-99,,,unresolved_identity
+University of Maryland Center for Environmental Sciences,20,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:818,,-99,,,unresolved_identity
+James Madison University,19,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:841,232423,2,James Madison University,2,verified_unitid_raw_recorded
+College of William and Mary,18,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:863,,-99,,,unresolved_identity
+Mississippi State University,18,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:871,176080,1,Mississippi State University,1,verified_unitid_raw_recorded
+University of Memphis,18,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1140,220862,1,University of Memphis,1,verified_unitid_raw_recorded
+American Society For Engineering Education,18,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:12617,,-99,,,unresolved_identity
+American Institute of Chemical Engineers,18,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:201561,,-99,,,unresolved_identity
+Howard University,18,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:298,131520,1,Howard University,1,verified_unitid_raw_recorded
+National Academy of Sciences,17,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1479,,-99,,,unresolved_identity
+Smithsonian Institution Astrophysical Observatory,17,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2937,,-99,,,unresolved_identity
+SRI International,17,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:367,,-99,,,unresolved_identity
+College of William & Mary Virginia Institute of Marine Science,17,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:376,,-99,,,unresolved_identity
+University of Alaska Anchorage Campus,17,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3999,,-99,,,unresolved_identity
+"Bermuda Institute of Ocean Sciences (BIOS), Inc.",17,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5451,,-99,,,unresolved_identity
+Brandeis University,16,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5852,165015,1,Brandeis University,1,verified_unitid_raw_recorded
+Rowan University,16,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9314,184782,2,Rowan University,2,verified_unitid_raw_recorded
+American Museum Natural History,16,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9651,,-99,,,unresolved_identity
+Bigelow Laboratory for Ocean Sciences,16,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9824,,-99,,,unresolved_identity
+CUNY Hunter College,16,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1031,190594,2,CUNY Hunter College,2,verified_unitid_raw_recorded
+CUNY Queens College,16,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1488,190664,3,CUNY Queens College,3,verified_unitid_raw_recorded
+Northern Illinois University,15,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1589,147703,2,Northern Illinois University,2,verified_unitid_raw_recorded
+University of Mississippi,15,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2319,176017,1,University of Mississippi,1,verified_unitid_raw_recorded
+Texas A&M AgriLife Research,15,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:29304,,-99,,,unresolved_identity
+University of North Dakota Main Campus,15,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2956,,-99,,,unresolved_identity
+University of Tennessee Chattanooga,15,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3185,,-99,,,unresolved_identity
+CUNY Graduate School University Center,15,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4166,,-99,,,unresolved_identity
+South Dakota State University,15,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4864,219356,2,South Dakota State University,2,verified_unitid_raw_recorded
+Western Michigan University,15,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:535,172699,2,Western Michigan University,2,verified_unitid_raw_recorded
+University of Toledo,15,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6407,206084,1,University of Toledo,1,verified_unitid_raw_recorded
+East Carolina University,15,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:657,198464,1,East Carolina University,1,verified_unitid_raw_recorded
+DePaul University,15,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:7043,144740,2,DePaul University,2,verified_unitid_raw_recorded
+University of Minnesota Duluth,15,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:84283,174233,-99,University of Minnesota-Duluth,3,verified_unitid_raw_missing
+Villanova University,15,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9084,216597,2,Villanova University,2,verified_unitid_raw_recorded
+Morgan State University,15,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9362,163453,2,Morgan State University,2,verified_unitid_raw_recorded
+University of Colorado at Denver,15,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9416,,-99,,,unresolved_identity
+Marquette University,14,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4318,239105,2,Marquette University,2,verified_unitid_raw_recorded
+San Francisco State University,14,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6771,122597,2,San Francisco State University,2,verified_unitid_raw_recorded
+University of North Carolina Greensboro,14,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:7637,,-99,,,unresolved_identity
+University of Southern Mississippi,14,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1074,176372,1,University of Southern Mississippi,1,verified_unitid_raw_recorded
+"University Enterprises, Incorporated",14,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18819,,-99,,,unresolved_identity
+"The University Corporation, Northridge",14,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3099,,-99,,,unresolved_identity
+Donald Danforth Plant Science Center,14,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35583,,-99,,,unresolved_identity
+Montclair State University,13,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11353,185590,2,Montclair State University,2,verified_unitid_raw_recorded
+"NorthWest Research Associates, Incorporated",13,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2106,,-99,,,unresolved_identity
+Baylor University,13,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2399,223232,1,Baylor University,1,verified_unitid_raw_recorded
+Atmospheric and Environmental Research Inc,13,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2686,,-99,,,unresolved_identity
+Southern Illinois University at Carbondale,13,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2812,,-99,,,unresolved_identity
+University of Northern Iowa,13,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3241,154095,3,University of Northern Iowa,3,verified_unitid_raw_recorded
+University of Massachusetts Boston,13,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3340,166638,-99,University of Massachusetts-Boston,1,verified_unitid_raw_missing
+Tennessee Technological University,13,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5548,221847,2,Tennessee Technological University,2,verified_unitid_raw_recorded
+Carleton College,13,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6671,173258,3,Carleton College,3,verified_unitid_raw_recorded
+Appalachian State University,13,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:8457,197869,2,Appalachian State University,2,verified_unitid_raw_recorded
+CUNY New York City College of Technology,13,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:92298,190655,3,CUNY New York City College of Technology,3,verified_unitid_raw_recorded
+Oregon Health & Science University,12,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5755,209490,2,Oregon Health & Science University,2,verified_unitid_raw_recorded
+University of Denver,12,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:908,127060,1,University of Denver,1,verified_unitid_raw_recorded
+Idaho State University,12,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9462,142276,2,Idaho State University,2,verified_unitid_raw_recorded
+New Mexico Institute of Mining and Technology,12,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1085,187967,3,New Mexico Institute of Mining and Technology,3,verified_unitid_raw_recorded
+University of Puerto Rico Mayaguez,12,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1566,243197,-99,University of Puerto Rico-Mayaguez,2,verified_unitid_raw_missing
+International Computer Science Institute,12,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16422,,-99,,,unresolved_identity
+Loyola University of Chicago,12,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18531,,-99,,,unresolved_identity
+Tennessee State University,12,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22463,221838,2,Tennessee State University,2,verified_unitid_raw_recorded
+"Nevada System of Higher Education, Desert Research Institute",12,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2381,,-99,,,unresolved_identity
+Research Foundation CUNY - Advanced Science Research Center,12,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:282865,,-99,,,unresolved_identity
+Wesleyan University,11,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1082,130697,3,Wesleyan University,3,verified_unitid_raw_recorded
+University of South Dakota Main Campus,11,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:14209,,-99,,,unresolved_identity
+Jackson State University,11,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16538,175856,2,Jackson State University,2,verified_unitid_raw_recorded
+"Georgia Southern University Research and Service Foundation, Inc",11,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18551,,-99,,,unresolved_identity
+CUNY John Jay College of Criminal Justice,11,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18809,190600,3,CUNY John Jay College of Criminal Justice,3,verified_unitid_raw_recorded
+CSU Fullerton Auxiliary Services Corporation,11,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22374,,-99,,,unresolved_identity
+Central Michigan University,11,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3584,169248,2,Central Michigan University,2,verified_unitid_raw_recorded
+University of St. Thomas,11,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38411,,-99,,,unresolved_identity
+Bucknell University,11,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4073,211291,3,Bucknell University,3,verified_unitid_raw_recorded
+Regents of the University of Michigan - Dearborn,11,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:416686,,-99,,,unresolved_identity
+Saint Louis University,11,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4790,179159,1,Saint Louis University,1,verified_unitid_raw_recorded
+"Associated Universities, Inc.",11,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:60006,,-99,,,unresolved_identity
+Wake Forest University,11,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6302,199847,2,Wake Forest University,2,verified_unitid_raw_recorded
+Florida Agricultural and Mechanical University,11,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:946,133650,2,Florida Agricultural and Mechanical University,2,verified_unitid_raw_recorded
+"Teachers College, Columbia University",10,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4944,,-99,,,unresolved_identity
+College of Charleston,10,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5782,217819,3,College of Charleston,3,verified_unitid_raw_recorded
+Louisiana Tech University,10,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:7429,159647,2,Louisiana Tech University,2,verified_unitid_raw_recorded
+SUNY College of Environmental Science and Forestry,10,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:752,196103,2,SUNY College of Environmental Science and Forestry,2,verified_unitid_raw_recorded
+Kennesaw State University Research and Service Foundation,10,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:114396,,-99,,,unresolved_identity
+Grand Valley State University,10,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17620,170082,3,Grand Valley State University,3,verified_unitid_raw_recorded
+Skidmore College,10,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35039,195526,-2,Skidmore College,-2,verified_unitid_raw_recorded
+American Institutes for Research in the Behavioral Sciences,10,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:40155,,-99,,,unresolved_identity
+Rand Corporation,9,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1450,,-99,,,unresolved_identity
+California State L A University Auxiliary Services Inc.,9,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1824,,-99,,,unresolved_identity
+Delaware State University,9,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:29933,130934,2,Delaware State University,2,verified_unitid_raw_recorded
+California State University-Fresno Foundation,9,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4337,,-99,,,unresolved_identity
+University of Colorado at Colorado Springs,9,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6942,,-99,,,unresolved_identity
+University of Missouri-Kansas City,9,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:8469,178402,1,University of Missouri-Kansas City,1,verified_unitid_raw_recorded
+Barnard College,8,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6127,189097,3,Barnard College,3,verified_unitid_raw_recorded
+North Carolina Central University,8,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:7508,199157,3,North Carolina Central University,3,verified_unitid_raw_recorded
+SUNY College at Geneseo,8,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:8338,196167,-2,SUNY College at Geneseo,-2,verified_unitid_raw_recorded
+University of California-San Francisco,8,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:847,110699,1,University of California-San Francisco,1,verified_unitid_raw_recorded
+Boyce Thompson Institute Plant Research,8,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:10511,,-99,,,unresolved_identity
+Embry-Riddle Aeronautical University,8,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:13188,,-99,,,unresolved_identity
+University of Tulsa,8,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1330,207971,2,University of Tulsa,2,verified_unitid_raw_recorded
+Fordham University,8,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1455,191241,2,Fordham University,2,verified_unitid_raw_recorded
+University of South Alabama,8,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2556,102094,2,University of South Alabama,2,verified_unitid_raw_recorded
+Council of Graduate Schools,8,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:28288,,-99,,,unresolved_identity
+California State University-Long Beach Foundation,8,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:34871,,-99,,,unresolved_identity
+"SageFox Consulting Group, LLC",8,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:355300,,-99,,,unresolved_identity
+Alabama State University,8,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38604,100724,3,Alabama State University,3,verified_unitid_raw_recorded
+Gallaudet University,8,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38940,131450,3,Gallaudet University,3,verified_unitid_raw_recorded
+University of Puerto Rico-Rio Piedras,8,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4182,243221,2,University of Puerto Rico-Rio Piedras,2,verified_unitid_raw_recorded
+The College of New Jersey,7,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:10864,187134,3,The College of New Jersey,3,verified_unitid_raw_recorded
+The University of Texas Health Science Center at Houston,7,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11139,229300,1,The University of Texas Health Science Center at Houston,1,verified_unitid_raw_recorded
+Wellesley College,7,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1171,168218,3,Wellesley College,3,verified_unitid_raw_recorded
+Southern Illinois University at Edwardsville,7,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:12232,,-99,,,unresolved_identity
+Rose-Hulman Institute of Technology,7,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:13091,152318,-2,Rose-Hulman Institute of Technology,-2,verified_unitid_raw_recorded
+New Mexico Consortium,7,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:160471,,-99,,,unresolved_identity
+University of Northern Colorado,7,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16801,127741,2,University of Northern Colorado,2,verified_unitid_raw_recorded
+Sea Education Association,7,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17497,,-99,,,unresolved_identity
+Harvey Mudd College,7,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18110,115409,3,Harvey Mudd College,3,verified_unitid_raw_recorded
+CUNY Brooklyn College,7,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18339,190549,3,CUNY Brooklyn College,3,verified_unitid_raw_recorded
+Colorado College,7,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:23245,126678,3,Colorado College,3,verified_unitid_raw_recorded
+Cleveland State University,7,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2332,202134,2,Cleveland State University,2,verified_unitid_raw_recorded
+Kentucky Community & Technical College System,7,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27202,,-99,,,unresolved_identity
+Institute for Learning Innovation,7,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:307401,,-99,,,unresolved_identity
+Catholic University of America,7,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3117,,-99,,,unresolved_identity
+Bowling Green State University,7,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3725,,-99,,,unresolved_identity
+College of Wooster,7,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38424,,-99,,,unresolved_identity
+Monterey Bay Aquarium Research Institute,7,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:435,,-99,,,unresolved_identity
+Northeastern Illinois University,7,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:49774,147776,-2,Northeastern Illinois University,-2,verified_unitid_raw_recorded
+Texas A&M University-Kingsville,7,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:56822,228705,-99,Texas A & M University-Kingsville,2,verified_unitid_raw_missing
+Hampton University,7,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:586,232265,2,Hampton University,2,verified_unitid_raw_recorded
+American University,7,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6552,131159,1,American University,1,verified_unitid_raw_recorded
+Wright State University,7,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:663,,-99,,,unresolved_identity
+Field Museum of Natural History,7,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6841,,-99,,,unresolved_identity
+California Academy of Sciences,7,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:7749,,-99,,,unresolved_identity
+Amherst College,7,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:8509,164465,3,Amherst College,3,verified_unitid_raw_recorded
+Furman University,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4316,218070,-2,Furman University,-2,verified_unitid_raw_recorded
+Alabama A&M University,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:52194,100654,-99,Alabama A & M University,3,verified_unitid_raw_missing
+Norfolk State University,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:52534,232937,3,Norfolk State University,3,verified_unitid_raw_recorded
+Middle Tennessee State University,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5806,220978,2,Middle Tennessee State University,2,verified_unitid_raw_recorded
+Stephen F. Austin State University,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:61102,228431,-99,Stephen F Austin State University,3,verified_unitid_raw_missing
+Chicago Horticultural Society,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:61429,,-99,,,unresolved_identity
+Lafayette College,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:618,213385,-2,Lafayette College,-2,verified_unitid_raw_recorded
+CUNY Baruch College,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6385,,-99,,,unresolved_identity
+Wichita State University,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:7404,156125,2,Wichita State University,2,verified_unitid_raw_recorded
+Roger Williams University,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:75727,217518,3,Roger Williams University,3,verified_unitid_raw_recorded
+University of San Diego,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:78761,122436,2,University of San Diego,2,verified_unitid_raw_recorded
+Middlebury College,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9167,230959,3,Middlebury College,3,verified_unitid_raw_recorded
+University of New Orleans,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9579,159939,2,University of New Orleans,2,verified_unitid_raw_recorded
+"Woodwell Climate Research Center, Inc.",6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9828,,-99,,,unresolved_identity
+West Chester University of Pennsylvania,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:15797,216764,2,West Chester University of Pennsylvania,2,verified_unitid_raw_recorded
+SPACE SCIENCE INSTITUTE,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:15892,,-99,,,unresolved_identity
+Santa Fe Institute,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16645,,-99,,,unresolved_identity
+Saint Olaf College,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17850,,-99,,,unresolved_identity
+"Cal Poly Pomona Foundation, Inc.",6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18355,,-99,,,unresolved_identity
+Central Washington University,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2077,234827,3,Central Washington University,3,verified_unitid_raw_recorded
+CAL POLY HUMBOLDT SPONSORED PROGRAMS FOUNDATION,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:20899,,-99,,,unresolved_identity
+Auburn University at Montgomery,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:214479,100830,-2,Auburn University at Montgomery,-2,verified_unitid_raw_recorded
+Chico State Enterprises,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2182,,-99,,,unresolved_identity
+College of Saint Scholastica,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22451,,-99,,,unresolved_identity
+Prairie View A & M University,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22531,227526,2,Prairie View A & M University,2,verified_unitid_raw_recorded
+Madison Area Technical College,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:26867,238263,-2,Madison Area Technical College,-2,verified_unitid_raw_recorded
+Union College,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3493,,-2,,,raw_recorded_identity_unresolved
+CUNY College of Staten Island,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35184,,-99,,,unresolved_identity
+"The Geological Society of America, Inc.",6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38382,,-99,,,unresolved_identity
+Berkeley Geochronology Center,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:39620,,-99,,,unresolved_identity
+The Learning Partnership,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:41654,,-99,,,unresolved_identity
+American Statistical Association,6,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4221,,-99,,,unresolved_identity
+New York University Medical Center,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11149,,-99,,,unresolved_identity
+Battelle Memorial Institute,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:111885,,-99,,,unresolved_identity
+Oberlin College,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11488,204501,-2,Oberlin College,-2,verified_unitid_raw_recorded
+Toyota Technological Institute at Chicago,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:117998,445054,3,Toyota Technological Institute at Chicago,3,verified_unitid_raw_recorded
+Smith College,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11943,167835,3,Smith College,3,verified_unitid_raw_recorded
+The New School,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:13592,193654,2,The New School,2,verified_unitid_raw_recorded
+Concord University,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:138376,237330,-2,Concord University,-2,verified_unitid_raw_recorded
+Lewis and Clark College,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:13945,,-99,,,unresolved_identity
+Ball State University,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:140,150136,2,Ball State University,2,verified_unitid_raw_recorded
+SUNY College at Cortland,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1423,,-99,,,unresolved_identity
+Rocky Mountain Biological Laboratory,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:14953,,-99,,,unresolved_identity
+"University of Texas, M.D. Anderson Cancer Center",5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:15921,,-99,,,unresolved_identity
+Towson University,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16847,164076,3,Towson University,3,verified_unitid_raw_recorded
+University of The Virgin Islands,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17239,243665,3,University of the Virgin Islands,3,verified_unitid_raw_recorded
+Trinity University,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17971,229267,3,Trinity University,3,verified_unitid_raw_recorded
+Millersville University,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18262,,-99,,,unresolved_identity
+Bowdoin College,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18507,161004,3,Bowdoin College,3,verified_unitid_raw_recorded
+Missouri State University,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2136,,-99,,,unresolved_identity
+New Mexico Highlands University,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22412,187897,3,New Mexico Highlands University,3,verified_unitid_raw_recorded
+Spelman College,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2649,141060,3,Spelman College,3,verified_unitid_raw_recorded
+William Paterson University,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:26588,,-99,,,unresolved_identity
+University of Hawaii at Hilo,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27997,141565,3,University of Hawaii at Hilo,3,verified_unitid_raw_recorded
+University of Massachusetts Medical School,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:29291,,-99,,,unresolved_identity
+Aerodyne Research Inc,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:31333,,-99,,,unresolved_identity
+Providence College,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35158,217402,3,Providence College,3,verified_unitid_raw_recorded
+California State University San Marcos Corporation,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3812,,-99,,,unresolved_identity
+Augsburg University,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:394,173045,-2,Augsburg University,-2,verified_unitid_raw_recorded
+Chicago State University,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:400,144005,3,Chicago State University,3,verified_unitid_raw_recorded
+University of North Florida,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:40667,136172,2,University of North Florida,2,verified_unitid_raw_recorded
+EARTHSCOPE CONSORTIUM INC.,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4411,,-99,,,unresolved_identity
+Education Development Center,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:442,,-99,,,unresolved_identity
+University of Alaska Southeast Juneau Campus,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5055,,-99,,,unresolved_identity
+Bates College,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5456,160977,-2,Bates College,-2,verified_unitid_raw_recorded
+Vassar College,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6124,197133,3,Vassar College,3,verified_unitid_raw_recorded
+University of Georgia,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:62059,139959,1,University of Georgia,1,verified_unitid_raw_recorded
+University of Texas at Tyler,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:64564,,-99,,,unresolved_identity
+Williams College,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:689,168342,3,Williams College,3,verified_unitid_raw_recorded
+University of Wisconsin-La Crosse,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6993,240329,3,University of Wisconsin-La Crosse,3,verified_unitid_raw_recorded
+Elizabethtown College,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:76317,212197,-2,Elizabethtown College,-2,verified_unitid_raw_recorded
+Northeast Ohio Medical University,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:8108,204477,3,Northeast Ohio Medical University,3,verified_unitid_raw_recorded
+The Children's Hospital of Philadelphia,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:90253,,-99,,,unresolved_identity
+Pomona College,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9102,121345,3,Pomona College,3,verified_unitid_raw_recorded
+University of Maryland at Baltimore,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9145,,-99,,,unresolved_identity
+Cold Spring Harbor Laboratory,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9184,,-99,,,unresolved_identity
+University of Maryland Eastern Shore,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:94439,163338,3,University of Maryland Eastern Shore,3,verified_unitid_raw_recorded
+Evergreen State College,5,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9447,,-99,,,unresolved_identity
+Texas Christian University,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:43994,228875,2,Texas Christian University,2,verified_unitid_raw_recorded
+Colby College,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4557,161086,3,Colby College,3,verified_unitid_raw_recorded
+University of Dayton,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4585,202480,1,University of Dayton,1,verified_unitid_raw_recorded
+Bentley University,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:45969,164739,-2,Bentley University,-2,verified_unitid_raw_recorded
+Wake Forest University School of Medicine,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:46000,,-99,,,unresolved_identity
+University Corporation at Monterey Bay,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4797,,-99,,,unresolved_identity
+"UNAVCO, Inc.",4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:48100,,-99,,,unresolved_identity
+American Physical Society,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:484,,-99,,,unresolved_identity
+Moraine Valley Community College,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:49214,147378,-2,Moraine Valley Community College,-2,verified_unitid_raw_recorded
+Valparaiso University,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:49853,152600,-2,Valparaiso University,-2,verified_unitid_raw_recorded
+Northwest Indian College,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5036,380377,3,Northwest Indian College,3,verified_unitid_raw_recorded
+University of Missouri-Saint Louis,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:512,,-99,,,unresolved_identity
+Computational Physics Inc,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:52660,,-99,,,unresolved_identity
+Juniata College,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5554,213251,-2,Juniata College,-2,verified_unitid_raw_recorded
+Morehouse College,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:56471,140553,3,Morehouse College,3,verified_unitid_raw_recorded
+Haverford College,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5707,212911,3,Haverford College,3,verified_unitid_raw_recorded
+Rancho Santa Ana Botanic Garden,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5732,,-99,,,unresolved_identity
+Winston-Salem State University,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:58595,199999,3,Winston-Salem State University,3,verified_unitid_raw_recorded
+Duquesne University,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5999,212106,2,Duquesne University,2,verified_unitid_raw_recorded
+Institute For Advanced Study,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6317,,-99,,,unresolved_identity
+Consortium of Universities for the Advancement of Hydrologic Sci,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:64164,,-99,,,unresolved_identity
+Missouri Botanical Garden,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:7541,,-99,,,unresolved_identity
+Lowell Observatory,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:8433,,-99,,,unresolved_identity
+New York Botanical Garden,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:853,,-99,,,unresolved_identity
+"AUGUSTA UNIVERSITY RESEARCH INSTITUTE, INC.",4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:86149,,-99,,,unresolved_identity
+American Institute of Mathematics,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:8680,,-99,,,unresolved_identity
+Chatham College,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:8862,,-99,,,unresolved_identity
+Mount Holyoke College,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9116,166939,3,Mount Holyoke College,3,verified_unitid_raw_recorded
+Planetary Science Institute,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:94736,,-99,,,unresolved_identity
+"Cary Institute of Ecosystem Studies, Inc.",4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9482,,-99,,,unresolved_identity
+EAST TEXAS A&M UNIVERSITY,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:96417,224554,2,East Texas A&M University,2,verified_unitid_raw_recorded
+Academy of Natural Sciences Philadelphia,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:10019,,-99,,,unresolved_identity
+Colgate University,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:10028,190099,3,Colgate University,3,verified_unitid_raw_recorded
+Bryn Mawr College,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1012,211273,3,Bryn Mawr College,3,verified_unitid_raw_recorded
+Loyola Marymount University,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:10144,117946,2,Loyola Marymount University,2,verified_unitid_raw_recorded
+Saint Joseph's College,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:134345,,-99,,,unresolved_identity
+Rutgers University Camden,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:146468,186371,-99,Rutgers University-Camden,2,verified_unitid_raw_missing
+Association of Public and Land-Grant Universities,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:164052,,-99,,,unresolved_identity
+Concord Consortium,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17548,,-99,,,unresolved_identity
+Maricopa County Community College District,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17751,,-99,,,unresolved_identity
+Friends of the North Carolina State Museum of Natural Sciences,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:178713,,-99,,,unresolved_identity
+Claremont McKenna College,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17875,112260,3,Claremont McKenna College,3,verified_unitid_raw_recorded
+University of San Francisco,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17903,122612,2,University of San Francisco,2,verified_unitid_raw_recorded
+Aspen Global Change Institute,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:181118,,-99,,,unresolved_identity
+Seattle Community College District Office,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:185057,,-99,,,unresolved_identity
+Saint John's University,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18510,,-99,,,unresolved_identity
+Fisk University,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:19939,220181,3,Fisk University,3,verified_unitid_raw_recorded
+Sloan Kettering Institute For Cancer Research,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:20260,,-99,,,unresolved_identity
+University of Richmond,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:20579,233374,3,University of Richmond,3,verified_unitid_raw_recorded
+Saint Lawrence University,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:23024,,-99,,,unresolved_identity
+"GLOBAL ATMOSPHERIC TECHNOLOGIES AND SCIENCES, INC.",4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:233068,,-99,,,unresolved_identity
+Stroud Water Research Center,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:23463,,-99,,,unresolved_identity
+Davidson College,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:23501,198385,3,Davidson College,3,verified_unitid_raw_recorded
+Yeshiva University,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:23916,197708,2,Yeshiva University,2,verified_unitid_raw_recorded
+Maine Mathematics and Science Alliance,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27627,,-99,,,unresolved_identity
+Franklin and Marshall College,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3144,212577,3,Franklin and Marshall College,3,verified_unitid_raw_recorded
+University of the Pacific,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:32284,120883,-2,University of the Pacific,-2,verified_unitid_raw_recorded
+Pratt Institute,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:326337,,-99,,,unresolved_identity
+Cornell College,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3291,153162,-2,Cornell College,-2,verified_unitid_raw_recorded
+Metropolitan State University of Denver,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:33942,127565,-2,Metropolitan State University of Denver,-2,verified_unitid_raw_recorded
+Salish Kootenai College,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:347,180647,-2,Salish Kootenai College,-2,verified_unitid_raw_recorded
+Hobart and William Smith Colleges,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:34981,,-99,,,unresolved_identity
+University of New England,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35317,161457,2,University of New England,2,verified_unitid_raw_recorded
+University Enterprises Corporation at CSUSB,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35653,,-99,,,unresolved_identity
+Xavier University of Louisiana,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:37078,160904,3,Xavier University of Louisiana,3,verified_unitid_raw_recorded
+American Association of Physics Teachers,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:37650,,-99,,,unresolved_identity
+"Association for Women in Mathematics, Inc.",4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38216,,-99,,,unresolved_identity
+CUNY Hostos Community College,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:40189,190585,-2,CUNY Hostos Community College,-2,verified_unitid_raw_recorded
+Institute for Systems Biology,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4155,,-99,,,unresolved_identity
+Pepperdine University,4,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:42737,121150,2,Pepperdine University,2,verified_unitid_raw_recorded
+Massachusetts General Hospital,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:10754,,-99,,,unresolved_identity
+Santa Clara University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11263,122931,3,Santa Clara University,3,verified_unitid_raw_recorded
+Sonoma State University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11426,123572,3,Sonoma State University,3,verified_unitid_raw_recorded
+American Indian Science and Engineering Society (AISES),3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:117746,,-99,,,unresolved_identity
+Brookings Institution,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:117985,,-99,,,unresolved_identity
+University of Wisconsin-Whitewater,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11931,240189,-2,University of Wisconsin-Whitewater,-2,verified_unitid_raw_recorded
+Swarthmore College,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11969,216287,3,Swarthmore College,3,verified_unitid_raw_recorded
+Coastal Carolina University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:12351,218724,3,Coastal Carolina University,3,verified_unitid_raw_recorded
+Calvin University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:12450,169080,3,Calvin University,3,verified_unitid_raw_recorded
+Baylor College of Medicine,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:12474,223223,1,Baylor College of Medicine,1,verified_unitid_raw_recorded
+Carthage College,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:131783,238476,-2,Carthage College,-2,verified_unitid_raw_recorded
+Board of Trustees of Illinois State University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1337,,-99,,,unresolved_identity
+Longwood University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:134929,232566,-2,Longwood University,-2,verified_unitid_raw_recorded
+"ATMOSPHERIC & SPACE TECHNOLOGY RESEARCH ASSOCIATES, L.L.C.",3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:140047,,-99,,,unresolved_identity
+Ithaca College,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1409,191968,-2,Ithaca College,-2,verified_unitid_raw_recorded
+Research Foundation Of The City University Of New York (Lehman),3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:14404,,-99,,,unresolved_identity
+Gulf of Maine Research Institute,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:147142,,-99,,,unresolved_identity
+The Methodist Hospital Research Institute,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:161098,,-99,,,unresolved_identity
+NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDATION (DO NOT USE),3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:161650,,-99,,,unresolved_identity
+Dakota State University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16379,219082,3,Dakota State University,3,verified_unitid_raw_recorded
+American Geophysical Union,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17180,,-99,,,unresolved_identity
+University of Wisconsin-River Falls,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17192,240471,3,University of Wisconsin-River Falls,3,verified_unitid_raw_recorded
+University of North Carolina at Asheville,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17649,199111,3,University of North Carolina at Asheville,3,verified_unitid_raw_recorded
+CUNY Queensborough Community College,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17897,190673,-2,CUNY Queensborough Community College,-2,verified_unitid_raw_recorded
+SUNY College at Plattsburgh,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17906,196246,-2,SUNY College at Plattsburgh,-2,verified_unitid_raw_recorded
+Indiana University of Pennsylvania,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17966,,-99,,,unresolved_identity
+DOANE UNIVERSITY,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18679,181020,-2,Doane University,-2,verified_unitid_raw_recorded
+National Opinion Research Center,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:19109,,-99,,,unresolved_identity
+Ramapo College of New Jersey,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2061,186201,-2,Ramapo College of New Jersey,-2,verified_unitid_raw_recorded
+SUNY College at New Paltz,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:20651,,-99,,,unresolved_identity
+Fort Valley State University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:21771,139719,3,Fort Valley State University,3,verified_unitid_raw_recorded
+Inter American University of Puerto Rico San Juan,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2200,,-99,,,unresolved_identity
+SUNY College at Oswego,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22091,,-99,,,unresolved_identity
+Columbus State Community College,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22362,202222,-2,Columbus State Community College,-2,verified_unitid_raw_recorded
+Western Carolina University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:23367,200004,3,Western Carolina University,3,verified_unitid_raw_recorded
+Westminster College,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:23582,,-2,,,raw_recorded_identity_unresolved
+CSUB Auxiliary for Sponsored Programs Administration,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:239823,,-99,,,unresolved_identity
+Western New Mexico University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:242387,188304,-2,Western New Mexico University,-2,verified_unitid_raw_recorded
+Whitman College,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:24896,237057,-2,Whitman College,-2,verified_unitid_raw_recorded
+University of North Georgia,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:25051,482680,-2,University of North Georgia,-2,verified_unitid_raw_recorded
+Whitworth University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27543,237066,-2,Whitworth University,-2,verified_unitid_raw_recorded
+Virginia State University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:28075,234155,2,Virginia State University,2,verified_unitid_raw_recorded
+Benedict College,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:28150,217721,-2,Benedict College,-2,verified_unitid_raw_recorded
+University of the District of Columbia,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:28173,131399,3,University of the District of Columbia,3,verified_unitid_raw_recorded
+Saint Augustine's College,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:28270,,-99,,,unresolved_identity
+The Texas A&M University System HSC,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:283120,,-99,,,unresolved_identity
+SUNY Polytechnic Institute,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:293113,196112,3,SUNY Polytechnic Institute,3,verified_unitid_raw_recorded
+Research Triangle Institute,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:30194,,-99,,,unresolved_identity
+"Kalion, Inc.",3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:308814,,-99,,,unresolved_identity
+RG Research Group,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:312153,,-99,,,unresolved_identity
+Jackson Wild,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:315313,,-99,,,unresolved_identity
+Eastern Michigan University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3205,169798,2,Eastern Michigan University,2,verified_unitid_raw_recorded
+QUALITY EDUCATION FOR MINORITIES NETWORK,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3256,,-99,,,unresolved_identity
+The New York City Foundation for Computer Science Education,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:333363,,-99,,,unresolved_identity
+"Looking Glass Ventures, LLC",3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:336293,,-99,,,unresolved_identity
+"Cyber Pack Ventures, Inc.",3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:337771,,-99,,,unresolved_identity
+John G Shedd Aquarium,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:340035,,-99,,,unresolved_identity
+Earth and Space Research,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3432,,-99,,,unresolved_identity
+Southern Oregon University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:34781,210146,-2,Southern Oregon University,-2,verified_unitid_raw_recorded
+Chapman University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35507,111948,2,Chapman University,2,verified_unitid_raw_recorded
+Spartanburg Community College,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:361583,218830,-2,Spartanburg Community College,-2,verified_unitid_raw_recorded
+Bridgerland Applied Technology College,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:361933,,-99,,,unresolved_identity
+Minerals Metals & Materials Society,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:36383,,-99,,,unresolved_identity
+Digital Promise Global,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:365490,,-99,,,unresolved_identity
+Long Island University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:36728,192448,2,Long Island University,2,verified_unitid_raw_recorded
+Texas A&M University-San Antonio,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:371846,459949,-2,Texas A&M University-San Antonio,-2,verified_unitid_raw_recorded
+Eastern Illinois University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:37547,144892,-2,Eastern Illinois University,-2,verified_unitid_raw_recorded
+Cleveland Clinic Foundation,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3819,,-99,,,unresolved_identity
+Saint Edward's University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38283,227845,3,Saint Edward's University,3,verified_unitid_raw_recorded
+Elizabeth City State University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38677,198507,-2,Elizabeth City State University,-2,verified_unitid_raw_recorded
+Southern Connecticut State University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:40173,130493,2,Southern Connecticut State University,2,verified_unitid_raw_recorded
+Kutztown University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:40810,,-99,,,unresolved_identity
+Hampshire College,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:41116,166018,-2,Hampshire College,-2,verified_unitid_raw_recorded
+"COMPUTER SCIENCE TEACHERS ASSOCIATION, LLC.",3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:412460,,-99,,,unresolved_identity
+Optical Society of America,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4136,,-99,,,unresolved_identity
+Vanderbilt University Medical Center,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:42900,,-99,,,unresolved_identity
+The Quilt,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:433484,,-99,,,unresolved_identity
+Universidad Del Turabo,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:43547,,-99,,,unresolved_identity
+The Salk Institute for Biological Studies,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4692,,-99,,,unresolved_identity
+East Tennessee State University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4716,220075,2,East Tennessee State University,2,verified_unitid_raw_recorded
+Monroe Community College,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4929,193326,-2,Monroe Community College,-2,verified_unitid_raw_recorded
+CUNY Medgar Evers College,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:50106,190646,-2,CUNY Medgar Evers College,-2,verified_unitid_raw_recorded
+Austin Community College,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5023,,-99,,,unresolved_identity
+Rehabilitation Institute of Chicago,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:56834,,-99,,,unresolved_identity
+California State University-Dominguez Hills Foundation,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6960,,-99,,,unresolved_identity
+Science Museum of Minnesota,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:701,,-99,,,unresolved_identity
+Seattle Pacific University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:74137,236577,-2,Seattle Pacific University,-2,verified_unitid_raw_recorded
+"J. Craig Venter Institute, Inc.",3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:78900,,-99,,,unresolved_identity
+Los Angeles County Museum of Natural History Foundation,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:7907,,-99,,,unresolved_identity
+Texas A&M International University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:79969,226152,-99,Texas A & M International University,3,verified_unitid_raw_missing
+Indiana State University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:8148,151324,-2,Indiana State University,-2,verified_unitid_raw_recorded
+Carnegie Institute,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:8310,,-99,,,unresolved_identity
+Archaeology Southwest,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:85856,,-99,,,unresolved_identity
+Mount Saint Mary's University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:86810,119173,-2,Mount Saint Mary's University,-2,verified_unitid_raw_recorded
+Southwest Research Institute,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:8766,,-99,,,unresolved_identity
+Hope College,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:8892,170301,3,Hope College,3,verified_unitid_raw_recorded
+Normandale Community College,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:91178,174428,-2,Normandale Community College,-2,verified_unitid_raw_recorded
+Macalester College,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9157,173902,-2,Macalester College,-2,verified_unitid_raw_recorded
+SUNY College at Old Westbury,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9293,196237,-2,SUNY College at Old Westbury,-2,verified_unitid_raw_recorded
+Hawaii Pacific University,3,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:94419,141644,3,Hawaii Pacific University,3,verified_unitid_raw_recorded
+San Diego Society of Natural History,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4290,,-99,,,unresolved_identity
+Dana-Farber Cancer Institute,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:43107,,-99,,,unresolved_identity
+"Haskins Laboratories, Inc.",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:43230,,-99,,,unresolved_identity
+Claremont Graduate University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4474,112251,2,Claremont Graduate University,2,verified_unitid_raw_recorded
+Ashland University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4568,201104,-2,Ashland University,-2,verified_unitid_raw_recorded
+Mote Marine Laboratory,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:45703,,-99,,,unresolved_identity
+Berry College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:46554,139144,-2,Berry College,-2,verified_unitid_raw_recorded
+Central Connecticut State University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:46864,128771,-2,Central Connecticut State University,-2,verified_unitid_raw_recorded
+NJEDge.Net,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:475372,,-99,,,unresolved_identity
+Norwalk Community College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:48960,,-99,,,unresolved_identity
+Florida State College at Jacksonville,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:49526,133702,-2,Florida State College at Jacksonville,-2,verified_unitid_raw_recorded
+Santa Fe Community College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5010,188137,-2,Santa Fe Community College,-2,verified_unitid_raw_recorded
+Fayetteville State University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:52705,198543,3,Fayetteville State University,3,verified_unitid_raw_recorded
+Georgia Tech Applied Research Corporation,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:53975,,-99,,,unresolved_identity
+Grinnell College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5634,153384,3,Grinnell College,3,verified_unitid_raw_recorded
+ETR Associates,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:57229,,-99,,,unresolved_identity
+Western Illinois University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:60428,149772,3,Western Illinois University,3,verified_unitid_raw_recorded
+Denver Museum of Nature and Science,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:61340,,-99,,,unresolved_identity
+Oakton Community College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:62712,147800,-2,Oakton Community College,-2,verified_unitid_raw_recorded
+Rider University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:64317,186283,-2,Rider University,-2,verified_unitid_raw_recorded
+Sinclair Community College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6496,205470,-2,Sinclair Community College,-2,verified_unitid_raw_recorded
+New York Institute of Technology,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:66793,194091,3,New York Institute of Technology,3,verified_unitid_raw_recorded
+Montgomery County Community College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6945,214111,-2,Montgomery County Community College,-2,verified_unitid_raw_recorded
+Brookdale Community College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:70563,183859,-2,Brookdale Community College,-2,verified_unitid_raw_recorded
+University of Arkansas at Pine Bluff,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:73771,106412,3,University of Arkansas at Pine Bluff,3,verified_unitid_raw_recorded
+University of Miami School of Medicine,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:76163,,-99,,,unresolved_identity
+Entomological Society of America,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:77582,,-99,,,unresolved_identity
+Florida Gulf Coast University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:78406,433660,3,Florida Gulf Coast University,3,verified_unitid_raw_recorded
+Highline Community College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:79993,,-99,,,unresolved_identity
+Association of American Geographers,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:8254,,-99,,,unresolved_identity
+American Society For Cell Biology,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:88371,,-99,,,unresolved_identity
+Weber State University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:89415,230782,-2,Weber State University,-2,verified_unitid_raw_recorded
+Northern New Mexico College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:89492,188058,-2,Northern New Mexico College,-2,verified_unitid_raw_recorded
+BRIDGEWATER STATE UNIVERSITY,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9260,165024,-2,Bridgewater State University,-2,verified_unitid_raw_recorded
+Indian River State College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:109122,134608,-2,Indian River State College,-2,verified_unitid_raw_recorded
+National Center for Genome Resources,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11159,,-99,,,unresolved_identity
+Society for Integrative and Comparative Biology,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11203,,-99,,,unresolved_identity
+Northwestern University at Chicago,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:115263,,-99,,,unresolved_identity
+Conference Board Math Sciences,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11580,,-99,,,unresolved_identity
+West Texas A&M University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:115941,229814,-99,West Texas A & M University,3,verified_unitid_raw_missing
+Wistar Institute,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11654,,-99,,,unresolved_identity
+Johnson County Community College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:120089,155210,-2,Johnson County Community College,-2,verified_unitid_raw_recorded
+University of Connecticut Health Center,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:12400,,-99,,,unresolved_identity
+Mayo Clinic Rochester,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:12552,,-99,,,unresolved_identity
+OFM Research,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:128943,,-99,,,unresolved_identity
+Yukon River Inter-Tribal Watershed Council,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:132749,,-99,,,unresolved_identity
+Wilkes University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:140414,216931,-2,Wilkes University,-2,verified_unitid_raw_recorded
+The Jane Goodall Institute,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:142166,,-99,,,unresolved_identity
+Educational Testing Service,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:14475,,-99,,,unresolved_identity
+Bay Area Environmental Research Institute,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:145490,,-99,,,unresolved_identity
+"Rutgers, The State University of New Jersey-RBHS-Robert Wood",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:15254,,-99,,,unresolved_identity
+"Association of Universities for Research in Astronomy, Inc.",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:15315,,-99,,,unresolved_identity
+Chicago Public Schools,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:15612,,-99,,,unresolved_identity
+High Point University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:156638,198695,-2,High Point University,-2,verified_unitid_raw_recorded
+Seattle Children's Hospital,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:160267,,-99,,,unresolved_identity
+American Geological Institute,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16088,,-99,,,unresolved_identity
+Mathematical Association of America,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16170,,-99,,,unresolved_identity
+Youngstown State University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16648,206695,3,Youngstown State University,3,verified_unitid_raw_recorded
+Lincoln Park Zoo,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:168723,,-99,,,unresolved_identity
+Mount Desert Island Biological Laboratory,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16882,,-99,,,unresolved_identity
+University of Wisconsin-Stevens Point,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17460,240480,3,University of Wisconsin-Stevens Point,3,verified_unitid_raw_recorded
+New York Hall of Science,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17522,,-99,,,unresolved_identity
+Cooper Union,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17740,,-99,,,unresolved_identity
+Gustavus Adolphus College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17893,173647,-2,Gustavus Adolphus College,-2,verified_unitid_raw_recorded
+Gettysburg College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17946,212674,-2,Gettysburg College,-2,verified_unitid_raw_recorded
+Murray State University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18092,157401,3,Murray State University,3,verified_unitid_raw_recorded
+Hood College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18223,162760,-2,Hood College,-2,verified_unitid_raw_recorded
+"Minnesota State University, Mankato",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18243,173920,-99,Minnesota State University-Mankato,3,verified_unitid_raw_missing
+Jacksonville State University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18282,101480,-2,Jacksonville State University,-2,verified_unitid_raw_recorded
+Bradley University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18401,143358,-2,Bradley University,-2,verified_unitid_raw_recorded
+"Engineering Conferences International, Inc.",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:188750,,-99,,,unresolved_identity
+Rhodes College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:19011,221351,-2,Rhodes College,-2,verified_unitid_raw_recorded
+College of Saint Benedict,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:193005,174747,-2,College of Saint Benedict,-2,verified_unitid_raw_recorded
+Christopher Newport University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:19350,231712,3,Christopher Newport University,3,verified_unitid_raw_recorded
+BSCS Science Learning,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:21026,,-99,,,unresolved_identity
+Contra Costa Community College District,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:21076,,-99,,,unresolved_identity
+COMMONWEALTH UNIVERSITY OF PENNSYLVANIA,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:21518,498562,-2,Commonwealth University of Pennsylvania,-2,verified_unitid_raw_recorded
+Rockhurst University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:21962,179043,-2,Rockhurst University,-2,verified_unitid_raw_recorded
+Mitchell Hamline School of Law,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:220900,175281,-2,Mitchell Hamline School of Law,-2,verified_unitid_raw_recorded
+Marshall University Research Corporation,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22100,,-99,,,unresolved_identity
+East Stroudsburg University of Pennsylvania,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:221225,212115,3,East Stroudsburg University of Pennsylvania,3,verified_unitid_raw_recorded
+"Community College of Baltimore County, Essex",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22192,,-99,,,unresolved_identity
+Texas Southern University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22296,229063,2,Texas Southern University,2,verified_unitid_raw_recorded
+Alverno College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22347,238193,-2,Alverno College,-2,verified_unitid_raw_recorded
+Northern Virginia Community College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:230103,232946,-2,Northern Virginia Community College,-2,verified_unitid_raw_recorded
+The Tor Project,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:232848,,-99,,,unresolved_identity
+Challenger Center for Space Science Education,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:23543,,-99,,,unresolved_identity
+Massachusetts Bay Community College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:24566,166647,-2,Massachusetts Bay Community College,-2,verified_unitid_raw_recorded
+Nova Southeastern University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2474,136215,1,Nova Southeastern University,1,verified_unitid_raw_recorded
+Asheville-Buncombe Technical Community College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:248398,197887,-2,Asheville-Buncombe Technical Community College,-2,verified_unitid_raw_recorded
+The Chicago School of Professional Psychology,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:252655,,-99,,,unresolved_identity
+Clark Atlanta University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2541,138947,2,Clark Atlanta University,2,verified_unitid_raw_recorded
+LINFIELD UNIVERSITY,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:255336,209065,-2,Linfield University,-2,verified_unitid_raw_recorded
+"US Ignite, Inc.",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:258366,,-99,,,unresolved_identity
+Association of American Universities,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:25863,,-99,,,unresolved_identity
+Southeast Community College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:266726,,-99,,,unresolved_identity
+Bernice P Bishop Museum,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27578,,-99,,,unresolved_identity
+Savannah State University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:28219,140960,-2,Savannah State University,-2,verified_unitid_raw_recorded
+Environmental Law Institute,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:288532,,-99,,,unresolved_identity
+National-Louis University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:294455,147536,-99,National Louis University,-2,verified_unitid_raw_missing
+Provivi Inc.,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:297023,,-99,,,unresolved_identity
+"TAO Connect, Inc.",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:297115,,-99,,,unresolved_identity
+"Black Lattice Technologies, Inc.",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:297145,,-99,,,unresolved_identity
+"Cardiac Motion, LLC",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:297159,,-99,,,unresolved_identity
+Dickinson College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:30680,212009,-2,Dickinson College,-2,verified_unitid_raw_recorded
+Swinomish Indian Tribal Community,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:307664,,-99,,,unresolved_identity
+ZeroUI Inc,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:308588,,-99,,,unresolved_identity
+"Histogen, Inc.",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:308859,,-99,,,unresolved_identity
+"SiMPore, Inc.",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:308880,,-99,,,unresolved_identity
+"SysteMECH, Inc.",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:308924,,-99,,,unresolved_identity
+Hollins University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:309920,232308,-2,Hollins University,-2,verified_unitid_raw_recorded
+"The Massachusetts Green High Performance Computing Center, Inc.",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:313155,,-99,,,unresolved_identity
+"BioQUEST Curriculum Consortium, Inc",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:315540,,-99,,,unresolved_identity
+DMC Limited,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:316706,,-99,,,unresolved_identity
+"Clerio Vision, Inc.",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:316759,,-99,,,unresolved_identity
+"MEMBRANE TECHNOLOGY & RESEARCH, INC.",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:31811,,-99,,,unresolved_identity
+PaleoCultural Research Group,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:319378,,-99,,,unresolved_identity
+Ronin Institute for Independent Scholarship Incorporated,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:319676,,-99,,,unresolved_identity
+The National GEM Consortium,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:321522,,-99,,,unresolved_identity
+Upper Iowa University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:321872,154493,-2,Upper Iowa University,-2,verified_unitid_raw_recorded
+Riverside Community College District/Riverside City College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:322598,,-99,,,unresolved_identity
+RJH Scientific Incorporated,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:325,,-99,,,unresolved_identity
+Knology Ltd.,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:326340,,-99,,,unresolved_identity
+Innoblative Designs,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:329730,,-99,,,unresolved_identity
+Parametric Studio Inc.,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:329757,,-99,,,unresolved_identity
+embr labs inc.,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:329770,,-99,,,unresolved_identity
+Dynalene Inc.,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:329790,,-99,,,unresolved_identity
+KNOX Medical Diagnostics Inc.,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:329802,,-99,,,unresolved_identity
+"Applied Visions, Inc.",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:329873,,-99,,,unresolved_identity
+"Center For Coastal Studies, Inc.",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:330639,,-99,,,unresolved_identity
+Tribal Nations Research Group,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:333410,,-99,,,unresolved_identity
+Microgrid Labs Inc.,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:336945,,-99,,,unresolved_identity
+SafelyYou Inc.,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:336948,,-99,,,unresolved_identity
+Azitra Inc.,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:336983,,-99,,,unresolved_identity
+Ironic Chemicals LLC,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:337011,,-99,,,unresolved_identity
+Georgia Department of Education,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:337623,,-99,,,unresolved_identity
+The Water Institute of the Gulf,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:340757,,-99,,,unresolved_identity
+University of  Puget Sound,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3417,236328,-99,University of Puget Sound,-2,verified_unitid_raw_missing
+Los Angeles Mission College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:342287,117867,-2,Los Angeles Mission College,-2,verified_unitid_raw_recorded
+University of Saint Thomas,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:34799,,-99,,,unresolved_identity
+NUTRAMAIZE LLC,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:348844,,-99,,,unresolved_identity
+Aerosol Devices Inc.,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:348921,,-99,,,unresolved_identity
+Clarion University of Pennsylvania,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35090,,-99,,,unresolved_identity
+Tarleton State University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35262,228529,2,Tarleton State University,2,verified_unitid_raw_recorded
+Denison University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3554,202523,-2,Denison University,-2,verified_unitid_raw_recorded
+"Stereology Resource Center, Inc.",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:355792,,-99,,,unresolved_identity
+"Ferric Contrast, Inc.",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:355808,,-99,,,unresolved_identity
+"Capacitech Energy, Inc",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:355877,,-99,,,unresolved_identity
+"Loyola University Maryland, Inc.",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35682,,-99,,,unresolved_identity
+Alfred University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35757,188641,3,Alfred University,3,verified_unitid_raw_recorded
+Dominican University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:359586,148496,-2,Dominican University,-2,verified_unitid_raw_recorded
+Precision Microwave Inc.,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:367014,,-99,,,unresolved_identity
+"Avium, LLC",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:367202,,-99,,,unresolved_identity
+"Li Industries, Inc",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:367281,,-99,,,unresolved_identity
+"Antora Energy, Inc.",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:367413,,-99,,,unresolved_identity
+HudsonAlpha Institute for Biotechnology,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:369594,,-99,,,unresolved_identity
+Adler Planetarium,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:37437,,-99,,,unresolved_identity
+"Optimeos Life Sciences, Inc.",2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:375614,,-99,,,unresolved_identity
+Scripps College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:37602,123165,-2,Scripps College,-2,verified_unitid_raw_recorded
+LASARRUS CLINIC AND RESEARCH CENTER,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:384888,,-99,,,unresolved_identity
+WESTMINSTER UNIVERSITY,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38513,,-99,,,unresolved_identity
+SUNY Onondaga Community College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38642,,-99,,,unresolved_identity
+Suffolk Community College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:39093,,-99,,,unresolved_identity
+INTERNET2,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:39148,,-99,,,unresolved_identity
+Mathematical Sciences Research Institute,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:39405,,-99,,,unresolved_identity
+SETI Institute,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:40317,,-99,,,unresolved_identity
+The University of Montana-Western,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:406939,180692,-2,The University of Montana-Western,-2,verified_unitid_raw_recorded
+Columbus State University,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:40772,139366,-2,Columbus State University,-2,verified_unitid_raw_recorded
+University of West Florida,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:40982,,-99,,,unresolved_identity
+Hampden-Sydney College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:40989,232256,-2,Hampden-Sydney College,-2,verified_unitid_raw_recorded
+Arizona Technology Council Foundation,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:412581,,-99,,,unresolved_identity
+Stonehill College,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4238,167996,-2,Stonehill College,-2,verified_unitid_raw_recorded
+SUNY College at Buffalo,2,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:42771,,-99,,,unresolved_identity
+St Mary's College of Maryland,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:10012,163912,-99,St. Mary's College of Maryland,-2,verified_unitid_raw_missing
+National Institute of Aerospace Associates,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:101252,,-99,,,unresolved_identity
+Texas Tech University Health Science Center,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:103014,,-99,,,unresolved_identity
+Salisbury University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:10447,163851,3,Salisbury University,3,verified_unitid_raw_recorded
+University of Kansas Medical Center Research Institute Inc,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:105070,,-99,,,unresolved_identity
+"ImageCat, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:107685,,-99,,,unresolved_identity
+University of North Alabama,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:108301,101879,-2,University of North Alabama,-2,verified_unitid_raw_recorded
+Macomb Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:109181,170790,-2,Macomb Community College,-2,verified_unitid_raw_recorded
+Gonzaga University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:10956,235316,-2,Gonzaga University,-2,verified_unitid_raw_recorded
+Henry M Jackson Fdn for Advmt of Military Medicine,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11031,,-99,,,unresolved_identity
+IONA UNIVERSITY,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11047,191931,-2,Iona University,-2,verified_unitid_raw_recorded
+Sealaska Heritage Institute,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:110545,,-99,,,unresolved_identity
+Grambling State University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:110871,159009,-2,Grambling State University,-2,verified_unitid_raw_recorded
+The Scripps Research Institute,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11365,,-99,,,unresolved_identity
+University of Wisconsin-Oshkosh,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11404,240365,-2,University of Wisconsin-Oshkosh,-2,verified_unitid_raw_recorded
+University of Central Arkansas,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11509,106704,3,University of Central Arkansas,3,verified_unitid_raw_recorded
+Oakwood College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:116260,,-99,,,unresolved_identity
+Occidental College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1189,120254,3,Occidental College,3,verified_unitid_raw_recorded
+Everett Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:120024,235149,-2,Everett Community College,-2,verified_unitid_raw_recorded
+University of Puerto Rico,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:12164,,-99,,,unresolved_identity
+Winthrop University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:121917,218964,3,Winthrop University,3,verified_unitid_raw_recorded
+Marist College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:12315,192819,-2,Marist College,-2,verified_unitid_raw_recorded
+"Florida Institute for Human and Machine Cognition, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:124649,,-99,,,unresolved_identity
+Space Environment Technologies,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:125697,,-99,,,unresolved_identity
+Council on Undergraduate Research,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:127249,,-99,,,unresolved_identity
+"Hopa Mountain, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:129571,,-99,,,unresolved_identity
+Spectral Sciences Inc,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:130037,,-99,,,unresolved_identity
+Bay Mills Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:133734,380359,-2,Bay Mills Community College,-2,verified_unitid_raw_recorded
+Indiana University of Pennsylvania Research Institute,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:134430,,-99,,,unresolved_identity
+Voorhees College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:135071,,-99,,,unresolved_identity
+College of Saint Mary,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:136564,181604,-2,College of Saint Mary,-2,verified_unitid_raw_recorded
+California State University-Stanislaus,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:136967,110495,-2,California State University-Stanislaus,-2,verified_unitid_raw_recorded
+Newberry College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:137492,218414,-2,Newberry College,-2,verified_unitid_raw_recorded
+San Mateo County Community College District,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:137598,,-99,,,unresolved_identity
+Aleut International Association,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:137863,,-99,,,unresolved_identity
+Meharry Medical College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:140310,220792,3,Meharry Medical College,3,verified_unitid_raw_recorded
+Institute for Broadening Participation,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:141503,,-99,,,unresolved_identity
+Des Moines Area Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:143584,153214,-2,Des Moines Area Community College,-2,verified_unitid_raw_recorded
+Ivy Tech Community College of Indiana,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:145007,,-99,,,unresolved_identity
+Shaw University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:147668,199643,-2,Shaw University,-2,verified_unitid_raw_recorded
+"Fermi Research Alliance, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:149478,,-99,,,unresolved_identity
+Clinton College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:150746,217891,-2,Clinton College,-2,verified_unitid_raw_recorded
+Northern Michigan University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:151943,171456,-2,Northern Michigan University,-2,verified_unitid_raw_recorded
+Organization for Tropical Studies Inc,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:152030,,-99,,,unresolved_identity
+Botanical Society of America,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:155543,,-99,,,unresolved_identity
+Fraunhofer Center for Experimental Software Engineering,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:155805,,-99,,,unresolved_identity
+Middlesex Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:156264,166887,-2,Middlesex Community College,-2,verified_unitid_raw_recorded
+Flathead Valley Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:156376,180197,-2,Flathead Valley Community College,-2,verified_unitid_raw_recorded
+California State University Channel Islands,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:156580,441937,-99,California State University-Channel Islands,3,verified_unitid_raw_missing
+Western University of Health Sciences,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:157543,112525,3,Western University of Health Sciences,3,verified_unitid_raw_recorded
+Washington and Lee University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:15965,234207,-2,Washington and Lee University,-2,verified_unitid_raw_recorded
+National Tropical Botanical Garden,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:160527,,-99,,,unresolved_identity
+Orangeburg-Calhoun Technical College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:163803,218487,-99,Orangeburg Calhoun Technical College,-2,verified_unitid_raw_missing
+Cankdeska Cikana Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16462,200208,-2,Cankdeska Cikana Community College,-2,verified_unitid_raw_recorded
+Turtle Mountain Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16485,200527,-2,Turtle Mountain Community College,-2,verified_unitid_raw_recorded
+Sitting Bull College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16509,200466,-2,Sitting Bull College,-2,verified_unitid_raw_recorded
+Sisseton Wahpeton Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16513,,-99,,,unresolved_identity
+NUETA HIDATSA SAHNISH COLLEGE,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16520,200086,-2,Nueta Hidatsa Sahnish College,-2,verified_unitid_raw_recorded
+Georgia Gwinnett College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:165595,447689,-2,Georgia Gwinnett College,-2,verified_unitid_raw_recorded
+Gannon University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:165629,212601,-2,Gannon University,-2,verified_unitid_raw_recorded
+Bay Path University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:165825,164632,-2,Bay Path University,-2,verified_unitid_raw_recorded
+Blackfeet Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16624,180054,-2,Blackfeet Community College,-2,verified_unitid_raw_recorded
+Kean University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16866,185262,2,Kean University,2,verified_unitid_raw_recorded
+Wayne State College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:169150,181783,-2,Wayne State College,-2,verified_unitid_raw_recorded
+Louisiana Transportation Research Center,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:169172,,-99,,,unresolved_identity
+"Society for Mathematical Psychology, Inc",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:170509,,-99,,,unresolved_identity
+Eastern Mennonite University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:170750,232043,-2,Eastern Mennonite University,-2,verified_unitid_raw_recorded
+Quinnipiac University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:171544,130226,-2,Quinnipiac University,-2,verified_unitid_raw_recorded
+Human Relations Area Files,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:171577,,-99,,,unresolved_identity
+Project Exploration,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:173312,,-99,,,unresolved_identity
+Westfield State College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:175741,,-99,,,unresolved_identity
+Concordia University Chicago,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:175848,144351,-99,Concordia University-Chicago,-2,verified_unitid_raw_missing
+Colorado State University-Pueblo,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17778,128106,-99,Colorado State University Pueblo,3,verified_unitid_raw_missing
+Wittenberg University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17809,206525,-2,Wittenberg University,-2,verified_unitid_raw_recorded
+LeTourneau University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17840,226231,-2,LeTourneau University,-2,verified_unitid_raw_recorded
+St. Catherine University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17867,175005,-99,St Catherine University,-2,verified_unitid_raw_missing
+St Mary's College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18019,,-99,,,unresolved_identity
+Community College of Allegheny County Allegheny Campus,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:180354,,-99,,,unresolved_identity
+American Samoa Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:180454,240736,-2,American Samoa Community College,-2,verified_unitid_raw_recorded
+Ranken Technical College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:180624,178891,-2,Ranken Technical College,-2,verified_unitid_raw_recorded
+Saint Mary's University of Minnesota,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:181845,174817,-2,Saint Mary's University of Minnesota,-2,verified_unitid_raw_recorded
+Kettering University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18197,169983,-2,Kettering University,-2,verified_unitid_raw_recorded
+Radford University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18217,233277,-2,Radford University,-2,verified_unitid_raw_recorded
+Austin Peay State University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18256,219602,3,Austin Peay State University,3,verified_unitid_raw_recorded
+Cochise College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:183605,,-99,,,unresolved_identity
+Columbia College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18378,,-2,,,raw_recorded_identity_unresolved
+MERCY UNIVERSITY,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18471,193016,-2,Mercy University,-2,verified_unitid_raw_recorded
+Fort Lewis College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18486,127185,3,Fort Lewis College,3,verified_unitid_raw_recorded
+Central Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:184976,180902,-2,Central Community College,-2,verified_unitid_raw_recorded
+Butler County Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:185131,,-2,,,raw_recorded_identity_unresolved
+Stockton University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18561,186876,-2,Stockton University,-2,verified_unitid_raw_recorded
+Rowan College of Burlington County,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18598,,-99,,,unresolved_identity
+"California State University, East Bay Foundation, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18618,,-99,,,unresolved_identity
+Simpson College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18667,154350,-2,Simpson College,-2,verified_unitid_raw_recorded
+Baker University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18692,154688,-2,Baker University,-2,verified_unitid_raw_recorded
+Fort Hays State University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18776,155061,-2,Fort Hays State University,-2,verified_unitid_raw_recorded
+Arkansas State University Main Campus,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18906,,-99,,,unresolved_identity
+Knox College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18969,146427,-2,Knox College,-2,verified_unitid_raw_recorded
+SUNY College of Technology Farmingdale,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:19187,,-99,,,unresolved_identity
+University of Nebraska at Kearney,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:19414,181215,3,University of Nebraska at Kearney,3,verified_unitid_raw_recorded
+Salem State University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:195673,167729,-2,Salem State University,-2,verified_unitid_raw_recorded
+St. John Fisher College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:197497,,-99,,,unresolved_identity
+St Mary's University San Antonio,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:198037,,-99,,,unresolved_identity
+Society of Women Engineers,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:198482,,-99,,,unresolved_identity
+University of Central Oklahoma,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:19869,206941,3,University of Central Oklahoma,3,verified_unitid_raw_recorded
+Rockefeller University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:20127,,-99,,,unresolved_identity
+University of Arkansas Little Rock,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:20582,,-99,,,unresolved_identity
+Seton Hall University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:20764,186584,2,Seton Hall University,2,verified_unitid_raw_recorded
+State Science & Technology Institute,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:20865,,-99,,,unresolved_identity
+Palomar College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:209328,120971,-2,Palomar College,-2,verified_unitid_raw_recorded
+Florida Keys Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:209623,,-99,,,unresolved_identity
+Spaulding Rehabilitation Hospital,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:210538,,-99,,,unresolved_identity
+American Educational Research Association,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:21080,,-99,,,unresolved_identity
+Harding University Main Campus,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:211213,,-99,,,unresolved_identity
+Ursinus College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:21130,216524,-2,Ursinus College,-2,verified_unitid_raw_recorded
+Electronic Bio Sciences,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:213074,,-99,,,unresolved_identity
+"RMC Research Corporation, OR",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:215107,,-99,,,unresolved_identity
+Society for Advancement of Chicanos & Native Americans in Sci,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:21524,,-99,,,unresolved_identity
+University of Houston - Downtown,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:21954,225432,-99,University of Houston-Downtown,-2,verified_unitid_raw_missing
+Eastern Kentucky University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:21958,156620,-2,Eastern Kentucky University,-2,verified_unitid_raw_recorded
+Colorado Mesa University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22002,127556,-2,Colorado Mesa University,-2,verified_unitid_raw_recorded
+La Salle University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22058,213367,-2,La Salle University,-2,verified_unitid_raw_recorded
+Vaughn College of Aeronautics and Technology,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22139,188340,-2,Vaughn College of Aeronautics and Technology,-2,verified_unitid_raw_recorded
+Trident Technical College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22158,218894,-2,Trident Technical College,-2,verified_unitid_raw_recorded
+Rhode Island School of Design,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:222476,217493,3,Rhode Island School of Design,3,verified_unitid_raw_recorded
+South Texas College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22264,409315,-2,South Texas College,-2,verified_unitid_raw_recorded
+Texas Woman's University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22310,229179,2,Texas Woman's University,2,verified_unitid_raw_recorded
+Prince George's Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22358,163657,-2,Prince George's Community College,-2,verified_unitid_raw_recorded
+Montgomery College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22367,163426,-2,Montgomery College,-2,verified_unitid_raw_recorded
+Zoological Society of San Diego,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22525,,-99,,,unresolved_identity
+Miami Dade College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22660,135717,-2,Miami Dade College,-2,verified_unitid_raw_recorded
+East Los Angeles College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:228510,113856,-2,East Los Angeles College,-2,verified_unitid_raw_recorded
+Triton College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:230113,149532,-2,Triton College,-2,verified_unitid_raw_recorded
+Whatcom Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:230217,237039,-2,Whatcom Community College,-2,verified_unitid_raw_recorded
+Jacobs Technology Inc.,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:234582,,-99,,,unresolved_identity
+Southern Nazarene University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:236343,206862,-2,Southern Nazarene University,-2,verified_unitid_raw_recorded
+Botanical Research Institute of Texas,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:23645,,-99,,,unresolved_identity
+Mount St. Mary's University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:236603,163462,-2,Mount St. Mary's University,-2,verified_unitid_raw_recorded
+Joan and Sanford I. Weill Medical College of Cornell University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:23795,,-99,,,unresolved_identity
+SUNY College at Potsdam,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:24181,196200,-2,SUNY College at Potsdam,-2,verified_unitid_raw_recorded
+Bakersfield College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:244624,109819,-2,Bakersfield College,-2,verified_unitid_raw_recorded
+Loggerhead Instruments,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:244712,,-99,,,unresolved_identity
+Los Angeles City College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:245220,117788,-2,Los Angeles City College,-2,verified_unitid_raw_recorded
+University of Detroit Mercy,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2471,169716,3,University of Detroit Mercy,3,verified_unitid_raw_recorded
+May                     Gary           S,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:247218,,-99,,,unresolved_identity
+Ratnanather             John           T,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:247238,,-99,,,unresolved_identity
+Humphreys               Sheila         M,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:247245,,-99,,,unresolved_identity
+Kambhampati             Murty          S,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:247404,,-99,,,unresolved_identity
+Thomas Jefferson Institute for the Study of World Politics,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:248083,,-99,,,unresolved_identity
+Lewis and Clark Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:248115,146603,-2,Lewis and Clark Community College,-2,verified_unitid_raw_recorded
+Virginia Western Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:248441,233949,-2,Virginia Western Community College,-2,verified_unitid_raw_recorded
+Massasoit Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:248553,166823,-2,Massasoit Community College,-2,verified_unitid_raw_recorded
+Central Caribbean Marine Institute,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:254348,,-99,,,unresolved_identity
+Downeast Institute for Applied Marine Research and Education,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:256326,,-99,,,unresolved_identity
+Health Research Incorporated/New York State Department of Health,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:258,,-99,,,unresolved_identity
+Harford Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:258472,162706,-2,Harford Community College,-2,verified_unitid_raw_recorded
+"Ichauway, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:258501,,-99,,,unresolved_identity
+Andrews University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:25931,168740,-2,Andrews University,-2,verified_unitid_raw_recorded
+Fleming                 Lorraine       N,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:259903,,-99,,,unresolved_identity
+Petersen                Sandra         L,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:260007,,-99,,,unresolved_identity
+Suffolk University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:26111,168005,3,Suffolk University,3,verified_unitid_raw_recorded
+Western Colorado University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:266180,128391,-2,Western Colorado University,-2,verified_unitid_raw_recorded
+Forsyth Technical Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:266755,198552,-2,Forsyth Technical Community College,-2,verified_unitid_raw_recorded
+Irvine Valley College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:266802,116439,-2,Irvine Valley College,-2,verified_unitid_raw_recorded
+"Jobs for the Future, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:266861,,-99,,,unresolved_identity
+Meredith College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:26930,198950,-2,Meredith College,-2,verified_unitid_raw_recorded
+Computing Research Association,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27018,,-99,,,unresolved_identity
+Hubbard Brook Research Foundation,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2702,,-99,,,unresolved_identity
+Community College of Philadelphia,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27040,215239,-2,Community College of Philadelphia,-2,verified_unitid_raw_recorded
+Green River Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27142,,-99,,,unresolved_identity
+Salt Lake Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27154,230746,-2,Salt Lake Community College,-2,verified_unitid_raw_recorded
+Chemeketa Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27158,208390,-2,Chemeketa Community College,-2,verified_unitid_raw_recorded
+Kirkwood Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27166,153737,-2,Kirkwood Community College,-2,verified_unitid_raw_recorded
+Minneapolis Community and Technical College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27197,174136,-2,Minneapolis Community and Technical College,-2,verified_unitid_raw_recorded
+Alelo TLT LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:272092,,-99,,,unresolved_identity
+Cell-Free Bioinnovations Inc.,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:272256,,-99,,,unresolved_identity
+Evergreen Valley College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27226,114266,-2,Evergreen Valley College,-2,verified_unitid_raw_recorded
+Mississippi Gulf Coast Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27246,176071,-2,Mississippi Gulf Coast Community College,-2,verified_unitid_raw_recorded
+Community College District 502,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27267,,-99,,,unresolved_identity
+Robert Morris University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27301,215655,-2,Robert Morris University,-2,verified_unitid_raw_recorded
+Innovations for Poverty Action,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:273341,,-99,,,unresolved_identity
+Samford University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:273403,102049,-2,Samford University,-2,verified_unitid_raw_recorded
+Delaware Technical & Community College Stanton-Newark Campus,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27438,,-99,,,unresolved_identity
+Southwestern College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27464,,-2,,,raw_recorded_identity_unresolved
+Greenville Technical College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27487,218113,-2,Greenville Technical College,-2,verified_unitid_raw_recorded
+University of Southern Indiana,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27573,151306,-2,University of Southern Indiana,-2,verified_unitid_raw_recorded
+University of West Alabama,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:280917,101587,-2,University of West Alabama,-2,verified_unitid_raw_recorded
+Gaston College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:281460,198570,-2,Gaston College,-2,verified_unitid_raw_recorded
+Saint Paul College-A community & Technical College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:283135,,-99,,,unresolved_identity
+Daemen College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:283169,,-99,,,unresolved_identity
+Northwestern Connecticut Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:283850,,-99,,,unresolved_identity
+Santa Monica College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:283900,122977,-2,Santa Monica College,-2,verified_unitid_raw_recorded
+"Liberty University, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:284662,,-99,,,unresolved_identity
+Drew University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:28742,184348,-2,Drew University,-2,verified_unitid_raw_recorded
+Data & Society Research Institute,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:287568,,-99,,,unresolved_identity
+Access Sensor Technologies,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:288544,,-99,,,unresolved_identity
+SIPPA Solutions LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:288651,,-99,,,unresolved_identity
+"MSTM, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:288992,,-99,,,unresolved_identity
+Tunxis Community-Technical College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:289812,,-99,,,unresolved_identity
+Medical College of Wisconsin,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2914,239169,2,Medical College of Wisconsin,2,verified_unitid_raw_recorded
+Pacific Science Center Foundation,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:29285,,-99,,,unresolved_identity
+"START International, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:294606,,-99,,,unresolved_identity
+The HDF Group,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:295393,,-99,,,unresolved_identity
+"Sigma Learning Systems, LLC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:296761,,-99,,,unresolved_identity
+Vinazene Inc,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:296929,,-99,,,unresolved_identity
+Micro-Precision Technologies,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:297068,,-99,,,unresolved_identity
+"Bert Thin Films, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:297076,,-99,,,unresolved_identity
+Roundtable Analytics LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:297080,,-99,,,unresolved_identity
+"Invictus Medical, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:297088,,-99,,,unresolved_identity
+"Contect, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:297101,,-99,,,unresolved_identity
+"AccuPS, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:297110,,-99,,,unresolved_identity
+Waste2Watergy LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:297124,,-99,,,unresolved_identity
+Ecovia Renewables Inc.,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:297127,,-99,,,unresolved_identity
+Algoma Algal Biotechnology LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:297149,,-99,,,unresolved_identity
+Diassess Inc.,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:297169,,-99,,,unresolved_identity
+Texas Lutheran University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:300119,228981,-2,Texas Lutheran University,-2,verified_unitid_raw_recorded
+Southwestern Illinois College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:300261,143215,-2,Southwestern Illinois College,-2,verified_unitid_raw_recorded
+Livingstone College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:304212,198862,-2,Livingstone College,-2,verified_unitid_raw_recorded
+American Mathematical Association of Two-Year College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3050,,-99,,,unresolved_identity
+"The Children's Museum of Atlanta, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:306293,,-99,,,unresolved_identity
+American Association of Physical Anthropologists,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:307695,,-99,,,unresolved_identity
+"University of California, Office of the President, Oakland",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3081,,-99,,,unresolved_identity
+Baicor L.C.,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:308770,,-99,,,unresolved_identity
+Wasatch Autonomy Inc.,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:308801,,-99,,,unresolved_identity
+"Visolis, Inc",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:308808,,-99,,,unresolved_identity
+"Peak Diagnostics, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:308817,,-99,,,unresolved_identity
+"Surface Integrity, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:308822,,-99,,,unresolved_identity
+Epicrop Technologies Inc,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:308826,,-99,,,unresolved_identity
+"Smart Material Solutions, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:308834,,-99,,,unresolved_identity
+"Aerodyn Combustion, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:308854,,-99,,,unresolved_identity
+Advanced Biosensors Inc.,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:308863,,-99,,,unresolved_identity
+Revolution Research Inc.,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:308869,,-99,,,unresolved_identity
+"Innovelix, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:308893,,-99,,,unresolved_identity
+EPVSENSORS Limited Liability Company,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:308934,,-99,,,unresolved_identity
+Christiana Care Health Services Incorporated,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:309099,,-99,,,unresolved_identity
+Broward College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:310051,132709,-2,Broward College,-2,verified_unitid_raw_recorded
+University of Minnesota Morris,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3102,174251,-99,University of Minnesota-Morris,-2,verified_unitid_raw_missing
+Riverside Community College District/Moreno Valley Campus,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:310272,,-99,,,unresolved_identity
+Lincoln University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3105,,-2,,,raw_recorded_identity_unresolved
+Front Range Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:313625,127200,-2,Front Range Community College,-2,verified_unitid_raw_recorded
+Citrus Community College District,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:313973,,-99,,,unresolved_identity
+Eidos Education,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:315553,,-99,,,unresolved_identity
+"Morphix Technologies, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:316191,,-99,,,unresolved_identity
+"VinSense, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:316657,,-99,,,unresolved_identity
+Battery Resourcers LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:316662,,-99,,,unresolved_identity
+"Gamma Therapeutics, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:316685,,-99,,,unresolved_identity
+Wavetronix LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:316690,,-99,,,unresolved_identity
+"Boston Mountain Biotech, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:316710,,-99,,,unresolved_identity
+"Kuma Signals, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:316723,,-99,,,unresolved_identity
+"Applied Particle Technology, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:316726,,-99,,,unresolved_identity
+epoXtal LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:316730,,-99,,,unresolved_identity
+FlexCompute Inc,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:316735,,-99,,,unresolved_identity
+"Betula Extractives, LLC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:316744,,-99,,,unresolved_identity
+RedShred,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:316755,,-99,,,unresolved_identity
+"Intelligent Composites, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:316762,,-99,,,unresolved_identity
+Nanotechnology Patronas Group Inc,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:316773,,-99,,,unresolved_identity
+"MicroHAOPs, Inc",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:316784,,-99,,,unresolved_identity
+"Sindre Metals, Inc",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:316805,,-99,,,unresolved_identity
+Proximity Biosciences LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:316808,,-99,,,unresolved_identity
+Physics Front LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:316823,,-99,,,unresolved_identity
+Privasera Inc.,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:316828,,-99,,,unresolved_identity
+"Sequoia Scientific, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:31683,,-99,,,unresolved_identity
+"ODMR Technologies, Inc",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:316831,,-99,,,unresolved_identity
+"Fluency Lighting Technologies, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:316836,,-99,,,unresolved_identity
+Dascena,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:316842,,-99,,,unresolved_identity
+Society For Developmental Biol,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:31893,,-99,,,unresolved_identity
+Farallon Institute for Advanced Ecosystem Research,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:319860,,-99,,,unresolved_identity
+"Saint Leo University, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:321569,,-99,,,unresolved_identity
+Central Carolina Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:321637,198251,-2,Central Carolina Community College,-2,verified_unitid_raw_recorded
+The University of Louisiana at Monroe,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3218,,-99,,,unresolved_identity
+Louisiana Universities Marine Corsortium,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:322,,-99,,,unresolved_identity
+Los Angeles Pierce College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:322116,117706,-2,Los Angeles Pierce College,-2,verified_unitid_raw_recorded
+University of Oklahoma Health Sciences Center,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:32218,207342,-99,University of Oklahoma-Health Sciences Center,2,verified_unitid_raw_missing
+North Florida Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:322442,,-99,,,unresolved_identity
+Renton Technical College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:323013,236382,-2,Renton Technical College,-2,verified_unitid_raw_recorded
+WICHITA STATE UNIVERSITY CAMPUS OF APPLIED SCIENCES & TECHNOLOGY,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:323376,,-99,,,unresolved_identity
+Brevard College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:324948,198066,-2,Brevard College,-2,verified_unitid_raw_recorded
+Sciencenter,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:325500,,-99,,,unresolved_identity
+"Science Communication Lab, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:328020,,-99,,,unresolved_identity
+Nokia of America Corporation,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:32892,,-99,,,unresolved_identity
+"Diligent Droids, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:329292,,-99,,,unresolved_identity
+QT Holdings Corp.,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:329577,,-99,,,unresolved_identity
+"ALA Scientific Instruments, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:329648,,-99,,,unresolved_identity
+Mobile Sleep Technologies L.L.C,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:329693,,-99,,,unresolved_identity
+SusTerea Biorenewables LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:329710,,-99,,,unresolved_identity
+Big Blue Technologies LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:329717,,-99,,,unresolved_identity
+"Moerae Matrix, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:329720,,-99,,,unresolved_identity
+Prosapia Genetics LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:329726,,-99,,,unresolved_identity
+Shaw Mountain Technology LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:329742,,-99,,,unresolved_identity
+AxNano LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:329750,,-99,,,unresolved_identity
+"BEMCONTROLS, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:329753,,-99,,,unresolved_identity
+Opticent,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:329783,,-99,,,unresolved_identity
+"GuidaBot, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:329796,,-99,,,unresolved_identity
+Lula Robotics Inc.,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:329806,,-99,,,unresolved_identity
+TEGA Therapeutics Inc,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:329809,,-99,,,unresolved_identity
+Metal Fatigue Solutions,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:329812,,-99,,,unresolved_identity
+Association of Science-Technology Centers,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:33042,,-99,,,unresolved_identity
+"Roundtable Analytics, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:332200,,-99,,,unresolved_identity
+Northcentral Technical College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:334226,239460,-2,Northcentral Technical College,-2,verified_unitid_raw_recorded
+"Digital Forensics Solutions, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:334269,,-99,,,unresolved_identity
+Nebraska Wesleyan University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:335189,181446,-2,Nebraska Wesleyan University,-2,verified_unitid_raw_recorded
+"Mount Mary University, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:335429,,-99,,,unresolved_identity
+Carlson                 Kirsten        M,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:335871,,-99,,,unresolved_identity
+"ARCTURA, INC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:336553,,-99,,,unresolved_identity
+Planck Aerosystems Inc,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:336882,,-99,,,unresolved_identity
+Advanced Silicon Group,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:336957,,-99,,,unresolved_identity
+Diamond Tree LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:336971,,-99,,,unresolved_identity
+"California Wave Power Technologies, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:336996,,-99,,,unresolved_identity
+"Smart Health Beacons, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:337018,,-99,,,unresolved_identity
+Biena Tech LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:337022,,-99,,,unresolved_identity
+"Navipoint Genomics, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:337030,,-99,,,unresolved_identity
+"Stryd, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:337035,,-99,,,unresolved_identity
+Emissol LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:337038,,-99,,,unresolved_identity
+"Atlas Regeneration Technologies, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:337046,,-99,,,unresolved_identity
+Council of Athabascan Tribal Governments,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:337694,,-99,,,unresolved_identity
+National Marine Mammal Foundation,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:339269,,-99,,,unresolved_identity
+Nash Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:339287,199087,-2,Nash Community College,-2,verified_unitid_raw_recorded
+NSF International,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:341541,,-99,,,unresolved_identity
+Water Research Foundation,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:343028,,-99,,,unresolved_identity
+Museum of Northern Arizona,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:343139,,-99,,,unresolved_identity
+Northeastern State University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:34515,207263,-2,Northeastern State University,-2,verified_unitid_raw_recorded
+Berea College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:34683,156295,-2,Berea College,-2,verified_unitid_raw_recorded
+Alaska Pacific University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:34769,102669,-2,Alaska Pacific University,-2,verified_unitid_raw_recorded
+DePauw University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:34772,150400,-2,DePauw University,-2,verified_unitid_raw_recorded
+"CGeneTech, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:348615,,-99,,,unresolved_identity
+Dimensional Energy Inc.,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:348632,,-99,,,unresolved_identity
+Franklin County Historical Society,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3487,,-99,,,unresolved_identity
+Multi3D LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:348826,,-99,,,unresolved_identity
+"South 8 Technologies, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:348829,,-99,,,unresolved_identity
+Qatch Technologies LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:348884,,-99,,,unresolved_identity
+"Packetized Energy Technologies, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:348938,,-99,,,unresolved_identity
+"Thermetrics, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:348966,,-99,,,unresolved_identity
+AlchLight,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:348976,,-99,,,unresolved_identity
+"NP SYSTEMS INTEGRATION, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:348995,,-99,,,unresolved_identity
+"Arch InnoTek, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:349014,,-99,,,unresolved_identity
+MVSystems LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:349036,,-99,,,unresolved_identity
+Digital Harbor Foundation,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:349413,,-99,,,unresolved_identity
+BLUE MARBLE SPACE,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:349587,,-99,,,unresolved_identity
+Xavier University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35026,206622,-2,Xavier University,-2,verified_unitid_raw_recorded
+Lamar University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35060,226091,2,Lamar University,2,verified_unitid_raw_recorded
+Pacific University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35073,209612,3,Pacific University,3,verified_unitid_raw_recorded
+SUNY College at Purchase,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35377,,-99,,,unresolved_identity
+Sacred Heart University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35398,130253,3,Sacred Heart University,3,verified_unitid_raw_recorded
+Spokane Falls Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:353992,236708,-2,Spokane Falls Community College,-2,verified_unitid_raw_recorded
+Orange County Water District,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:354422,,-99,,,unresolved_identity
+National Jewish Health,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:354659,,-99,,,unresolved_identity
+"Sensatek Propulsion Technology, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:355493,,-99,,,unresolved_identity
+"Octet Scientific, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:355713,,-99,,,unresolved_identity
+Greppo Technologies LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:355818,,-99,,,unresolved_identity
+Axalume Inc.,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:355851,,-99,,,unresolved_identity
+"Techverse, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:355892,,-99,,,unresolved_identity
+Advanced Geophysical Technology Inc.,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:355907,,-99,,,unresolved_identity
+Eastern Oregon University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35820,208646,-2,Eastern Oregon University,-2,verified_unitid_raw_recorded
+Ciudadanos del Karso Inc.,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:358227,,-99,,,unresolved_identity
+Hualapai Indian Tribe,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:360574,,-99,,,unresolved_identity
+The Coastal Alabama Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:361735,,-99,,,unresolved_identity
+Spokane Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:361771,236692,-2,Spokane Community College,-2,verified_unitid_raw_recorded
+Cortes-Barragan         Rodolfo,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:363842,,-99,,,unresolved_identity
+Gallen                  Courtney       L,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:364001,,-99,,,unresolved_identity
+Potter                  Christine      E,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:364053,,-99,,,unresolved_identity
+Brashier                Nadia          M,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:364057,,-99,,,unresolved_identity
+Eldesouky               Lameese,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:364091,,-99,,,unresolved_identity
+Grebe                   Nicholas,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:364115,,-99,,,unresolved_identity
+Brady                   William,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:364134,,-99,,,unresolved_identity
+Goodling                Erin,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:364138,,-99,,,unresolved_identity
+Wassink                 Joshua         T,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:364141,,-99,,,unresolved_identity
+Meyer-Gutbrod           Joshua         L,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:364158,,-99,,,unresolved_identity
+Bakst                   Leah,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:364180,,-99,,,unresolved_identity
+Yu                      MarkVincent    B,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:364225,,-99,,,unresolved_identity
+Pouchet                 Jessica,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:364405,,-99,,,unresolved_identity
+Carrillo                Ian,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:364445,,-99,,,unresolved_identity
+Perry                   Rosemarie,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:364454,,-99,,,unresolved_identity
+Cleveland               Kyndra         C,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:364474,,-99,,,unresolved_identity
+Swencionis              Jillian        K,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:364485,,-99,,,unresolved_identity
+Arredondo               Maria          M,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:364495,,-99,,,unresolved_identity
+Padilla                 Lace           M,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:364509,,-99,,,unresolved_identity
+Damick                  Alison,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:364527,,-99,,,unresolved_identity
+City College of San Francisco,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:36526,112190,-2,City College of San Francisco,-2,verified_unitid_raw_recorded
+The Dian Fossey Gorilla Fund International,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:366374,,-99,,,unresolved_identity
+Saint Martin's University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:366563,236452,-2,Saint Martin's University,-2,verified_unitid_raw_recorded
+Huntington Consulting,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3669,,-99,,,unresolved_identity
+"EnerMat Technologies, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:367239,,-99,,,unresolved_identity
+"VenoStent, Inc",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:367285,,-99,,,unresolved_identity
+"E-THERA, INC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:367319,,-99,,,unresolved_identity
+Resonant Link LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:367334,,-99,,,unresolved_identity
+Coral Reef Research Foundation,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:367725,,-99,,,unresolved_identity
+Western Governors University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:368464,433387,-2,Western Governors University,-2,verified_unitid_raw_recorded
+Children's Hospital Corporation,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:37119,,-99,,,unresolved_identity
+University of Maine Farmington,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3713,,-99,,,unresolved_identity
+Local First Arizona Foundation,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:371732,,-99,,,unresolved_identity
+QLEDCures LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:375425,,-99,,,unresolved_identity
+RooSense LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:375610,,-99,,,unresolved_identity
+"ActivSignal, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:375677,,-99,,,unresolved_identity
+Andluca Technologies Inc.,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:375684,,-99,,,unresolved_identity
+"ZWITTERCO, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:375733,,-99,,,unresolved_identity
+Precision Neuroscopics,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:375739,,-99,,,unresolved_identity
+"NEUROLOGICAL REHABILITATION VIRTUAL REALITY, L.L.C.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:375742,,-99,,,unresolved_identity
+"Accelerate Wind, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:375768,,-99,,,unresolved_identity
+EWPanel LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:375776,,-99,,,unresolved_identity
+"PHOTON SPOT, INC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:375825,,-99,,,unresolved_identity
+Commercial Fisheries Research Foundation,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:377979,,-99,,,unresolved_identity
+Carlow University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:378610,211431,-2,Carlow University,-2,verified_unitid_raw_recorded
+PENNSYLVANIA WESTERN UNIVERSITY,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:378671,498571,-2,Pennsylvania Western University,-2,verified_unitid_raw_recorded
+Dallas County Community College Dist Mountain View College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:381089,,-99,,,unresolved_identity
+MONTCALM COMMUNITY COLLEGE,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:381247,171234,-2,Montcalm Community College,-2,verified_unitid_raw_recorded
+Pittsburgh Technical Institute,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:381270,,-99,,,unresolved_identity
+Valdosta State University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38195,141264,-2,Valdosta State University,-2,verified_unitid_raw_recorded
+The Hydrous,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:382907,,-99,,,unresolved_identity
+University of North Texas Health Science Center at Fort Worth,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38395,,-99,,,unresolved_identity
+Lehigh Carbon Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38465,213525,-2,Lehigh Carbon Community College,-2,verified_unitid_raw_recorded
+Mississippi Valley State University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38480,176044,-2,Mississippi Valley State University,-2,verified_unitid_raw_recorded
+"SHUMLA SCHOOL INC, THE",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:384921,,-99,,,unresolved_identity
+"AgroSpheres, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:384992,,-99,,,unresolved_identity
+"THERMAQUIL, INC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:385039,,-99,,,unresolved_identity
+INSIGHT SENSING CORPORATION,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:385067,,-99,,,unresolved_identity
+NEWHAPTICS CORP.,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:385169,,-99,,,unresolved_identity
+"Simplyvital Health, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:385200,,-99,,,unresolved_identity
+The Sage Colleges,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38522,,-99,,,unresolved_identity
+RAPID RADICALS TECHNOLOGY LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:385277,,-99,,,unresolved_identity
+"ALTECT, INC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:385293,,-99,,,unresolved_identity
+RADIATION DETECTION SOLUTIONS LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:385302,,-99,,,unresolved_identity
+"Sasya, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:385325,,-99,,,unresolved_identity
+"H Quest Vanguard, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:385350,,-99,,,unresolved_identity
+eSens LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:385356,,-99,,,unresolved_identity
+"OXALO THERAPEUTICS, INC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:385382,,-99,,,unresolved_identity
+"TAGORE TECHNOLOGY, INC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:385395,,-99,,,unresolved_identity
+"ECO-SHELTER, INC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:385414,,-99,,,unresolved_identity
+Nielson Scientific LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:385424,,-99,,,unresolved_identity
+University of Houston - Clear Lake,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38555,225414,-99,University of Houston-Clear Lake,-2,verified_unitid_raw_missing
+William Rainey Harper College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38571,149842,-2,William Rainey Harper College,-2,verified_unitid_raw_recorded
+CUNY Borough of Manhattan Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38575,190521,-2,CUNY Borough of Manhattan Community College,-2,verified_unitid_raw_recorded
+Saint Bonaventure University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38592,,-99,,,unresolved_identity
+SKROOT LABORATORY INC.,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:385938,,-99,,,unresolved_identity
+Federation of Amer Societies For Exper Biology,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3868,,-99,,,unresolved_identity
+Butler University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38698,150163,-2,Butler University,-2,verified_unitid_raw_recorded
+"Center for Disease Dynamics, Economics & Policy",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:387008,,-99,,,unresolved_identity
+Fond du Lac Tribal and Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38717,380368,-2,Fond du Lac Tribal and Community College,-2,verified_unitid_raw_recorded
+Oglala Lakota College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38777,219277,-2,Oglala Lakota College,-2,verified_unitid_raw_recorded
+Leech Lake Tribal College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38843,413626,-2,Leech Lake Tribal College,-2,verified_unitid_raw_recorded
+CITY INNOVATE INC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:389463,,-99,,,unresolved_identity
+"WILDLIFE MANAGEMENT INSTITUTE, INCORPORATED",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:389954,,-99,,,unresolved_identity
+Santa Fe College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3931,137096,-2,Santa Fe College,-2,verified_unitid_raw_recorded
+"easyXAFS, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:393561,,-99,,,unresolved_identity
+Vivoz Biolabs LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:393803,,-99,,,unresolved_identity
+Advanced Paving Technolgies Inc.,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:393883,,-99,,,unresolved_identity
+"NEUROSONICS MEDICAL, INC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:393976,,-99,,,unresolved_identity
+"Heliobiosys, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:394521,,-99,,,unresolved_identity
+"GlycoSurf, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:394529,,-99,,,unresolved_identity
+EDGETENSOR TECHNOLOGIES INC.,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:397661,,-99,,,unresolved_identity
+VALGOTECH LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:398830,,-99,,,unresolved_identity
+Houston Baptist University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:399067,,-99,,,unresolved_identity
+Montana Technological University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:39960,180416,3,Montana Technological University,3,verified_unitid_raw_recorded
+Marion Technical College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:400106,203881,-2,Marion Technical College,-2,verified_unitid_raw_recorded
+San Jacinto College District,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:40038,,-99,,,unresolved_identity
+COMPLEXLY LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:402273,,-99,,,unresolved_identity
+CodeVA,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:403597,,-99,,,unresolved_identity
+"Rosales, Detbra",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:404226,,-99,,,unresolved_identity
+Winona State University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:40445,175272,-2,Winona State University,-2,verified_unitid_raw_recorded
+ECOCLOSURE LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:404556,,-99,,,unresolved_identity
+"DENTUIT, INC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:405144,,-99,,,unresolved_identity
+NEUROWIRED,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:405392,,-99,,,unresolved_identity
+"SILICON DYNAMIX, INC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:405416,,-99,,,unresolved_identity
+TAILORED ALLOYS LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:405444,,-99,,,unresolved_identity
+"NEURIGHT, INC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:405478,,-99,,,unresolved_identity
+"THIRD FLOOR MATERIALS, INC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:405491,,-99,,,unresolved_identity
+"SCALAR MAGNETICS, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:405543,,-99,,,unresolved_identity
+MIZAR IMAGING LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:405573,,-99,,,unresolved_identity
+"MENTE, INC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:405596,,-99,,,unresolved_identity
+"SANTA FE QUANTUM SOLUTIONS, INC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:405600,,-99,,,unresolved_identity
+MECHASIM INC.,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:405621,,-99,,,unresolved_identity
+"STORX TECHNOLOGIES, INC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:405705,,-99,,,unresolved_identity
+ZIKER ENTERPRISES LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:406201,,-99,,,unresolved_identity
+Shippensburg University of Pennsylvania,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:40880,216010,-2,Shippensburg University of Pennsylvania,-2,verified_unitid_raw_recorded
+"CONOX, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:408986,,-99,,,unresolved_identity
+LuxNour Technologies Inc,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:409749,,-99,,,unresolved_identity
+LELANTOS INC.,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:409784,,-99,,,unresolved_identity
+"ARMADA MARINE ROBOTICS, INC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:409957,,-99,,,unresolved_identity
+University of Wisconsin-Platteville,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:41060,240462,-2,University of Wisconsin-Platteville,-2,verified_unitid_raw_recorded
+Community College of Denver,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:411595,126942,-2,Community College of Denver,-2,verified_unitid_raw_recorded
+Marian University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:412001,,3,,,raw_recorded_identity_unresolved
+URU THE RIGHT TO BE INC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:412803,,-99,,,unresolved_identity
+"NANOINNOVATIONS, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:413043,,-99,,,unresolved_identity
+"QCML LABS, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:414072,,-99,,,unresolved_identity
+VAPOR CELL TECHNOLOGIES LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:414075,,-99,,,unresolved_identity
+SPIRO THERAPEUTICS LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:414123,,-99,,,unresolved_identity
+"Altigg Therapeutics, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:414165,,-99,,,unresolved_identity
+SILICON ASSURANCE LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:414169,,-99,,,unresolved_identity
+NONLINEAR MATERIALS CORPORATION,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:414297,,-99,,,unresolved_identity
+"AQUAGGA, INC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:414618,,-99,,,unresolved_identity
+XHEME INC.,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:414719,,-99,,,unresolved_identity
+CellDrop Inc,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:414885,,-99,,,unresolved_identity
+"Rutgers, The State University of New Jersey",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:415645,,-99,,,unresolved_identity
+HISPANIC FEDERATION INC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:416387,,-99,,,unresolved_identity
+"E4THEFUTURE, INC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:416888,,-99,,,unresolved_identity
+International Research And Exchanges Board Inc.,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:418080,,-99,,,unresolved_identity
+Atlanta Botanical Garden,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:418789,,-99,,,unresolved_identity
+"KODA HEALTH, INC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:419328,,-99,,,unresolved_identity
+"CYTORECOVERY, INC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:419408,,-99,,,unresolved_identity
+"KINETICA LABS, INC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:419487,,-99,,,unresolved_identity
+ZITECHNOLOGIES INC.,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:419658,,-99,,,unresolved_identity
+"INSTITUTE FOR FUTURE INTELLIGENCE, INC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:420227,,-99,,,unresolved_identity
+Cossatot Technical College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:420597,,-99,,,unresolved_identity
+Nurture Nature Center,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:421409,,-99,,,unresolved_identity
+"LIGHT AND CHARGE SOLUTIONS, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:423183,,-99,,,unresolved_identity
+Denver Botanic Gardens,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:423249,,-99,,,unresolved_identity
+TEALE ENGINEERING LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:424032,,-99,,,unresolved_identity
+NatureServe,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:42416,,-99,,,unresolved_identity
+Polar Oceans Research Group,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:42539,,-99,,,unresolved_identity
+OPTERA LLP,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:425738,,-99,,,unresolved_identity
+"NANOIONIX, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:425767,,-99,,,unresolved_identity
+RCAM TECHNOLOGIES,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:425785,,-99,,,unresolved_identity
+SUBUAS LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:425803,,-99,,,unresolved_identity
+"SPHEROFILL, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:425877,,-99,,,unresolved_identity
+RADIOSIGHT LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:425902,,-99,,,unresolved_identity
+"INSTITUTE FOR PROTEIN INNOVATION, INC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:426184,,-99,,,unresolved_identity
+Dark Enterprises Inc,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:427586,,-99,,,unresolved_identity
+"ASSISTMENTS FOUNDATION, INC.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:428240,,-99,,,unresolved_identity
+PURPLE MAI`A FOUNDATION,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:429166,,-99,,,unresolved_identity
+COMPUTER SCIENCE ALLIANCE,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:429502,,-99,,,unresolved_identity
+"Inclusive Engineering Consortium, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:429768,,-99,,,unresolved_identity
+"GLOBAL COOLING TECHNOLOGY GROUP, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:430255,,-99,,,unresolved_identity
+University of Dubuque,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:432263,153278,-2,University of Dubuque,-2,verified_unitid_raw_recorded
+METADATA GAME CHANGERS LLC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:433594,,-99,,,unresolved_identity
+Concordia College at Moorhead,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:43566,173300,-2,Concordia College at Moorhead,-2,verified_unitid_raw_recorded
+University of Arkansas Agricultural Experiment Station,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:435893,,-99,,,unresolved_identity
+IMPACT ALLIES INC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:441688,,-99,,,unresolved_identity
+Los Angeles Harbor College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:441749,117690,-2,Los Angeles Harbor College,-2,verified_unitid_raw_recorded
+Sarah Lawrence College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:44186,195304,-2,Sarah Lawrence College,-2,verified_unitid_raw_recorded
+WHITE DWARF RESEARCH CORP,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:443291,,-99,,,unresolved_identity
+PROTIUM POWER SYSTEMS INC.,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:444072,,-99,,,unresolved_identity
+"TERRY VENTURES, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:449878,,-99,,,unresolved_identity
+Algebra Project Inc,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:45619,,-99,,,unresolved_identity
+Fullerton College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:458284,114859,-2,Fullerton College,-2,verified_unitid_raw_recorded
+Dakota College at Bottineau,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:458407,200314,-2,Dakota College at Bottineau,-2,verified_unitid_raw_recorded
+Illinois Central College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:458620,145682,-2,Illinois Central College,-2,verified_unitid_raw_recorded
+BLACKHAWK TECHNICAL COLLEGE DISTRICT,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:458929,,-99,,,unresolved_identity
+Morton Arboretum,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:45974,,-99,,,unresolved_identity
+National Council of Teachers of Mathematics,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:46082,,-99,,,unresolved_identity
+Texas A&M University - Central Texas,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:465810,483036,-99,Texas A&M University-Central Texas,-2,verified_unitid_raw_missing
+Marine Environmental Sciences Consortium,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:46685,,-99,,,unresolved_identity
+International Wheat Genome Sequencing Consortium,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:467651,,-99,,,unresolved_identity
+Washburn University of Topeka,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:470455,,-99,,,unresolved_identity
+RUNESTONE ACADEMY LTD,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:471467,,-99,,,unresolved_identity
+Research Foundation d/b/a Stella & Charles Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:471857,,-99,,,unresolved_identity
+Bard College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:47555,189088,-2,Bard College,-2,verified_unitid_raw_recorded
+Clover Park Technical College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:477277,234951,-2,Clover Park Technical College,-2,verified_unitid_raw_recorded
+Franklin W. Olin College of Engineering,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:47814,441982,-99,Franklin W Olin College of Engineering,-2,verified_unitid_raw_missing
+Claflin University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:47954,217873,-2,Claflin University,-2,verified_unitid_raw_recorded
+SUNY Adirondack,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:481669,188438,-2,SUNY Adirondack,-2,verified_unitid_raw_recorded
+Kellogg Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:481716,170550,-2,Kellogg Community College,-2,verified_unitid_raw_recorded
+Elon University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4880,198516,3,Elon University,3,verified_unitid_raw_recorded
+El Camino College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:49020,,-99,,,unresolved_identity
+Thomas Nelson Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4934,,-99,,,unresolved_identity
+College of the Canyons,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:49371,111461,-2,College of the Canyons,-2,verified_unitid_raw_recorded
+Milwaukee Area Technical College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:49386,239248,-2,Milwaukee Area Technical College,-2,verified_unitid_raw_recorded
+Collin County Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:49397,,-99,,,unresolved_identity
+Hofstra University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4953,191649,2,Hofstra University,2,verified_unitid_raw_recorded
+Internet Archive,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:49869,,-99,,,unresolved_identity
+Valencia Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4990,,-99,,,unresolved_identity
+Western New England University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:50040,168254,-2,Western New England University,-2,verified_unitid_raw_recorded
+Portland Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5029,209746,-2,Portland Community College,-2,verified_unitid_raw_recorded
+Mount San Antonio College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5040,,-99,,,unresolved_identity
+"Continuum Dynamics, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5085,,-99,,,unresolved_identity
+Dillard University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:52153,158802,-2,Dillard University,-2,verified_unitid_raw_recorded
+Central State University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:52356,201690,3,Central State University,3,verified_unitid_raw_recorded
+Federation of American Scientists,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:56098,,-99,,,unresolved_identity
+SUNY College at Oneonta,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:56136,,-99,,,unresolved_identity
+Cleveland Museum of Natural History,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:56404,,-99,,,unresolved_identity
+Utah Valley University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:56886,230737,-2,Utah Valley University,-2,verified_unitid_raw_recorded
+Allegheny-Singer Research Institute,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:57998,,-99,,,unresolved_identity
+University of Lynchburg,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:58534,232609,-2,University of Lynchburg,-2,verified_unitid_raw_recorded
+Navajo Technical University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:59654,187596,-2,Navajo Technical University,-2,verified_unitid_raw_recorded
+"Connecticut Pre-Engineering Program, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:59946,,-99,,,unresolved_identity
+Museum of Science and Industry,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:62111,,-99,,,unresolved_identity
+Augustana College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:62127,143084,-2,Augustana College,-2,verified_unitid_raw_recorded
+Houston Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:62634,225423,-2,Houston Community College,-2,verified_unitid_raw_recorded
+Urban Institute,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:63152,,-99,,,unresolved_identity
+Seattle University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6342,236595,3,Seattle University,3,verified_unitid_raw_recorded
+College of Our Lady of the Elms,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:65082,167394,-2,College of Our Lady of the Elms,-2,verified_unitid_raw_recorded
+Lee College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6509,226204,-2,Lee College,-2,verified_unitid_raw_recorded
+Wake Technical Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6517,199856,-2,Wake Technical Community College,-2,verified_unitid_raw_recorded
+Alma College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:66127,168591,-2,Alma College,-2,verified_unitid_raw_recorded
+Hauptman-Woodward Medical Research Institute Inc,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6735,,-99,,,unresolved_identity
+Bank Street College of Education,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:67894,189015,-2,Bank Street College of Education,-2,verified_unitid_raw_recorded
+University of Tennessee Space Institute,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:68611,,-99,,,unresolved_identity
+MATHEMATICA POLICY RESEARCH INC,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:68651,,-99,,,unresolved_identity
+Southern University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6937,,-99,,,unresolved_identity
+University of Nebraska Medical Center,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6975,181428,1,University of Nebraska Medical Center,1,verified_unitid_raw_recorded
+Lorain County Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:70456,203748,-2,Lorain County Community College,-2,verified_unitid_raw_recorded
+Cabrillo College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:70573,110334,-2,Cabrillo College,-2,verified_unitid_raw_recorded
+Manchester Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:70649,183132,-2,Manchester Community College,-2,verified_unitid_raw_recorded
+Society of Wetland Scientists,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:70900,,-99,,,unresolved_identity
+"Noble Research Institute, LLC",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:71554,,-99,,,unresolved_identity
+New England Aquarium Corporation,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:733,,-99,,,unresolved_identity
+American Association for the Advancement of Science,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:739,,-99,,,unresolved_identity
+WGBH Educational Foundation,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:742,,-99,,,unresolved_identity
+Midwestern State University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:74650,226833,-2,Midwestern State University,-2,verified_unitid_raw_recorded
+Babson College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:75585,164580,-2,Babson College,-2,verified_unitid_raw_recorded
+Francis Marion University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:75942,218061,-2,Francis Marion University,-2,verified_unitid_raw_recorded
+Exploratorium,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:7901,,-99,,,unresolved_identity
+University of Wisconsin-Eau Claire,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:7920,240268,-2,University of Wisconsin-Eau Claire,-2,verified_unitid_raw_recorded
+CUNY York College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:79739,190691,-2,CUNY York College,-2,verified_unitid_raw_recorded
+St. Petersburg College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:79854,137078,-99,St Petersburg College,-2,verified_unitid_raw_missing
+Missouri Western State University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:79881,178387,-2,Missouri Western State University,-2,verified_unitid_raw_recorded
+Pisgah Astronomical Research Institute,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:80180,,-99,,,unresolved_identity
+IBM Thomas J Watson Research Center,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:8050,,-99,,,unresolved_identity
+Carnegie Learning,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:85033,,-99,,,unresolved_identity
+Sam Houston State University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:85259,227881,2,Sam Houston State University,2,verified_unitid_raw_recorded
+Midwestern University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:86662,,-99,,,unresolved_identity
+Georgia College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:86829,,-99,,,unresolved_identity
+University of Tennessee Institute of Agriculture,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:87493,,-99,,,unresolved_identity
+St Joseph's University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:8842,,-99,,,unresolved_identity
+University of Wisconsin Colleges,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:89427,,-99,,,unresolved_identity
+University of Southern Maine,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9001,161554,3,University of Southern Maine,3,verified_unitid_raw_recorded
+Trinity College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9074,,3,,,raw_recorded_identity_unresolved
+Mohawk Valley Community College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:91229,193283,-2,Mohawk Valley Community College,-2,verified_unitid_raw_recorded
+Stark State College of Technology,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:91304,,-99,,,unresolved_identity
+Childrens Museum Boston,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:91510,,-99,,,unresolved_identity
+Ecological Society of America,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9218,,-99,,,unresolved_identity
+Kenyon College,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9241,203535,-2,Kenyon College,-2,verified_unitid_raw_recorded
+Southern Utah University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:94396,230603,-2,Southern Utah University,-2,verified_unitid_raw_recorded
+Florida Memorial University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:94465,133979,-2,Florida Memorial University,-2,verified_unitid_raw_recorded
+Bowie State University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:94485,162007,3,Bowie State University,3,verified_unitid_raw_recorded
+Albany State University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:94500,138716,-2,Albany State University,-2,verified_unitid_raw_recorded
+Huston-Tillotson University,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:94543,225575,-2,Huston-Tillotson University,-2,verified_unitid_raw_recorded
+Medical University of South Carolina,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9530,218335,1,Medical University of South Carolina,1,verified_unitid_raw_recorded
+"CAST, Inc.",1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:95490,,-99,,,unresolved_identity
+Anita Borg Institute for Women and Technology,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:96931,,-99,,,unresolved_identity
+Center For American Archeology,1,4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:99401,,-99,,,unresolved_identity

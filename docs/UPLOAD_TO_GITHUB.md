@@ -19,8 +19,10 @@ document extensions. `.env.example` contains blank credentials only.
 
 ## 2 Create an empty repository in your own GitHub account
 
-Choose the repository name and visibility in GitHub. This package does not
-create a remote repository, choose its visibility, or push anything.
+The destination for this package is
+[Kanatip-P/NSF_data](https://github.com/Kanatip-P/NSF_data). To publish a separate
+copy, choose its repository name and visibility in GitHub. The analysis and
+verification scripts do not create repositories or push changes.
 
 ## 3 Upload using Git or GitHub Desktop
 
@@ -35,9 +37,8 @@ git push -u origin main
 ```
 
 Replace `YOUR_REPOSITORY_URL` with the URL of the empty repository you created.
-These are publishing instructions for the owner, not commands already run by
-the package assembler. GitHub Desktop's Add local repository and Publish
-repository flow is an alternative.
+For an existing checkout, use its current remote instead of reinitializing it.
+GitHub Desktop's Add local repository and Publish repository flow is an alternative.
 
 For browser uploads, upload the folder contents in batches if necessary.
 GitHub documents a 25 MiB per-file browser limit and up to 100 files per

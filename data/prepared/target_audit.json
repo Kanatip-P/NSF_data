@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "database": "nsf-project-workon-enriched",
+  "id_and_role_counts": {
+    "projects": 17503,
+    "people": 30239,
+    "awards": 24748,
+    "universities": 1374,
+    "program_elements": 552,
+    "program_references": 959,
+    "work_on": 48509,
+    "has_award": 24748,
+    "investigator_on": 73212,
+    "hosted_by": 24748,
+    "has_program_element": 23296,
+    "has_program_reference": 40626
+  },
+  "profiles_checked": 30239,
+  "project_eligibility_checked": 17503,
+  "recipient_classifications_checked": 1374
+}

@@ -1,0 +1,28 @@
+{
+  "database": "nsf-project-workon-enriched",
+  "summary": {
+    "verified_unitid_raw_missing_awards": 6260,
+    "verified_unitid_raw_missing_recipients": 56,
+    "verified_unitid_raw_recorded_awards": 12007,
+    "verified_unitid_raw_recorded_recipients": 556,
+    "unresolved_identity_awards": 6466,
+    "unresolved_identity_recipients": 754,
+    "raw_recorded_identity_unresolved_awards": 15,
+    "raw_recorded_identity_unresolved_recipients": 8
+  },
+  "verified_official_research_awards": {
+    "1": 16137,
+    "2": 1088,
+    "3": 568,
+    "-2": 474
+  },
+  "workbook_id_anomalies": [
+    {
+      "name": "University of Texas at Austin",
+      "verified_unitid": "228778",
+      "workbook_unitid": "F"
+    }
+  ],
+  "raw_missing_awards": 12726,
+  "remaining_raw_missing_without_verified_match": 6466
+}

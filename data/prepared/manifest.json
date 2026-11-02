@@ -1,0 +1,71 @@
+{
+  "source_mongo_roster_sha256": "832159d7f495800a5437536012ee149b2df2100565b278f387a525f8edb7a4ae",
+  "alternate_profile_source": null,
+  "files": {
+    "projects": {
+      "file": "projects.jsonl.gz",
+      "rows": 17503,
+      "sha256": "5b16aad4563e041a5fca5d99bc7e3c22c495657f954a045ff9c66ae6aa7e2be0"
+    },
+    "people": {
+      "file": "people.jsonl.gz",
+      "rows": 30239,
+      "sha256": "20e91c6a88de116915a583cc0e0ad742e42039ad498ab340be47bf77e341fbd9"
+    },
+    "awards": {
+      "file": "awards.jsonl.gz",
+      "rows": 24748,
+      "sha256": "ddc6d5f4a4a3aafc0a9d649123393117690c3b7ef5b536ef85402749ad62751d"
+    },
+    "universities": {
+      "file": "universities.jsonl.gz",
+      "rows": 1374,
+      "sha256": "85426db09c500853953fa943ad70822b39d8ee41e302dd0325056cadd2b57d2f"
+    },
+    "work_on": {
+      "file": "work_on.jsonl.gz",
+      "rows": 48509,
+      "sha256": "3a3f3f09b6a8d7b4befce4d8e4ce830dc8114c1e8a12313ea51595cc8f2be804"
+    },
+    "has_award": {
+      "file": "has_award.jsonl.gz",
+      "rows": 24748,
+      "sha256": "0d501d0c778f07f9f8943b68e17b3036073b9af0b4141873232bcd99f98b4ead"
+    },
+    "investigator_on": {
+      "file": "investigator_on.jsonl.gz",
+      "rows": 73212,
+      "sha256": "eb56f42dbf2bf929366e8944bf45cb591f9855228be0d88d26c770b4907710b5"
+    },
+    "hosted_by": {
+      "file": "hosted_by.jsonl.gz",
+      "rows": 24748,
+      "sha256": "024bd1b7ab0789ec299f70e4d89e8893afe08e5202d15da6c28c9b982a5b25c6"
+    },
+    "program_elements": {
+      "file": "program_elements.jsonl.gz",
+      "rows": 552,
+      "sha256": "787cc11afb4f6c4616b3bec4b0b6ac65b45e0f50cc6925eba656b35c1daad645"
+    },
+    "has_program_element": {
+      "file": "has_program_element.jsonl.gz",
+      "rows": 23296,
+      "sha256": "838c24530c76385923b9edd7aabb3834f93f825b6cef67d9c6d524ef5270e3af"
+    },
+    "program_references": {
+      "file": "program_references.jsonl.gz",
+      "rows": 959,
+      "sha256": "bcc338bf408ac56f57313340c6b4a3f56cb8c02440bf0f47c1da253e806c7ce2"
+    },
+    "has_program_reference": {
+      "file": "has_program_reference.jsonl.gz",
+      "rows": 40626,
+      "sha256": "a483af7e189ae80d045d48546d970c997b113b6dbf427805eed5309e39cb6e48"
+    }
+  },
+  "eligible_projects": 17487,
+  "ineligible_projects": 16,
+  "alphanumeric_source_people": 42,
+  "profile_conflicts": 0,
+  "program_source_manifest_sha256": "5981174525b8a3d1f4c4cca50b0f8e1ec257e58ea57a3a6d4ea34871703fd2e9"
+}

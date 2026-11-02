@@ -1,0 +1,3064 @@
+{
+  "classifications": [
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:225",
+      "verified_unitid": "126614",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1392",
+      "verified_unitid": "243780",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:417",
+      "verified_unitid": "214777",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:104",
+      "verified_unitid": "170976",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:678",
+      "verified_unitid": "236948",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:504",
+      "verified_unitid": "233921",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38",
+      "verified_unitid": "139755",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:43",
+      "verified_unitid": "145637",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:58",
+      "verified_unitid": "190150",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:13",
+      "verified_unitid": "228778",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:451",
+      "verified_unitid": "240444",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:158",
+      "verified_unitid": "186380",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1",
+      "verified_unitid": "134130",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:353",
+      "verified_unitid": "166629",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:217",
+      "verified_unitid": "110635",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:184",
+      "verified_unitid": "190415",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:83",
+      "verified_unitid": "174066",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:380",
+      "verified_unitid": "166683",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:583",
+      "verified_unitid": "211440",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:7",
+      "verified_unitid": "199193",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:334",
+      "verified_unitid": "104179",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:532",
+      "verified_unitid": "163286",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:134",
+      "verified_unitid": "234076",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:200",
+      "verified_unitid": "110662",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:122",
+      "verified_unitid": "110680",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:80",
+      "verified_unitid": "147767",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1414",
+      "verified_unitid": "167358",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1570",
+      "verified_unitid": "110653",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:250",
+      "verified_unitid": "123961",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:191",
+      "verified_unitid": "198419",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:427",
+      "verified_unitid": "209542",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:522",
+      "verified_unitid": "171100",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:97",
+      "verified_unitid": "110705",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:447",
+      "verified_unitid": "110644",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:357",
+      "verified_unitid": "166027",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:269",
+      "verified_unitid": "193900",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:101",
+      "verified_unitid": "243744",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:850",
+      "verified_unitid": "230764",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4471",
+      "verified_unitid": "152080",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:253",
+      "verified_unitid": "186131",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:501",
+      "verified_unitid": "164988",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1112",
+      "verified_unitid": "144050",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:147",
+      "verified_unitid": "130794",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1259",
+      "verified_unitid": "153603",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:360",
+      "verified_unitid": "130943",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:312",
+      "verified_unitid": "221759",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:130",
+      "verified_unitid": "162928",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1465",
+      "verified_unitid": "215062",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:172",
+      "verified_unitid": "110680",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1340",
+      "verified_unitid": "181464",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:794",
+      "verified_unitid": "129020",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:137",
+      "verified_unitid": "199120",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1071",
+      "verified_unitid": "217156",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:343",
+      "verified_unitid": "227757",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1739",
+      "verified_unitid": "110671",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:884",
+      "verified_unitid": "110714",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:903",
+      "verified_unitid": "209551",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:894",
+      "verified_unitid": "161253",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1582",
+      "verified_unitid": "137351",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4123",
+      "verified_unitid": "221999",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1836",
+      "verified_unitid": "102614",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2187",
+      "verified_unitid": "225511",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2254",
+      "verified_unitid": "131469",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:175",
+      "verified_unitid": "194824",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:143",
+      "verified_unitid": "196413",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:566",
+      "verified_unitid": "236939",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1668",
+      "verified_unitid": "216339",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1238",
+      "verified_unitid": "110404",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6718",
+      "verified_unitid": "185828",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:72",
+      "verified_unitid": "232186",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:34",
+      "verified_unitid": "134097",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9111",
+      "verified_unitid": "166513",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:558",
+      "verified_unitid": "133951",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1234",
+      "verified_unitid": "182670",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1183",
+      "verified_unitid": "217882",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:492",
+      "verified_unitid": "207500",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1054",
+      "verified_unitid": "217484",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1746",
+      "verified_unitid": "178396",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4185",
+      "verified_unitid": "229115",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1005",
+      "verified_unitid": "155399",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1039",
+      "verified_unitid": "195030",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:7518",
+      "verified_unitid": "199139",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:477",
+      "verified_unitid": "126775",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4787",
+      "verified_unitid": "106397",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1596",
+      "verified_unitid": "212054",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4216",
+      "verified_unitid": "180461",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:481",
+      "verified_unitid": "213543",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1769",
+      "verified_unitid": "168421",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:208",
+      "verified_unitid": "153658",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:31",
+      "verified_unitid": "135726",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3740",
+      "verified_unitid": "142115",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9347",
+      "verified_unitid": "168148",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1491",
+      "verified_unitid": "100858",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:125",
+      "verified_unitid": "230728",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1270",
+      "verified_unitid": "105330",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1389",
+      "verified_unitid": "201885",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:234",
+      "verified_unitid": "209807",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:288",
+      "verified_unitid": "190567",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4721",
+      "verified_unitid": "227216",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:331",
+      "verified_unitid": "163268",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1292",
+      "verified_unitid": "100706",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:21",
+      "verified_unitid": "182290",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:83775",
+      "verified_unitid": "445188",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:978",
+      "verified_unitid": "178411",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3850",
+      "verified_unitid": "139658",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1179",
+      "verified_unitid": "240727",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2152",
+      "verified_unitid": "230038",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5725",
+      "verified_unitid": "145725",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1951",
+      "verified_unitid": "131496",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1434",
+      "verified_unitid": "171128",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1804",
+      "verified_unitid": "234030",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3996",
+      "verified_unitid": "201645",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4401",
+      "verified_unitid": "240453",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2096",
+      "verified_unitid": "172644",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11688",
+      "verified_unitid": "227368",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2209",
+      "verified_unitid": "164924",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2477",
+      "verified_unitid": "237011",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2946",
+      "verified_unitid": "102377",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:13434",
+      "verified_unitid": "186867",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17727",
+      "verified_unitid": "167987",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:23279",
+      "verified_unitid": "160658",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3074",
+      "verified_unitid": "100663",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:20182",
+      "verified_unitid": "181394",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:146255",
+      "verified_unitid": "186399",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22415",
+      "verified_unitid": "224147",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2584",
+      "verified_unitid": "219347",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:12407",
+      "verified_unitid": "133881",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2347",
+      "verified_unitid": "165334",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3980",
+      "verified_unitid": "228246",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:15116",
+      "verified_unitid": "190044",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2615",
+      "verified_unitid": "182281",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4314",
+      "verified_unitid": "133669",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5773",
+      "verified_unitid": "171571",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:841",
+      "verified_unitid": "232423",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:871",
+      "verified_unitid": "176080",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1140",
+      "verified_unitid": "220862",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:298",
+      "verified_unitid": "131520",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5852",
+      "verified_unitid": "165015",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9314",
+      "verified_unitid": "184782",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1031",
+      "verified_unitid": "190594",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1488",
+      "verified_unitid": "190664",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1589",
+      "verified_unitid": "147703",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2319",
+      "verified_unitid": "176017",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4864",
+      "verified_unitid": "219356",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:535",
+      "verified_unitid": "172699",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6407",
+      "verified_unitid": "206084",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:657",
+      "verified_unitid": "198464",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:7043",
+      "verified_unitid": "144740",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:84283",
+      "verified_unitid": "174233",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9084",
+      "verified_unitid": "216597",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9362",
+      "verified_unitid": "163453",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4318",
+      "verified_unitid": "239105",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6771",
+      "verified_unitid": "122597",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1074",
+      "verified_unitid": "176372",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11353",
+      "verified_unitid": "185590",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2399",
+      "verified_unitid": "223232",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3241",
+      "verified_unitid": "154095",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3340",
+      "verified_unitid": "166638",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5548",
+      "verified_unitid": "221847",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6671",
+      "verified_unitid": "173258",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:8457",
+      "verified_unitid": "197869",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:92298",
+      "verified_unitid": "190655",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5755",
+      "verified_unitid": "209490",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:908",
+      "verified_unitid": "127060",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9462",
+      "verified_unitid": "142276",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1085",
+      "verified_unitid": "187967",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1566",
+      "verified_unitid": "243197",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22463",
+      "verified_unitid": "221838",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1082",
+      "verified_unitid": "130697",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16538",
+      "verified_unitid": "175856",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18809",
+      "verified_unitid": "190600",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3584",
+      "verified_unitid": "169248",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4073",
+      "verified_unitid": "211291",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4790",
+      "verified_unitid": "179159",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6302",
+      "verified_unitid": "199847",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:946",
+      "verified_unitid": "133650",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5782",
+      "verified_unitid": "217819",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:7429",
+      "verified_unitid": "159647",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:752",
+      "verified_unitid": "196103",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17620",
+      "verified_unitid": "170082",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35039",
+      "verified_unitid": "195526",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:29933",
+      "verified_unitid": "130934",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:8469",
+      "verified_unitid": "178402",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6127",
+      "verified_unitid": "189097",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:7508",
+      "verified_unitid": "199157",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:8338",
+      "verified_unitid": "196167",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:847",
+      "verified_unitid": "110699",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1330",
+      "verified_unitid": "207971",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1455",
+      "verified_unitid": "191241",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2556",
+      "verified_unitid": "102094",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38604",
+      "verified_unitid": "100724",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38940",
+      "verified_unitid": "131450",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4182",
+      "verified_unitid": "243221",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:10864",
+      "verified_unitid": "187134",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11139",
+      "verified_unitid": "229300",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1171",
+      "verified_unitid": "168218",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:13091",
+      "verified_unitid": "152318",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16801",
+      "verified_unitid": "127741",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18110",
+      "verified_unitid": "115409",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18339",
+      "verified_unitid": "190549",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:23245",
+      "verified_unitid": "126678",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2332",
+      "verified_unitid": "202134",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:49774",
+      "verified_unitid": "147776",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:56822",
+      "verified_unitid": "228705",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:586",
+      "verified_unitid": "232265",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6552",
+      "verified_unitid": "131159",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:8509",
+      "verified_unitid": "164465",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4316",
+      "verified_unitid": "218070",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:52194",
+      "verified_unitid": "100654",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:52534",
+      "verified_unitid": "232937",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5806",
+      "verified_unitid": "220978",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:61102",
+      "verified_unitid": "228431",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:618",
+      "verified_unitid": "213385",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:7404",
+      "verified_unitid": "156125",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:75727",
+      "verified_unitid": "217518",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:78761",
+      "verified_unitid": "122436",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9167",
+      "verified_unitid": "230959",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9579",
+      "verified_unitid": "159939",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:15797",
+      "verified_unitid": "216764",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2077",
+      "verified_unitid": "234827",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:214479",
+      "verified_unitid": "100830",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22531",
+      "verified_unitid": "227526",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:26867",
+      "verified_unitid": "238263",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11488",
+      "verified_unitid": "204501",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:117998",
+      "verified_unitid": "445054",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11943",
+      "verified_unitid": "167835",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:13592",
+      "verified_unitid": "193654",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:138376",
+      "verified_unitid": "237330",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:140",
+      "verified_unitid": "150136",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16847",
+      "verified_unitid": "164076",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17239",
+      "verified_unitid": "243665",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17971",
+      "verified_unitid": "229267",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18507",
+      "verified_unitid": "161004",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22412",
+      "verified_unitid": "187897",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2649",
+      "verified_unitid": "141060",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27997",
+      "verified_unitid": "141565",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35158",
+      "verified_unitid": "217402",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:394",
+      "verified_unitid": "173045",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:400",
+      "verified_unitid": "144005",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:40667",
+      "verified_unitid": "136172",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5456",
+      "verified_unitid": "160977",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6124",
+      "verified_unitid": "197133",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:62059",
+      "verified_unitid": "139959",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:689",
+      "verified_unitid": "168342",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6993",
+      "verified_unitid": "240329",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:76317",
+      "verified_unitid": "212197",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:8108",
+      "verified_unitid": "204477",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9102",
+      "verified_unitid": "121345",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:94439",
+      "verified_unitid": "163338",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:43994",
+      "verified_unitid": "228875",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4557",
+      "verified_unitid": "161086",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4585",
+      "verified_unitid": "202480",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:45969",
+      "verified_unitid": "164739",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:49214",
+      "verified_unitid": "147378",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:49853",
+      "verified_unitid": "152600",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5036",
+      "verified_unitid": "380377",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5554",
+      "verified_unitid": "213251",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:56471",
+      "verified_unitid": "140553",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5707",
+      "verified_unitid": "212911",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:58595",
+      "verified_unitid": "199999",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5999",
+      "verified_unitid": "212106",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9116",
+      "verified_unitid": "166939",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:96417",
+      "verified_unitid": "224554",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:10028",
+      "verified_unitid": "190099",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1012",
+      "verified_unitid": "211273",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:10144",
+      "verified_unitid": "117946",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:146468",
+      "verified_unitid": "186371",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17875",
+      "verified_unitid": "112260",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17903",
+      "verified_unitid": "122612",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:19939",
+      "verified_unitid": "220181",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:20579",
+      "verified_unitid": "233374",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:23501",
+      "verified_unitid": "198385",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:23916",
+      "verified_unitid": "197708",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3144",
+      "verified_unitid": "212577",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:32284",
+      "verified_unitid": "120883",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3291",
+      "verified_unitid": "153162",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:33942",
+      "verified_unitid": "127565",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:347",
+      "verified_unitid": "180647",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35317",
+      "verified_unitid": "161457",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:37078",
+      "verified_unitid": "160904",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:40189",
+      "verified_unitid": "190585",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:42737",
+      "verified_unitid": "121150",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11263",
+      "verified_unitid": "122931",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11426",
+      "verified_unitid": "123572",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11931",
+      "verified_unitid": "240189",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11969",
+      "verified_unitid": "216287",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:12351",
+      "verified_unitid": "218724",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:12450",
+      "verified_unitid": "169080",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:12474",
+      "verified_unitid": "223223",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:131783",
+      "verified_unitid": "238476",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:134929",
+      "verified_unitid": "232566",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1409",
+      "verified_unitid": "191968",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16379",
+      "verified_unitid": "219082",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17192",
+      "verified_unitid": "240471",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17649",
+      "verified_unitid": "199111",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17897",
+      "verified_unitid": "190673",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17906",
+      "verified_unitid": "196246",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18679",
+      "verified_unitid": "181020",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2061",
+      "verified_unitid": "186201",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:21771",
+      "verified_unitid": "139719",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22362",
+      "verified_unitid": "202222",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:23367",
+      "verified_unitid": "200004",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:242387",
+      "verified_unitid": "188304",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:24896",
+      "verified_unitid": "237057",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:25051",
+      "verified_unitid": "482680",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27543",
+      "verified_unitid": "237066",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:28075",
+      "verified_unitid": "234155",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:28150",
+      "verified_unitid": "217721",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:28173",
+      "verified_unitid": "131399",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:293113",
+      "verified_unitid": "196112",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3205",
+      "verified_unitid": "169798",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:34781",
+      "verified_unitid": "210146",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35507",
+      "verified_unitid": "111948",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:361583",
+      "verified_unitid": "218830",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:36728",
+      "verified_unitid": "192448",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:371846",
+      "verified_unitid": "459949",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:37547",
+      "verified_unitid": "144892",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38283",
+      "verified_unitid": "227845",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38677",
+      "verified_unitid": "198507",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:40173",
+      "verified_unitid": "130493",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:41116",
+      "verified_unitid": "166018",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4716",
+      "verified_unitid": "220075",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4929",
+      "verified_unitid": "193326",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:50106",
+      "verified_unitid": "190646",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:74137",
+      "verified_unitid": "236577",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:79969",
+      "verified_unitid": "226152",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:8148",
+      "verified_unitid": "151324",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:86810",
+      "verified_unitid": "119173",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:8892",
+      "verified_unitid": "170301",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:91178",
+      "verified_unitid": "174428",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9157",
+      "verified_unitid": "173902",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9293",
+      "verified_unitid": "196237",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:94419",
+      "verified_unitid": "141644",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4474",
+      "verified_unitid": "112251",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4568",
+      "verified_unitid": "201104",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:46554",
+      "verified_unitid": "139144",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:46864",
+      "verified_unitid": "128771",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:49526",
+      "verified_unitid": "133702",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5010",
+      "verified_unitid": "188137",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:52705",
+      "verified_unitid": "198543",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5634",
+      "verified_unitid": "153384",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:60428",
+      "verified_unitid": "149772",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:62712",
+      "verified_unitid": "147800",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:64317",
+      "verified_unitid": "186283",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6496",
+      "verified_unitid": "205470",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:66793",
+      "verified_unitid": "194091",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6945",
+      "verified_unitid": "214111",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:70563",
+      "verified_unitid": "183859",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:73771",
+      "verified_unitid": "106412",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:78406",
+      "verified_unitid": "433660",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:89415",
+      "verified_unitid": "230782",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:89492",
+      "verified_unitid": "188058",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9260",
+      "verified_unitid": "165024",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:109122",
+      "verified_unitid": "134608",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:115941",
+      "verified_unitid": "229814",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:120089",
+      "verified_unitid": "155210",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:140414",
+      "verified_unitid": "216931",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:156638",
+      "verified_unitid": "198695",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16648",
+      "verified_unitid": "206695",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17460",
+      "verified_unitid": "240480",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17893",
+      "verified_unitid": "173647",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17946",
+      "verified_unitid": "212674",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18092",
+      "verified_unitid": "157401",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18223",
+      "verified_unitid": "162760",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18243",
+      "verified_unitid": "173920",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18282",
+      "verified_unitid": "101480",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18401",
+      "verified_unitid": "143358",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:19011",
+      "verified_unitid": "221351",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:193005",
+      "verified_unitid": "174747",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:19350",
+      "verified_unitid": "231712",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:21518",
+      "verified_unitid": "498562",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:21962",
+      "verified_unitid": "179043",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:220900",
+      "verified_unitid": "175281",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:221225",
+      "verified_unitid": "212115",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22296",
+      "verified_unitid": "229063",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22347",
+      "verified_unitid": "238193",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:230103",
+      "verified_unitid": "232946",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:24566",
+      "verified_unitid": "166647",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2474",
+      "verified_unitid": "136215",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:248398",
+      "verified_unitid": "197887",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2541",
+      "verified_unitid": "138947",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:255336",
+      "verified_unitid": "209065",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:28219",
+      "verified_unitid": "140960",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:294455",
+      "verified_unitid": "147536",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:30680",
+      "verified_unitid": "212009",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:309920",
+      "verified_unitid": "232308",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:321872",
+      "verified_unitid": "154493",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3417",
+      "verified_unitid": "236328",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:342287",
+      "verified_unitid": "117867",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35262",
+      "verified_unitid": "228529",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3554",
+      "verified_unitid": "202523",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35757",
+      "verified_unitid": "188641",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:359586",
+      "verified_unitid": "148496",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:37602",
+      "verified_unitid": "123165",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:406939",
+      "verified_unitid": "180692",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:40772",
+      "verified_unitid": "139366",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:40989",
+      "verified_unitid": "232256",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4238",
+      "verified_unitid": "167996",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:10012",
+      "verified_unitid": "163912",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:10447",
+      "verified_unitid": "163851",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:108301",
+      "verified_unitid": "101879",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:109181",
+      "verified_unitid": "170790",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:10956",
+      "verified_unitid": "235316",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11047",
+      "verified_unitid": "191931",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:110871",
+      "verified_unitid": "159009",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11404",
+      "verified_unitid": "240365",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:11509",
+      "verified_unitid": "106704",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:1189",
+      "verified_unitid": "120254",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:120024",
+      "verified_unitid": "235149",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:121917",
+      "verified_unitid": "218964",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:12315",
+      "verified_unitid": "192819",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:133734",
+      "verified_unitid": "380359",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:136564",
+      "verified_unitid": "181604",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:136967",
+      "verified_unitid": "110495",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:137492",
+      "verified_unitid": "218414",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:140310",
+      "verified_unitid": "220792",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:143584",
+      "verified_unitid": "153214",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:147668",
+      "verified_unitid": "199643",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:150746",
+      "verified_unitid": "217891",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:151943",
+      "verified_unitid": "171456",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:156264",
+      "verified_unitid": "166887",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:156376",
+      "verified_unitid": "180197",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:156580",
+      "verified_unitid": "441937",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:157543",
+      "verified_unitid": "112525",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:15965",
+      "verified_unitid": "234207",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:163803",
+      "verified_unitid": "218487",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16462",
+      "verified_unitid": "200208",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16485",
+      "verified_unitid": "200527",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16509",
+      "verified_unitid": "200466",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16520",
+      "verified_unitid": "200086",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:165595",
+      "verified_unitid": "447689",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:165629",
+      "verified_unitid": "212601",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:165825",
+      "verified_unitid": "164632",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16624",
+      "verified_unitid": "180054",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:16866",
+      "verified_unitid": "185262",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:169150",
+      "verified_unitid": "181783",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:170750",
+      "verified_unitid": "232043",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:171544",
+      "verified_unitid": "130226",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:175848",
+      "verified_unitid": "144351",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17778",
+      "verified_unitid": "128106",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17809",
+      "verified_unitid": "206525",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17840",
+      "verified_unitid": "226231",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:17867",
+      "verified_unitid": "175005",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:180454",
+      "verified_unitid": "240736",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:180624",
+      "verified_unitid": "178891",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:181845",
+      "verified_unitid": "174817",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18197",
+      "verified_unitid": "169983",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18217",
+      "verified_unitid": "233277",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18256",
+      "verified_unitid": "219602",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18471",
+      "verified_unitid": "193016",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18486",
+      "verified_unitid": "127185",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:184976",
+      "verified_unitid": "180902",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18561",
+      "verified_unitid": "186876",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18667",
+      "verified_unitid": "154350",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18692",
+      "verified_unitid": "154688",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18776",
+      "verified_unitid": "155061",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:18969",
+      "verified_unitid": "146427",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:19414",
+      "verified_unitid": "181215",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:195673",
+      "verified_unitid": "167729",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:19869",
+      "verified_unitid": "206941",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:20764",
+      "verified_unitid": "186584",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:209328",
+      "verified_unitid": "120971",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:21130",
+      "verified_unitid": "216524",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:21954",
+      "verified_unitid": "225432",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:21958",
+      "verified_unitid": "156620",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22002",
+      "verified_unitid": "127556",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22058",
+      "verified_unitid": "213367",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22139",
+      "verified_unitid": "188340",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22158",
+      "verified_unitid": "218894",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:222476",
+      "verified_unitid": "217493",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22264",
+      "verified_unitid": "409315",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22310",
+      "verified_unitid": "229179",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22358",
+      "verified_unitid": "163657",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22367",
+      "verified_unitid": "163426",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:22660",
+      "verified_unitid": "135717",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:228510",
+      "verified_unitid": "113856",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:230113",
+      "verified_unitid": "149532",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:230217",
+      "verified_unitid": "237039",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:236343",
+      "verified_unitid": "206862",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:236603",
+      "verified_unitid": "163462",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:24181",
+      "verified_unitid": "196200",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:244624",
+      "verified_unitid": "109819",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:245220",
+      "verified_unitid": "117788",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2471",
+      "verified_unitid": "169716",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:248115",
+      "verified_unitid": "146603",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:248441",
+      "verified_unitid": "233949",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:248553",
+      "verified_unitid": "166823",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:258472",
+      "verified_unitid": "162706",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:25931",
+      "verified_unitid": "168740",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:26111",
+      "verified_unitid": "168005",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:266180",
+      "verified_unitid": "128391",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:266755",
+      "verified_unitid": "198552",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:266802",
+      "verified_unitid": "116439",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:26930",
+      "verified_unitid": "198950",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27040",
+      "verified_unitid": "215239",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27154",
+      "verified_unitid": "230746",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27158",
+      "verified_unitid": "208390",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27166",
+      "verified_unitid": "153737",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27197",
+      "verified_unitid": "174136",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27226",
+      "verified_unitid": "114266",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27246",
+      "verified_unitid": "176071",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27301",
+      "verified_unitid": "215655",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:273403",
+      "verified_unitid": "102049",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27487",
+      "verified_unitid": "218113",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:27573",
+      "verified_unitid": "151306",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:280917",
+      "verified_unitid": "101587",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:281460",
+      "verified_unitid": "198570",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:283900",
+      "verified_unitid": "122977",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:28742",
+      "verified_unitid": "184348",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:2914",
+      "verified_unitid": "239169",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:300119",
+      "verified_unitid": "228981",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:300261",
+      "verified_unitid": "143215",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:304212",
+      "verified_unitid": "198862",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:310051",
+      "verified_unitid": "132709",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3102",
+      "verified_unitid": "174251",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:313625",
+      "verified_unitid": "127200",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:321637",
+      "verified_unitid": "198251",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:322116",
+      "verified_unitid": "117706",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:32218",
+      "verified_unitid": "207342",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:323013",
+      "verified_unitid": "236382",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:324948",
+      "verified_unitid": "198066",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:334226",
+      "verified_unitid": "239460",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:335189",
+      "verified_unitid": "181446",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:339287",
+      "verified_unitid": "199087",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:34515",
+      "verified_unitid": "207263",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:34683",
+      "verified_unitid": "156295",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:34769",
+      "verified_unitid": "102669",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:34772",
+      "verified_unitid": "150400",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35026",
+      "verified_unitid": "206622",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35060",
+      "verified_unitid": "226091",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35073",
+      "verified_unitid": "209612",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35398",
+      "verified_unitid": "130253",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:353992",
+      "verified_unitid": "236708",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:35820",
+      "verified_unitid": "208646",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:361771",
+      "verified_unitid": "236692",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:36526",
+      "verified_unitid": "112190",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:366563",
+      "verified_unitid": "236452",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:368464",
+      "verified_unitid": "433387",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:378610",
+      "verified_unitid": "211431",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:378671",
+      "verified_unitid": "498571",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:381247",
+      "verified_unitid": "171234",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38195",
+      "verified_unitid": "141264",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38465",
+      "verified_unitid": "213525",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38480",
+      "verified_unitid": "176044",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38555",
+      "verified_unitid": "225414",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38571",
+      "verified_unitid": "149842",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38575",
+      "verified_unitid": "190521",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38698",
+      "verified_unitid": "150163",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38717",
+      "verified_unitid": "380368",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38777",
+      "verified_unitid": "219277",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:38843",
+      "verified_unitid": "413626",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:3931",
+      "verified_unitid": "137096",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:39960",
+      "verified_unitid": "180416",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:400106",
+      "verified_unitid": "203881",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:40445",
+      "verified_unitid": "175272",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:40880",
+      "verified_unitid": "216010",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:41060",
+      "verified_unitid": "240462",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:411595",
+      "verified_unitid": "126942",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:432263",
+      "verified_unitid": "153278",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:43566",
+      "verified_unitid": "173300",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:441749",
+      "verified_unitid": "117690",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:44186",
+      "verified_unitid": "195304",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:458284",
+      "verified_unitid": "114859",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:458407",
+      "verified_unitid": "200314",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:458620",
+      "verified_unitid": "145682",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:465810",
+      "verified_unitid": "483036",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:47555",
+      "verified_unitid": "189088",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:477277",
+      "verified_unitid": "234951",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:47814",
+      "verified_unitid": "441982",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:47954",
+      "verified_unitid": "217873",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:481669",
+      "verified_unitid": "188438",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:481716",
+      "verified_unitid": "170550",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4880",
+      "verified_unitid": "198516",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:49371",
+      "verified_unitid": "111461",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:49386",
+      "verified_unitid": "239248",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:4953",
+      "verified_unitid": "191649",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:50040",
+      "verified_unitid": "168254",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:5029",
+      "verified_unitid": "209746",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:52153",
+      "verified_unitid": "158802",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:52356",
+      "verified_unitid": "201690",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:56886",
+      "verified_unitid": "230737",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:58534",
+      "verified_unitid": "232609",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:59654",
+      "verified_unitid": "187596",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:62127",
+      "verified_unitid": "143084",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:62634",
+      "verified_unitid": "225423",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6342",
+      "verified_unitid": "236595",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:65082",
+      "verified_unitid": "167394",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6509",
+      "verified_unitid": "226204",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6517",
+      "verified_unitid": "199856",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:66127",
+      "verified_unitid": "168591",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:67894",
+      "verified_unitid": "189015",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:6975",
+      "verified_unitid": "181428",
+      "official_research": 1
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:70456",
+      "verified_unitid": "203748",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:70573",
+      "verified_unitid": "110334",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:70649",
+      "verified_unitid": "183132",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:74650",
+      "verified_unitid": "226833",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:75585",
+      "verified_unitid": "164580",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:75942",
+      "verified_unitid": "218061",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:7920",
+      "verified_unitid": "240268",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:79739",
+      "verified_unitid": "190691",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:79854",
+      "verified_unitid": "137078",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:79881",
+      "verified_unitid": "178387",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:85259",
+      "verified_unitid": "227881",
+      "official_research": 2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9001",
+      "verified_unitid": "161554",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:91229",
+      "verified_unitid": "193283",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9241",
+      "verified_unitid": "203535",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:94396",
+      "verified_unitid": "230603",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:94465",
+      "verified_unitid": "133979",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:94485",
+      "verified_unitid": "162007",
+      "official_research": 3
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:94500",
+      "verified_unitid": "138716",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:94543",
+      "verified_unitid": "225575",
+      "official_research": -2
+    },
+    {
+      "source_key": "4:45846eb2-e12e-4d37-9ef4-e2fe87d6eed1:9530",
+      "verified_unitid": "218335",
+      "official_research": 1
+    }
+  ]
+}
