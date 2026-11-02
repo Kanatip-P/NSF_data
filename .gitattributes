@@ -1,0 +1,4 @@
+* text=auto
+*.jsonl.gz binary
+*.xlsx binary
+*.png binary

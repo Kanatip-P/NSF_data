@@ -1,0 +1,13 @@
+{
+  "assembled_utc": "2026-11-02T00:03:37.269279+00:00",
+  "database_snapshot": "nsf-project-workon-enriched",
+  "publication_revision": "2026-11-01",
+  "portable_changes": [
+    "Relocated input/output paths",
+    "Optional output redirection for non-destructive checks",
+    "Omitted standalone PDF graph export; PNG retained",
+    "Environment-only optional live runner; no original Settings helper copied"
+  ],
+  "contains_manuscripts": false,
+  "database_queried_during_assembly": false
+}

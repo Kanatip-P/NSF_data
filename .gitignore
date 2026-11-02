@@ -1,0 +1,22 @@
+# Local secrets and environments
+.env
+.env.*
+!.env.example
+*credentials*
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.runtime_cache/
+.cache/
+.DS_Store
+Thumbs.db
+# Reruns are local until deliberately reviewed
+results/live/
+verification/local_*.json
+# Manuscripts belong outside this repository
+*.docx
+*.doc
+*.pdf
+*.pptx
+*.zip
