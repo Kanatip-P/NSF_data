@@ -1,0 +1,3 @@
+eigenvector_mismatches,betweenness_mismatches,compared_people,max_betweenness_error,degree_mismatches,component_membership_mismatches,passed,max_eigenvector_error,network
+"0","0","30239","1.1102230246251565e-16","0","0","true","8.787483785519975e-13","award"
+"0","0","30239","9.194034422677078e-17","0","0","true","8.408576362940466e-13","grouped_project"

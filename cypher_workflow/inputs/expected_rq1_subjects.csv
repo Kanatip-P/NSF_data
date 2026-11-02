@@ -1,0 +1,436 @@
+﻿rank,subject_1,subject_2,subject_combination,projects,percent_all_projects
+1,Engineering (all),Medicine (all),Engineering (all) + Medicine (all),9351,53.4
+2,"Biochemistry, Genetics and Molecular Biology (all)",Medicine (all),"Biochemistry, Genetics and Molecular Biology (all) + Medicine (all)",8611,49.2
+3,Medicine (all),Physics and Astronomy (all),Medicine (all) + Physics and Astronomy (all),8249,47.1
+4,Chemistry (all),Medicine (all),Chemistry (all) + Medicine (all),7720,44.1
+5,Engineering (all),Physics and Astronomy (all),Engineering (all) + Physics and Astronomy (all),7042,40.2
+6,"Biochemistry, Genetics and Molecular Biology (all)",Engineering (all),"Biochemistry, Genetics and Molecular Biology (all) + Engineering (all)",6984,39.9
+7,Environmental Science (all),Medicine (all),Environmental Science (all) + Medicine (all),6641,37.9
+8,Agricultural and Biological Sciences (all),Medicine (all),Agricultural and Biological Sciences (all) + Medicine (all),6458,36.9
+9,Chemistry (all),Engineering (all),Chemistry (all) + Engineering (all),6455,36.9
+10,Computer Science (all),Medicine (all),Computer Science (all) + Medicine (all),6269,35.8
+11,Computer Science (all),Engineering (all),Computer Science (all) + Engineering (all),6233,35.6
+12,Materials Science (all),Medicine (all),Materials Science (all) + Medicine (all),6136,35.1
+13,"Biochemistry, Genetics and Molecular Biology (all)",Physics and Astronomy (all),"Biochemistry, Genetics and Molecular Biology (all) + Physics and Astronomy (all)",6090,34.8
+14,Chemistry (all),Physics and Astronomy (all),Chemistry (all) + Physics and Astronomy (all),5945,34.0
+15,"Biochemistry, Genetics and Molecular Biology (all)",Chemistry (all),"Biochemistry, Genetics and Molecular Biology (all) + Chemistry (all)",5878,33.6
+16,Engineering (all),Materials Science (all),Engineering (all) + Materials Science (all),5873,33.6
+17,Earth and Planetary Sciences (all),Medicine (all),Earth and Planetary Sciences (all) + Medicine (all),5378,30.7
+18,Engineering (all),Environmental Science (all),Engineering (all) + Environmental Science (all),5069,29.0
+19,Materials Science (all),Physics and Astronomy (all),Materials Science (all) + Physics and Astronomy (all),4965,28.4
+20,Chemical Engineering (all),Medicine (all),Chemical Engineering (all) + Medicine (all),4923,28.1
+21,"Biochemistry, Genetics and Molecular Biology (all)",Environmental Science (all),"Biochemistry, Genetics and Molecular Biology (all) + Environmental Science (all)",4861,27.8
+22,Agricultural and Biological Sciences (all),"Biochemistry, Genetics and Molecular Biology (all)","Agricultural and Biological Sciences (all) + Biochemistry, Genetics and Molecular Biology (all)",4855,27.7
+23,Chemistry (all),Environmental Science (all),Chemistry (all) + Environmental Science (all),4768,27.2
+24,"Biochemistry, Genetics and Molecular Biology (all)",Computer Science (all),"Biochemistry, Genetics and Molecular Biology (all) + Computer Science (all)",4760,27.2
+25,Agricultural and Biological Sciences (all),Engineering (all),Agricultural and Biological Sciences (all) + Engineering (all),4740,27.1
+26,Environmental Science (all),Physics and Astronomy (all),Environmental Science (all) + Physics and Astronomy (all),4729,27.0
+27,Chemistry (all),Materials Science (all),Chemistry (all) + Materials Science (all),4697,26.8
+28,"Biochemistry, Genetics and Molecular Biology (all)",Materials Science (all),"Biochemistry, Genetics and Molecular Biology (all) + Materials Science (all)",4562,26.1
+29,Computer Science (all),Physics and Astronomy (all),Computer Science (all) + Physics and Astronomy (all),4535,25.9
+30,Chemical Engineering (all),Engineering (all),Chemical Engineering (all) + Engineering (all),4496,25.7
+31,Agricultural and Biological Sciences (all),Chemistry (all),Agricultural and Biological Sciences (all) + Chemistry (all),4486,25.6
+32,Agricultural and Biological Sciences (all),Physics and Astronomy (all),Agricultural and Biological Sciences (all) + Physics and Astronomy (all),4464,25.5
+33,Engineering (all),Mathematics (all),Engineering (all) + Mathematics (all),4282,24.5
+34,Mathematics (all),Medicine (all),Mathematics (all) + Medicine (all),4264,24.4
+35,Medicine (all),Neuroscience (all),Medicine (all) + Neuroscience (all),4210,24.1
+36,Medicine (all),Social Sciences (all),Medicine (all) + Social Sciences (all),4140,23.7
+37,Agricultural and Biological Sciences (all),Environmental Science (all),Agricultural and Biological Sciences (all) + Environmental Science (all),4109,23.5
+38,Earth and Planetary Sciences (all),Engineering (all),Earth and Planetary Sciences (all) + Engineering (all),4105,23.5
+39,Chemical Engineering (all),Physics and Astronomy (all),Chemical Engineering (all) + Physics and Astronomy (all),4053,23.2
+40,Computer Science (all),Materials Science (all),Computer Science (all) + Materials Science (all),4024,23.0
+41,Earth and Planetary Sciences (all),Environmental Science (all),Earth and Planetary Sciences (all) + Environmental Science (all),4003,22.9
+42,Chemical Engineering (all),Chemistry (all),Chemical Engineering (all) + Chemistry (all),3990,22.8
+43,Earth and Planetary Sciences (all),Physics and Astronomy (all),Earth and Planetary Sciences (all) + Physics and Astronomy (all),3951,22.6
+44,Chemistry (all),Computer Science (all),Chemistry (all) + Computer Science (all),3889,22.2
+45,"Biochemistry, Genetics and Molecular Biology (all)",Earth and Planetary Sciences (all),"Biochemistry, Genetics and Molecular Biology (all) + Earth and Planetary Sciences (all)",3876,22.1
+46,Immunology and Microbiology (all),Medicine (all),Immunology and Microbiology (all) + Medicine (all),3835,21.9
+47,Chemical Engineering (all),Materials Science (all),Chemical Engineering (all) + Materials Science (all),3767,21.5
+48,Energy (all),Medicine (all),Energy (all) + Medicine (all),3704,21.2
+49,Chemistry (all),Earth and Planetary Sciences (all),Chemistry (all) + Earth and Planetary Sciences (all),3701,21.1
+50,"Biochemistry, Genetics and Molecular Biology (all)",Chemical Engineering (all),"Biochemistry, Genetics and Molecular Biology (all) + Chemical Engineering (all)",3675,21.0
+51,Energy (all),Engineering (all),Energy (all) + Engineering (all),3548,20.3
+52,Computer Science (all),Mathematics (all),Computer Science (all) + Mathematics (all),3540,20.2
+53,Engineering (all),Social Sciences (all),Engineering (all) + Social Sciences (all),3515,20.1
+54,Mathematics (all),Physics and Astronomy (all),Mathematics (all) + Physics and Astronomy (all),3291,18.8
+55,Agricultural and Biological Sciences (all),Earth and Planetary Sciences (all),Agricultural and Biological Sciences (all) + Earth and Planetary Sciences (all),3264,18.6
+56,Environmental Science (all),Materials Science (all),Environmental Science (all) + Materials Science (all),3194,18.2
+57,"Biochemistry, Genetics and Molecular Biology (all)",Neuroscience (all),"Biochemistry, Genetics and Molecular Biology (all) + Neuroscience (all)",3184,18.2
+58,"Biochemistry, Genetics and Molecular Biology (all)",Mathematics (all),"Biochemistry, Genetics and Molecular Biology (all) + Mathematics (all)",3129,17.9
+59,Engineering (all),Neuroscience (all),Engineering (all) + Neuroscience (all),3080,17.6
+60,Agricultural and Biological Sciences (all),Computer Science (all),Agricultural and Biological Sciences (all) + Computer Science (all),3041,17.4
+61,Chemistry (all),Energy (all),Chemistry (all) + Energy (all),3036,17.3
+62,Energy (all),Physics and Astronomy (all),Energy (all) + Physics and Astronomy (all),2978,17.0
+63,Agricultural and Biological Sciences (all),Materials Science (all),Agricultural and Biological Sciences (all) + Materials Science (all),2977,17.0
+64,"Biochemistry, Genetics and Molecular Biology (all)",Immunology and Microbiology (all),"Biochemistry, Genetics and Molecular Biology (all) + Immunology and Microbiology (all)",2951,16.9
+65,Energy (all),Materials Science (all),Energy (all) + Materials Science (all),2905,16.6
+66,Neuroscience (all),Physics and Astronomy (all),Neuroscience (all) + Physics and Astronomy (all),2885,16.5
+67,Computer Science (all),Environmental Science (all),Computer Science (all) + Environmental Science (all),2881,16.5
+68,Chemistry (all),Neuroscience (all),Chemistry (all) + Neuroscience (all),2880,16.5
+69,"Biochemistry, Genetics and Molecular Biology (all)",Social Sciences (all),"Biochemistry, Genetics and Molecular Biology (all) + Social Sciences (all)",2787,15.9
+70,Agricultural and Biological Sciences (all),Neuroscience (all),Agricultural and Biological Sciences (all) + Neuroscience (all),2758,15.8
+71,Chemistry (all),Immunology and Microbiology (all),Chemistry (all) + Immunology and Microbiology (all),2746,15.7
+72,Computer Science (all),Social Sciences (all),Computer Science (all) + Social Sciences (all),2746,15.7
+73,Chemical Engineering (all),Computer Science (all),Chemical Engineering (all) + Computer Science (all),2745,15.7
+74,Agricultural and Biological Sciences (all),Immunology and Microbiology (all),Agricultural and Biological Sciences (all) + Immunology and Microbiology (all),2718,15.5
+75,Immunology and Microbiology (all),Physics and Astronomy (all),Immunology and Microbiology (all) + Physics and Astronomy (all),2694,15.4
+76,"Biochemistry, Genetics and Molecular Biology (all)",Energy (all),"Biochemistry, Genetics and Molecular Biology (all) + Energy (all)",2686,15.3
+77,Chemical Engineering (all),Environmental Science (all),Chemical Engineering (all) + Environmental Science (all),2660,15.2
+78,Engineering (all),Immunology and Microbiology (all),Engineering (all) + Immunology and Microbiology (all),2616,14.9
+79,Chemistry (all),Mathematics (all),Chemistry (all) + Mathematics (all),2598,14.8
+80,Materials Science (all),Mathematics (all),Materials Science (all) + Mathematics (all),2518,14.4
+81,Agricultural and Biological Sciences (all),Chemical Engineering (all),Agricultural and Biological Sciences (all) + Chemical Engineering (all),2504,14.3
+82,Chemical Engineering (all),Energy (all),Chemical Engineering (all) + Energy (all),2437,13.9
+83,Genetics and Molecular Biology (all),Medicine (all),Genetics and Molecular Biology (all) + Medicine (all),2397,13.7
+84,Earth and Planetary Sciences (all),Materials Science (all),Earth and Planetary Sciences (all) + Materials Science (all),2325,13.3
+85,Computer Science (all),Earth and Planetary Sciences (all),Computer Science (all) + Earth and Planetary Sciences (all),2305,13.2
+86,Physics and Astronomy (all),Social Sciences (all),Physics and Astronomy (all) + Social Sciences (all),2283,13.0
+87,Environmental Science (all),Social Sciences (all),Environmental Science (all) + Social Sciences (all),2268,13.0
+88,Environmental Science (all),Immunology and Microbiology (all),Environmental Science (all) + Immunology and Microbiology (all),2245,12.8
+89,Agricultural and Biological Sciences (all),Social Sciences (all),Agricultural and Biological Sciences (all) + Social Sciences (all),2242,12.8
+90,Environmental Science (all),Neuroscience (all),Environmental Science (all) + Neuroscience (all),2228,12.7
+91,Computer Science (all),Energy (all),Computer Science (all) + Energy (all),2214,12.6
+92,Agricultural and Biological Sciences (all),Mathematics (all),Agricultural and Biological Sciences (all) + Mathematics (all),2123,12.1
+93,"Biochemistry, Genetics and Molecular Biology (all)",Genetics and Molecular Biology (all),"Biochemistry, Genetics and Molecular Biology (all) + Genetics and Molecular Biology (all)",2112,12.1
+94,Computer Science (all),Neuroscience (all),Computer Science (all) + Neuroscience (all),2105,12.0
+95,Chemistry (all),Social Sciences (all),Chemistry (all) + Social Sciences (all),2104,12.0
+96,Arts and Humanities (all),Medicine (all),Arts and Humanities (all) + Medicine (all),2084,11.9
+97,Materials Science (all),Neuroscience (all),Materials Science (all) + Neuroscience (all),2066,11.8
+98,Energy (all),Environmental Science (all),Energy (all) + Environmental Science (all),2053,11.7
+99,Environmental Science (all),Mathematics (all),Environmental Science (all) + Mathematics (all),2050,11.7
+100,"Business, Management and Accounting (all)",Medicine (all),"Business, Management and Accounting (all) + Medicine (all)",2018,11.5
+101,"Business, Management and Accounting (all)",Engineering (all),"Business, Management and Accounting (all) + Engineering (all)",1981,11.3
+102,Medicine (all),Psychology (all),Medicine (all) + Psychology (all),1980,11.3
+103,Earth and Planetary Sciences (all),Social Sciences (all),Earth and Planetary Sciences (all) + Social Sciences (all),1952,11.2
+104,Genetics and Molecular Biology (all),Physics and Astronomy (all),Genetics and Molecular Biology (all) + Physics and Astronomy (all),1803,10.3
+105,Chemical Engineering (all),Earth and Planetary Sciences (all),Chemical Engineering (all) + Earth and Planetary Sciences (all),1787,10.2
+106,Mathematics (all),Social Sciences (all),Mathematics (all) + Social Sciences (all),1781,10.2
+107,Chemistry (all),Genetics and Molecular Biology (all),Chemistry (all) + Genetics and Molecular Biology (all),1758,10.0
+108,Earth and Planetary Sciences (all),Mathematics (all),Earth and Planetary Sciences (all) + Mathematics (all),1743,10.0
+109,Immunology and Microbiology (all),Materials Science (all),Immunology and Microbiology (all) + Materials Science (all),1742,10.0
+110,Materials Science (all),Social Sciences (all),Materials Science (all) + Social Sciences (all),1735,9.9
+111,Immunology and Microbiology (all),Neuroscience (all),Immunology and Microbiology (all) + Neuroscience (all),1733,9.9
+112,Agricultural and Biological Sciences (all),Energy (all),Agricultural and Biological Sciences (all) + Energy (all),1728,9.9
+113,Chemical Engineering (all),Neuroscience (all),Chemical Engineering (all) + Neuroscience (all),1720,9.8
+114,"Business, Management and Accounting (all)",Computer Science (all),"Business, Management and Accounting (all) + Computer Science (all)",1710,9.8
+115,Engineering (all),Genetics and Molecular Biology (all),Engineering (all) + Genetics and Molecular Biology (all),1697,9.7
+116,Chemical Engineering (all),Mathematics (all),Chemical Engineering (all) + Mathematics (all),1677,9.6
+117,Earth and Planetary Sciences (all),Immunology and Microbiology (all),Earth and Planetary Sciences (all) + Immunology and Microbiology (all),1632,9.3
+118,Engineering (all),Psychology (all),Engineering (all) + Psychology (all),1631,9.3
+119,Agricultural and Biological Sciences (all),Genetics and Molecular Biology (all),Agricultural and Biological Sciences (all) + Genetics and Molecular Biology (all),1596,9.1
+120,"Economics, Econometrics and Finance (all)",Medicine (all),"Economics, Econometrics and Finance (all) + Medicine (all)",1589,9.1
+121,Computer Science (all),Immunology and Microbiology (all),Computer Science (all) + Immunology and Microbiology (all),1571,9.0
+122,Earth and Planetary Sciences (all),Neuroscience (all),Earth and Planetary Sciences (all) + Neuroscience (all),1564,8.9
+123,Arts and Humanities (all),Engineering (all),Arts and Humanities (all) + Engineering (all),1547,8.8
+124,Chemical Engineering (all),Immunology and Microbiology (all),Chemical Engineering (all) + Immunology and Microbiology (all),1546,8.8
+125,"Economics, Econometrics and Finance (all)",Engineering (all),"Economics, Econometrics and Finance (all) + Engineering (all)",1464,8.4
+126,Earth and Planetary Sciences (all),Energy (all),Earth and Planetary Sciences (all) + Energy (all),1433,8.2
+127,Environmental Science (all),Genetics and Molecular Biology (all),Environmental Science (all) + Genetics and Molecular Biology (all),1419,8.1
+128,Computer Science (all),Psychology (all),Computer Science (all) + Psychology (all),1417,8.1
+129,Mathematics (all),Neuroscience (all),Mathematics (all) + Neuroscience (all),1399,8.0
+130,Arts and Humanities (all),Social Sciences (all),Arts and Humanities (all) + Social Sciences (all),1364,7.8
+131,Decision Sciences (all),Medicine (all),Decision Sciences (all) + Medicine (all),1361,7.8
+132,Arts and Humanities (all),"Biochemistry, Genetics and Molecular Biology (all)","Arts and Humanities (all) + Biochemistry, Genetics and Molecular Biology (all)",1350,7.7
+133,"Biochemistry, Genetics and Molecular Biology (all)","Business, Management and Accounting (all)","Biochemistry, Genetics and Molecular Biology (all) + Business, Management and Accounting (all)",1346,7.7
+134,Psychology (all),Social Sciences (all),Psychology (all) + Social Sciences (all),1343,7.7
+135,Energy (all),Mathematics (all),Energy (all) + Mathematics (all),1331,7.6
+136,Neuroscience (all),Social Sciences (all),Neuroscience (all) + Social Sciences (all),1326,7.6
+137,"Biochemistry, Genetics and Molecular Biology (all)",Psychology (all),"Biochemistry, Genetics and Molecular Biology (all) + Psychology (all)",1309,7.5
+138,"Business, Management and Accounting (all)",Social Sciences (all),"Business, Management and Accounting (all) + Social Sciences (all)",1284,7.3
+139,Decision Sciences (all),Engineering (all),Decision Sciences (all) + Engineering (all),1279,7.3
+140,Computer Science (all),"Economics, Econometrics and Finance (all)","Computer Science (all) + Economics, Econometrics and Finance (all)",1221,7.0
+141,Agricultural and Biological Sciences (all),Arts and Humanities (all),Agricultural and Biological Sciences (all) + Arts and Humanities (all),1213,6.9
+142,Chemical Engineering (all),Social Sciences (all),Chemical Engineering (all) + Social Sciences (all),1207,6.9
+143,Arts and Humanities (all),Computer Science (all),Arts and Humanities (all) + Computer Science (all),1193,6.8
+144,Genetics and Molecular Biology (all),Materials Science (all),Genetics and Molecular Biology (all) + Materials Science (all),1156,6.6
+145,Arts and Humanities (all),Environmental Science (all),Arts and Humanities (all) + Environmental Science (all),1139,6.5
+146,Computer Science (all),Decision Sciences (all),Computer Science (all) + Decision Sciences (all),1138,6.5
+147,Immunology and Microbiology (all),Mathematics (all),Immunology and Microbiology (all) + Mathematics (all),1130,6.5
+148,"Business, Management and Accounting (all)",Mathematics (all),"Business, Management and Accounting (all) + Mathematics (all)",1128,6.4
+149,"Business, Management and Accounting (all)",Physics and Astronomy (all),"Business, Management and Accounting (all) + Physics and Astronomy (all)",1126,6.4
+150,Agricultural and Biological Sciences (all),Psychology (all),Agricultural and Biological Sciences (all) + Psychology (all),1115,6.4
+151,Arts and Humanities (all),Physics and Astronomy (all),Arts and Humanities (all) + Physics and Astronomy (all),1115,6.4
+152,Immunology and Microbiology (all),Social Sciences (all),Immunology and Microbiology (all) + Social Sciences (all),1101,6.3
+153,Computer Science (all),Genetics and Molecular Biology (all),Computer Science (all) + Genetics and Molecular Biology (all),1100,6.3
+154,Genetics and Molecular Biology (all),Immunology and Microbiology (all),Genetics and Molecular Biology (all) + Immunology and Microbiology (all),1081,6.2
+155,Energy (all),Neuroscience (all),Energy (all) + Neuroscience (all),1067,6.1
+156,"Business, Management and Accounting (all)",Environmental Science (all),"Business, Management and Accounting (all) + Environmental Science (all)",1065,6.1
+157,"Biochemistry, Genetics and Molecular Biology (all)","Economics, Econometrics and Finance (all)","Biochemistry, Genetics and Molecular Biology (all) + Economics, Econometrics and Finance (all)",1062,6.1
+158,Genetics and Molecular Biology (all),Neuroscience (all),Genetics and Molecular Biology (all) + Neuroscience (all),1060,6.1
+159,Agricultural and Biological Sciences (all),"Business, Management and Accounting (all)","Agricultural and Biological Sciences (all) + Business, Management and Accounting (all)",1049,6.0
+160,"Business, Management and Accounting (all)",Materials Science (all),"Business, Management and Accounting (all) + Materials Science (all)",1048,6.0
+161,Chemical Engineering (all),Genetics and Molecular Biology (all),Chemical Engineering (all) + Genetics and Molecular Biology (all),1034,5.9
+162,"Economics, Econometrics and Finance (all)",Social Sciences (all),"Economics, Econometrics and Finance (all) + Social Sciences (all)",1031,5.9
+163,Arts and Humanities (all),Chemistry (all),Arts and Humanities (all) + Chemistry (all),1028,5.9
+164,Earth and Planetary Sciences (all),Genetics and Molecular Biology (all),Earth and Planetary Sciences (all) + Genetics and Molecular Biology (all),1026,5.9
+165,"Biochemistry, Genetics and Molecular Biology (all)",Decision Sciences (all),"Biochemistry, Genetics and Molecular Biology (all) + Decision Sciences (all)",1022,5.8
+166,Arts and Humanities (all),Earth and Planetary Sciences (all),Arts and Humanities (all) + Earth and Planetary Sciences (all),999,5.7
+167,"Business, Management and Accounting (all)",Chemistry (all),"Business, Management and Accounting (all) + Chemistry (all)",994,5.7
+168,Physics and Astronomy (all),Psychology (all),Physics and Astronomy (all) + Psychology (all),974,5.6
+169,Energy (all),Social Sciences (all),Energy (all) + Social Sciences (all),960,5.5
+170,Energy (all),Immunology and Microbiology (all),Energy (all) + Immunology and Microbiology (all),937,5.4
+171,"Economics, Econometrics and Finance (all)",Environmental Science (all),"Economics, Econometrics and Finance (all) + Environmental Science (all)",910,5.2
+172,Mathematics (all),Psychology (all),Mathematics (all) + Psychology (all),901,5.1
+173,Medicine (all),Veterinary (all),Medicine (all) + Veterinary (all),893,5.1
+174,Chemistry (all),Psychology (all),Chemistry (all) + Psychology (all),892,5.1
+175,"Economics, Econometrics and Finance (all)",Physics and Astronomy (all),"Economics, Econometrics and Finance (all) + Physics and Astronomy (all)",879,5.0
+176,Agricultural and Biological Sciences (all),"Economics, Econometrics and Finance (all)","Agricultural and Biological Sciences (all) + Economics, Econometrics and Finance (all)",868,5.0
+177,"Economics, Econometrics and Finance (all)",Mathematics (all),"Economics, Econometrics and Finance (all) + Mathematics (all)",852,4.9
+178,"Business, Management and Accounting (all)",Earth and Planetary Sciences (all),"Business, Management and Accounting (all) + Earth and Planetary Sciences (all)",848,4.8
+179,Environmental Science (all),Psychology (all),Environmental Science (all) + Psychology (all),848,4.8
+180,Decision Sciences (all),Physics and Astronomy (all),Decision Sciences (all) + Physics and Astronomy (all),835,4.8
+181,Neuroscience (all),Psychology (all),Neuroscience (all) + Psychology (all),831,4.7
+182,Medicine (all),"Pharmacology, Toxicology and Pharmaceutics (all)","Medicine (all) + Pharmacology, Toxicology and Pharmaceutics (all)",806,4.6
+183,Agricultural and Biological Sciences (all),Decision Sciences (all),Agricultural and Biological Sciences (all) + Decision Sciences (all),803,4.6
+184,Chemistry (all),"Economics, Econometrics and Finance (all)","Chemistry (all) + Economics, Econometrics and Finance (all)",798,4.6
+185,Arts and Humanities (all),Mathematics (all),Arts and Humanities (all) + Mathematics (all),787,4.5
+186,Arts and Humanities (all),Materials Science (all),Arts and Humanities (all) + Materials Science (all),781,4.5
+187,Chemistry (all),Decision Sciences (all),Chemistry (all) + Decision Sciences (all),775,4.4
+188,Decision Sciences (all),Environmental Science (all),Decision Sciences (all) + Environmental Science (all),775,4.4
+189,"Economics, Econometrics and Finance (all)",Materials Science (all),"Economics, Econometrics and Finance (all) + Materials Science (all)",771,4.4
+190,Materials Science (all),Psychology (all),Materials Science (all) + Psychology (all),761,4.3
+191,Decision Sciences (all),Mathematics (all),Decision Sciences (all) + Mathematics (all),752,4.3
+192,Genetics and Molecular Biology (all),Mathematics (all),Genetics and Molecular Biology (all) + Mathematics (all),734,4.2
+193,Earth and Planetary Sciences (all),"Economics, Econometrics and Finance (all)","Earth and Planetary Sciences (all) + Economics, Econometrics and Finance (all)",708,4.0
+194,Arts and Humanities (all),Neuroscience (all),Arts and Humanities (all) + Neuroscience (all),707,4.0
+195,Agricultural and Biological Sciences (all),Veterinary (all),Agricultural and Biological Sciences (all) + Veterinary (all),701,4.0
+196,Arts and Humanities (all),Psychology (all),Arts and Humanities (all) + Psychology (all),699,4.0
+197,Decision Sciences (all),Social Sciences (all),Decision Sciences (all) + Social Sciences (all),695,4.0
+198,Decision Sciences (all),Materials Science (all),Decision Sciences (all) + Materials Science (all),691,3.9
+199,"Biochemistry, Genetics and Molecular Biology (all)",Veterinary (all),"Biochemistry, Genetics and Molecular Biology (all) + Veterinary (all)",686,3.9
+200,Energy (all),Genetics and Molecular Biology (all),Energy (all) + Genetics and Molecular Biology (all),686,3.9
+201,Genetics and Molecular Biology (all),Social Sciences (all),Genetics and Molecular Biology (all) + Social Sciences (all),681,3.9
+202,"Business, Management and Accounting (all)",Chemical Engineering (all),"Business, Management and Accounting (all) + Chemical Engineering (all)",661,3.8
+203,Health Professions  (all),Medicine (all),Health Professions  (all) + Medicine (all),641,3.7
+204,Earth and Planetary Sciences (all),Psychology (all),Earth and Planetary Sciences (all) + Psychology (all),638,3.6
+205,"Business, Management and Accounting (all)",Psychology (all),"Business, Management and Accounting (all) + Psychology (all)",625,3.6
+206,Engineering (all),"Pharmacology, Toxicology and Pharmaceutics (all)","Engineering (all) + Pharmacology, Toxicology and Pharmaceutics (all)",618,3.5
+207,"Business, Management and Accounting (all)",Energy (all),"Business, Management and Accounting (all) + Energy (all)",616,3.5
+208,Decision Sciences (all),Earth and Planetary Sciences (all),Decision Sciences (all) + Earth and Planetary Sciences (all),615,3.5
+209,Chemistry (all),"Pharmacology, Toxicology and Pharmaceutics (all)","Chemistry (all) + Pharmacology, Toxicology and Pharmaceutics (all)",608,3.5
+210,"Biochemistry, Genetics and Molecular Biology (all)","Pharmacology, Toxicology and Pharmaceutics (all)","Biochemistry, Genetics and Molecular Biology (all) + Pharmacology, Toxicology and Pharmaceutics (all)",606,3.5
+211,Engineering (all),Veterinary (all),Engineering (all) + Veterinary (all),601,3.4
+212,Chemistry (all),Veterinary (all),Chemistry (all) + Veterinary (all),593,3.4
+213,Arts and Humanities (all),Immunology and Microbiology (all),Arts and Humanities (all) + Immunology and Microbiology (all),586,3.3
+214,Environmental Science (all),Veterinary (all),Environmental Science (all) + Veterinary (all),582,3.3
+215,Physics and Astronomy (all),Veterinary (all),Physics and Astronomy (all) + Veterinary (all),580,3.3
+216,Arts and Humanities (all),"Business, Management and Accounting (all)","Arts and Humanities (all) + Business, Management and Accounting (all)",573,3.3
+217,"Business, Management and Accounting (all)",Neuroscience (all),"Business, Management and Accounting (all) + Neuroscience (all)",565,3.2
+218,"Pharmacology, Toxicology and Pharmaceutics (all)",Physics and Astronomy (all),"Pharmacology, Toxicology and Pharmaceutics (all) + Physics and Astronomy (all)",563,3.2
+219,Engineering (all),Health Professions  (all),Engineering (all) + Health Professions  (all),559,3.2
+220,Immunology and Microbiology (all),Psychology (all),Immunology and Microbiology (all) + Psychology (all),557,3.2
+221,"Business, Management and Accounting (all)","Economics, Econometrics and Finance (all)","Business, Management and Accounting (all) + Economics, Econometrics and Finance (all)",543,3.1
+222,Arts and Humanities (all),Chemical Engineering (all),Arts and Humanities (all) + Chemical Engineering (all),539,3.1
+223,Chemical Engineering (all),Psychology (all),Chemical Engineering (all) + Psychology (all),535,3.1
+224,"Business, Management and Accounting (all)",Decision Sciences (all),"Business, Management and Accounting (all) + Decision Sciences (all)",532,3.0
+225,Agricultural and Biological Sciences (all),"Pharmacology, Toxicology and Pharmaceutics (all)","Agricultural and Biological Sciences (all) + Pharmacology, Toxicology and Pharmaceutics (all)",528,3.0
+226,Chemical Engineering (all),"Economics, Econometrics and Finance (all)","Chemical Engineering (all) + Economics, Econometrics and Finance (all)",510,2.9
+227,Medicine (all),Nursing (all),Medicine (all) + Nursing (all),507,2.9
+228,Decision Sciences (all),Neuroscience (all),Decision Sciences (all) + Neuroscience (all),497,2.8
+229,"Economics, Econometrics and Finance (all)",Psychology (all),"Economics, Econometrics and Finance (all) + Psychology (all)",497,2.8
+230,Immunology and Microbiology (all),Veterinary (all),Immunology and Microbiology (all) + Veterinary (all),485,2.8
+231,Computer Science (all),Health Professions  (all),Computer Science (all) + Health Professions  (all),484,2.8
+232,Arts and Humanities (all),"Economics, Econometrics and Finance (all)","Arts and Humanities (all) + Economics, Econometrics and Finance (all)",480,2.7
+233,Materials Science (all),"Pharmacology, Toxicology and Pharmaceutics (all)","Materials Science (all) + Pharmacology, Toxicology and Pharmaceutics (all)",473,2.7
+234,"Business, Management and Accounting (all)",Immunology and Microbiology (all),"Business, Management and Accounting (all) + Immunology and Microbiology (all)",467,2.7
+235,"Economics, Econometrics and Finance (all)",Energy (all),"Economics, Econometrics and Finance (all) + Energy (all)",461,2.6
+236,Arts and Humanities (all),Energy (all),Arts and Humanities (all) + Energy (all),460,2.6
+237,Chemical Engineering (all),Decision Sciences (all),Chemical Engineering (all) + Decision Sciences (all),460,2.6
+238,Management and Accounting (all),Medicine (all),Management and Accounting (all) + Medicine (all),449,2.6
+239,"Economics, Econometrics and Finance (all)",Neuroscience (all),"Economics, Econometrics and Finance (all) + Neuroscience (all)",447,2.6
+240,Neuroscience (all),Veterinary (all),Neuroscience (all) + Veterinary (all),444,2.5
+241,Engineering (all),Nursing (all),Engineering (all) + Nursing (all),438,2.5
+242,Engineering (all),Management and Accounting (all),Engineering (all) + Management and Accounting (all),437,2.5
+243,"Biochemistry, Genetics and Molecular Biology (all)",Health Professions  (all),"Biochemistry, Genetics and Molecular Biology (all) + Health Professions  (all)",429,2.5
+244,Chemical Engineering (all),"Pharmacology, Toxicology and Pharmaceutics (all)","Chemical Engineering (all) + Pharmacology, Toxicology and Pharmaceutics (all)",428,2.4
+245,Decision Sciences (all),Energy (all),Decision Sciences (all) + Energy (all),418,2.4
+246,Energy (all),Psychology (all),Energy (all) + Psychology (all),401,2.3
+247,Environmental Science (all),"Pharmacology, Toxicology and Pharmaceutics (all)","Environmental Science (all) + Pharmacology, Toxicology and Pharmaceutics (all)",400,2.3
+248,Arts and Humanities (all),Genetics and Molecular Biology (all),Arts and Humanities (all) + Genetics and Molecular Biology (all),393,2.2
+249,Dentistry (all),Medicine (all),Dentistry (all) + Medicine (all),392,2.2
+250,"Economics, Econometrics and Finance (all)",Immunology and Microbiology (all),"Economics, Econometrics and Finance (all) + Immunology and Microbiology (all)",392,2.2
+251,Decision Sciences (all),Immunology and Microbiology (all),Decision Sciences (all) + Immunology and Microbiology (all),390,2.2
+252,Decision Sciences (all),"Economics, Econometrics and Finance (all)","Decision Sciences (all) + Economics, Econometrics and Finance (all)",389,2.2
+253,Computer Science (all),"Pharmacology, Toxicology and Pharmaceutics (all)","Computer Science (all) + Pharmacology, Toxicology and Pharmaceutics (all)",386,2.2
+254,Earth and Planetary Sciences (all),Veterinary (all),Earth and Planetary Sciences (all) + Veterinary (all),383,2.2
+255,Decision Sciences (all),Psychology (all),Decision Sciences (all) + Psychology (all),381,2.2
+256,Computer Science (all),Veterinary (all),Computer Science (all) + Veterinary (all),377,2.2
+257,Computer Science (all),Management and Accounting (all),Computer Science (all) + Management and Accounting (all),372,2.1
+258,Materials Science (all),Veterinary (all),Materials Science (all) + Veterinary (all),366,2.1
+259,Neuroscience (all),"Pharmacology, Toxicology and Pharmaceutics (all)","Neuroscience (all) + Pharmacology, Toxicology and Pharmaceutics (all)",353,2.0
+260,Genetics and Molecular Biology (all),Psychology (all),Genetics and Molecular Biology (all) + Psychology (all),352,2.0
+261,Computer Science (all),Nursing (all),Computer Science (all) + Nursing (all),343,2.0
+262,Health Professions  (all),Physics and Astronomy (all),Health Professions  (all) + Physics and Astronomy (all),341,1.9
+263,Immunology and Microbiology (all),"Pharmacology, Toxicology and Pharmaceutics (all)","Immunology and Microbiology (all) + Pharmacology, Toxicology and Pharmaceutics (all)",339,1.9
+264,"Biochemistry, Genetics and Molecular Biology (all)",Management and Accounting (all),"Biochemistry, Genetics and Molecular Biology (all) + Management and Accounting (all)",338,1.9
+265,Econometrics and Finance (all),Medicine (all),Econometrics and Finance (all) + Medicine (all),333,1.9
+266,Health Professions  (all),Materials Science (all),Health Professions  (all) + Materials Science (all),328,1.9
+267,Arts and Humanities (all),Decision Sciences (all),Arts and Humanities (all) + Decision Sciences (all),326,1.9
+268,"Biochemistry, Genetics and Molecular Biology (all)",Nursing (all),"Biochemistry, Genetics and Molecular Biology (all) + Nursing (all)",325,1.9
+269,"Business, Management and Accounting (all)",Genetics and Molecular Biology (all),"Business, Management and Accounting (all) + Genetics and Molecular Biology (all)",325,1.9
+270,Agricultural and Biological Sciences (all),Health Professions  (all),Agricultural and Biological Sciences (all) + Health Professions  (all),324,1.9
+271,Health Professions  (all),Social Sciences (all),Health Professions  (all) + Social Sciences (all),322,1.8
+272,Dentistry (all),Engineering (all),Dentistry (all) + Engineering (all),319,1.8
+273,Social Sciences (all),Veterinary (all),Social Sciences (all) + Veterinary (all),318,1.8
+274,Chemical Engineering (all),Veterinary (all),Chemical Engineering (all) + Veterinary (all),316,1.8
+275,Chemistry (all),Health Professions  (all),Chemistry (all) + Health Professions  (all),316,1.8
+276,Management and Accounting (all),Social Sciences (all),Management and Accounting (all) + Social Sciences (all),311,1.8
+277,Econometrics and Finance (all),Engineering (all),Econometrics and Finance (all) + Engineering (all),303,1.7
+278,"Biochemistry, Genetics and Molecular Biology (all)",Dentistry (all),"Biochemistry, Genetics and Molecular Biology (all) + Dentistry (all)",299,1.7
+279,Chemistry (all),Dentistry (all),Chemistry (all) + Dentistry (all),297,1.7
+280,Health Professions  (all),Mathematics (all),Health Professions  (all) + Mathematics (all),295,1.7
+281,Dentistry (all),Physics and Astronomy (all),Dentistry (all) + Physics and Astronomy (all),289,1.7
+282,"Business, Management and Accounting (all)",Management and Accounting (all),"Business, Management and Accounting (all) + Management and Accounting (all)",282,1.6
+283,Nursing (all),Physics and Astronomy (all),Nursing (all) + Physics and Astronomy (all),281,1.6
+284,Energy (all),"Pharmacology, Toxicology and Pharmaceutics (all)","Energy (all) + Pharmacology, Toxicology and Pharmaceutics (all)",279,1.6
+285,Nursing (all),Social Sciences (all),Nursing (all) + Social Sciences (all),273,1.6
+286,Mathematics (all),Veterinary (all),Mathematics (all) + Veterinary (all),271,1.5
+287,Chemistry (all),Nursing (all),Chemistry (all) + Nursing (all),265,1.5
+288,"Economics, Econometrics and Finance (all)",Genetics and Molecular Biology (all),"Economics, Econometrics and Finance (all) + Genetics and Molecular Biology (all)",265,1.5
+289,Management and Accounting (all),Physics and Astronomy (all),Management and Accounting (all) + Physics and Astronomy (all),265,1.5
+290,Environmental Science (all),Health Professions  (all),Environmental Science (all) + Health Professions  (all),264,1.5
+291,Management and Accounting (all),Mathematics (all),Management and Accounting (all) + Mathematics (all),264,1.5
+292,Dentistry (all),Materials Science (all),Dentistry (all) + Materials Science (all),263,1.5
+293,Health Professions  (all),Neuroscience (all),Health Professions  (all) + Neuroscience (all),263,1.5
+294,Agricultural and Biological Sciences (all),Nursing (all),Agricultural and Biological Sciences (all) + Nursing (all),256,1.5
+295,Decision Sciences (all),Genetics and Molecular Biology (all),Decision Sciences (all) + Genetics and Molecular Biology (all),256,1.5
+296,Econometrics and Finance (all),Social Sciences (all),Econometrics and Finance (all) + Social Sciences (all),250,1.4
+297,Materials Science (all),Nursing (all),Materials Science (all) + Nursing (all),249,1.4
+298,Agricultural and Biological Sciences (all),Management and Accounting (all),Agricultural and Biological Sciences (all) + Management and Accounting (all),247,1.4
+299,Chemical Engineering (all),Health Professions  (all),Chemical Engineering (all) + Health Professions  (all),247,1.4
+300,Environmental Science (all),Management and Accounting (all),Environmental Science (all) + Management and Accounting (all),247,1.4
+301,"Biochemistry, Genetics and Molecular Biology (all)",Econometrics and Finance (all),"Biochemistry, Genetics and Molecular Biology (all) + Econometrics and Finance (all)",246,1.4
+302,Computer Science (all),Econometrics and Finance (all),Computer Science (all) + Econometrics and Finance (all),246,1.4
+303,Genetics and Molecular Biology (all),Veterinary (all),Genetics and Molecular Biology (all) + Veterinary (all),242,1.4
+304,Chemical Engineering (all),Dentistry (all),Chemical Engineering (all) + Dentistry (all),240,1.4
+305,Health Professions  (all),Psychology (all),Health Professions  (all) + Psychology (all),239,1.4
+306,Environmental Science (all),Nursing (all),Environmental Science (all) + Nursing (all),237,1.4
+307,Earth and Planetary Sciences (all),"Pharmacology, Toxicology and Pharmaceutics (all)","Earth and Planetary Sciences (all) + Pharmacology, Toxicology and Pharmaceutics (all)",236,1.3
+308,Mathematics (all),Nursing (all),Mathematics (all) + Nursing (all),234,1.3
+309,Agricultural and Biological Sciences (all),Dentistry (all),Agricultural and Biological Sciences (all) + Dentistry (all),232,1.3
+310,Management and Accounting (all),Materials Science (all),Management and Accounting (all) + Materials Science (all),231,1.3
+311,"Pharmacology, Toxicology and Pharmaceutics (all)",Social Sciences (all),"Pharmacology, Toxicology and Pharmaceutics (all) + Social Sciences (all)",228,1.3
+312,Mathematics (all),"Pharmacology, Toxicology and Pharmaceutics (all)","Mathematics (all) + Pharmacology, Toxicology and Pharmaceutics (all)",224,1.3
+313,Chemistry (all),Management and Accounting (all),Chemistry (all) + Management and Accounting (all),222,1.3
+314,"Economics, Econometrics and Finance (all)",Management and Accounting (all),"Economics, Econometrics and Finance (all) + Management and Accounting (all)",218,1.2
+315,Neuroscience (all),Nursing (all),Neuroscience (all) + Nursing (all),215,1.2
+316,Econometrics and Finance (all),Environmental Science (all),Econometrics and Finance (all) + Environmental Science (all),207,1.2
+317,Energy (all),Veterinary (all),Energy (all) + Veterinary (all),204,1.2
+318,"Business, Management and Accounting (all)",Econometrics and Finance (all),"Business, Management and Accounting (all) + Econometrics and Finance (all)",198,1.1
+319,Computer Science (all),Dentistry (all),Computer Science (all) + Dentistry (all),194,1.1
+320,Agricultural and Biological Sciences (all),Econometrics and Finance (all),Agricultural and Biological Sciences (all) + Econometrics and Finance (all),191,1.1
+321,Earth and Planetary Sciences (all),Management and Accounting (all),Earth and Planetary Sciences (all) + Management and Accounting (all),191,1.1
+322,Econometrics and Finance (all),Physics and Astronomy (all),Econometrics and Finance (all) + Physics and Astronomy (all),191,1.1
+323,Genetics and Molecular Biology (all),"Pharmacology, Toxicology and Pharmaceutics (all)","Genetics and Molecular Biology (all) + Pharmacology, Toxicology and Pharmaceutics (all)",191,1.1
+324,Chemical Engineering (all),Nursing (all),Chemical Engineering (all) + Nursing (all),186,1.1
+325,"Business, Management and Accounting (all)",Health Professions  (all),"Business, Management and Accounting (all) + Health Professions  (all)",183,1.0
+326,Nursing (all),Psychology (all),Nursing (all) + Psychology (all),183,1.0
+327,Dentistry (all),Neuroscience (all),Dentistry (all) + Neuroscience (all),180,1.0
+328,Dentistry (all),Environmental Science (all),Dentistry (all) + Environmental Science (all),179,1.0
+329,Econometrics and Finance (all),"Economics, Econometrics and Finance (all)","Econometrics and Finance (all) + Economics, Econometrics and Finance (all)",179,1.0
+330,Earth and Planetary Sciences (all),Health Professions  (all),Earth and Planetary Sciences (all) + Health Professions  (all),178,1.0
+331,Econometrics and Finance (all),Mathematics (all),Econometrics and Finance (all) + Mathematics (all),178,1.0
+332,Chemistry (all),Econometrics and Finance (all),Chemistry (all) + Econometrics and Finance (all),177,1.0
+333,Energy (all),Health Professions  (all),Energy (all) + Health Professions  (all),177,1.0
+334,Health Professions  (all),Immunology and Microbiology (all),Health Professions  (all) + Immunology and Microbiology (all),176,1.0
+335,Earth and Planetary Sciences (all),Nursing (all),Earth and Planetary Sciences (all) + Nursing (all),173,1.0
+336,Arts and Humanities (all),Veterinary (all),Arts and Humanities (all) + Veterinary (all),167,1.0
+337,Econometrics and Finance (all),Materials Science (all),Econometrics and Finance (all) + Materials Science (all),167,1.0
+338,Psychology (all),Veterinary (all),Psychology (all) + Veterinary (all),167,1.0
+339,Medicine (all),Toxicology and Pharmaceutics (all),Medicine (all) + Toxicology and Pharmaceutics (all),166,0.9
+340,Chemical Engineering (all),Management and Accounting (all),Chemical Engineering (all) + Management and Accounting (all),165,0.9
+341,Dentistry (all),Immunology and Microbiology (all),Dentistry (all) + Immunology and Microbiology (all),164,0.9
+342,Earth and Planetary Sciences (all),Econometrics and Finance (all),Earth and Planetary Sciences (all) + Econometrics and Finance (all),164,0.9
+343,Arts and Humanities (all),Health Professions  (all),Arts and Humanities (all) + Health Professions  (all),150,0.9
+344,Decision Sciences (all),Management and Accounting (all),Decision Sciences (all) + Management and Accounting (all),150,0.9
+345,"Business, Management and Accounting (all)",Nursing (all),"Business, Management and Accounting (all) + Nursing (all)",149,0.9
+346,"Business, Management and Accounting (all)",Veterinary (all),"Business, Management and Accounting (all) + Veterinary (all)",149,0.9
+347,Arts and Humanities (all),Management and Accounting (all),Arts and Humanities (all) + Management and Accounting (all),148,0.8
+348,Dentistry (all),Energy (all),Dentistry (all) + Energy (all),148,0.8
+349,"Biochemistry, Genetics and Molecular Biology (all)",Toxicology and Pharmaceutics (all),"Biochemistry, Genetics and Molecular Biology (all) + Toxicology and Pharmaceutics (all)",147,0.8
+350,Management and Accounting (all),Psychology (all),Management and Accounting (all) + Psychology (all),146,0.8
+351,"Pharmacology, Toxicology and Pharmaceutics (all)",Psychology (all),"Pharmacology, Toxicology and Pharmaceutics (all) + Psychology (all)",145,0.8
+352,Immunology and Microbiology (all),Nursing (all),Immunology and Microbiology (all) + Nursing (all),141,0.8
+353,Management and Accounting (all),Neuroscience (all),Management and Accounting (all) + Neuroscience (all),139,0.8
+354,Energy (all),Management and Accounting (all),Energy (all) + Management and Accounting (all),137,0.8
+355,Econometrics and Finance (all),Psychology (all),Econometrics and Finance (all) + Psychology (all),135,0.8
+356,Dentistry (all),Mathematics (all),Dentistry (all) + Mathematics (all),134,0.8
+357,Energy (all),Nursing (all),Energy (all) + Nursing (all),133,0.8
+358,"Economics, Econometrics and Finance (all)",Health Professions  (all),"Economics, Econometrics and Finance (all) + Health Professions  (all)",132,0.8
+359,Chemical Engineering (all),Econometrics and Finance (all),Chemical Engineering (all) + Econometrics and Finance (all),131,0.7
+360,Chemistry (all),Toxicology and Pharmaceutics (all),Chemistry (all) + Toxicology and Pharmaceutics (all),129,0.7
+361,Engineering (all),Toxicology and Pharmaceutics (all),Engineering (all) + Toxicology and Pharmaceutics (all),129,0.7
+362,Physics and Astronomy (all),Toxicology and Pharmaceutics (all),Physics and Astronomy (all) + Toxicology and Pharmaceutics (all),128,0.7
+363,"Economics, Econometrics and Finance (all)",Nursing (all),"Economics, Econometrics and Finance (all) + Nursing (all)",125,0.7
+364,Decision Sciences (all),Health Professions  (all),Decision Sciences (all) + Health Professions  (all),124,0.7
+365,Arts and Humanities (all),Econometrics and Finance (all),Arts and Humanities (all) + Econometrics and Finance (all),121,0.7
+366,"Business, Management and Accounting (all)","Pharmacology, Toxicology and Pharmaceutics (all)","Business, Management and Accounting (all) + Pharmacology, Toxicology and Pharmaceutics (all)",121,0.7
+367,Agricultural and Biological Sciences (all),Toxicology and Pharmaceutics (all),Agricultural and Biological Sciences (all) + Toxicology and Pharmaceutics (all),119,0.7
+368,Decision Sciences (all),Veterinary (all),Decision Sciences (all) + Veterinary (all),117,0.7
+369,Arts and Humanities (all),Nursing (all),Arts and Humanities (all) + Nursing (all),116,0.7
+370,"Economics, Econometrics and Finance (all)",Veterinary (all),"Economics, Econometrics and Finance (all) + Veterinary (all)",115,0.7
+371,Genetics and Molecular Biology (all),Health Professions  (all),Genetics and Molecular Biology (all) + Health Professions  (all),114,0.7
+372,Dentistry (all),Social Sciences (all),Dentistry (all) + Social Sciences (all),113,0.6
+373,Econometrics and Finance (all),Energy (all),Econometrics and Finance (all) + Energy (all),111,0.6
+374,Immunology and Microbiology (all),Management and Accounting (all),Immunology and Microbiology (all) + Management and Accounting (all),109,0.6
+375,Econometrics and Finance (all),Neuroscience (all),Econometrics and Finance (all) + Neuroscience (all),107,0.6
+376,Arts and Humanities (all),"Pharmacology, Toxicology and Pharmaceutics (all)","Arts and Humanities (all) + Pharmacology, Toxicology and Pharmaceutics (all)",103,0.6
+377,Dentistry (all),Earth and Planetary Sciences (all),Dentistry (all) + Earth and Planetary Sciences (all),103,0.6
+378,Chemical Engineering (all),Toxicology and Pharmaceutics (all),Chemical Engineering (all) + Toxicology and Pharmaceutics (all),101,0.6
+379,"Pharmacology, Toxicology and Pharmaceutics (all)",Veterinary (all),"Pharmacology, Toxicology and Pharmaceutics (all) + Veterinary (all)",96,0.5
+380,Genetics and Molecular Biology (all),Nursing (all),Genetics and Molecular Biology (all) + Nursing (all),95,0.5
+381,Econometrics and Finance (all),Immunology and Microbiology (all),Econometrics and Finance (all) + Immunology and Microbiology (all),93,0.5
+382,Decision Sciences (all),Econometrics and Finance (all),Decision Sciences (all) + Econometrics and Finance (all),90,0.5
+383,Decision Sciences (all),Nursing (all),Decision Sciences (all) + Nursing (all),90,0.5
+384,"Economics, Econometrics and Finance (all)","Pharmacology, Toxicology and Pharmaceutics (all)","Economics, Econometrics and Finance (all) + Pharmacology, Toxicology and Pharmaceutics (all)",90,0.5
+385,Materials Science (all),Toxicology and Pharmaceutics (all),Materials Science (all) + Toxicology and Pharmaceutics (all),90,0.5
+386,Neuroscience (all),Toxicology and Pharmaceutics (all),Neuroscience (all) + Toxicology and Pharmaceutics (all),89,0.5
+387,Environmental Science (all),Toxicology and Pharmaceutics (all),Environmental Science (all) + Toxicology and Pharmaceutics (all),87,0.5
+388,Decision Sciences (all),"Pharmacology, Toxicology and Pharmaceutics (all)","Decision Sciences (all) + Pharmacology, Toxicology and Pharmaceutics (all)",86,0.5
+389,Health Professions  (all),Nursing (all),Health Professions  (all) + Nursing (all),86,0.5
+390,Dentistry (all),Genetics and Molecular Biology (all),Dentistry (all) + Genetics and Molecular Biology (all),79,0.5
+391,Immunology and Microbiology (all),Toxicology and Pharmaceutics (all),Immunology and Microbiology (all) + Toxicology and Pharmaceutics (all),78,0.4
+392,Computer Science (all),Toxicology and Pharmaceutics (all),Computer Science (all) + Toxicology and Pharmaceutics (all),77,0.4
+393,Arts and Humanities (all),Dentistry (all),Arts and Humanities (all) + Dentistry (all),63,0.4
+394,"Business, Management and Accounting (all)",Dentistry (all),"Business, Management and Accounting (all) + Dentistry (all)",62,0.4
+395,Nursing (all),Veterinary (all),Nursing (all) + Veterinary (all),58,0.3
+396,Mathematics (all),Toxicology and Pharmaceutics (all),Mathematics (all) + Toxicology and Pharmaceutics (all),56,0.3
+397,Dentistry (all),"Economics, Econometrics and Finance (all)","Dentistry (all) + Economics, Econometrics and Finance (all)",52,0.3
+398,Dentistry (all),Psychology (all),Dentistry (all) + Psychology (all),52,0.3
+399,Energy (all),Toxicology and Pharmaceutics (all),Energy (all) + Toxicology and Pharmaceutics (all),52,0.3
+400,Health Professions  (all),Veterinary (all),Health Professions  (all) + Veterinary (all),52,0.3
+401,Earth and Planetary Sciences (all),Toxicology and Pharmaceutics (all),Earth and Planetary Sciences (all) + Toxicology and Pharmaceutics (all),47,0.3
+402,Dentistry (all),Veterinary (all),Dentistry (all) + Veterinary (all),45,0.3
+403,Decision Sciences (all),Dentistry (all),Decision Sciences (all) + Dentistry (all),42,0.2
+404,Management and Accounting (all),"Pharmacology, Toxicology and Pharmaceutics (all)","Management and Accounting (all) + Pharmacology, Toxicology and Pharmaceutics (all)",42,0.2
+405,Social Sciences (all),Toxicology and Pharmaceutics (all),Social Sciences (all) + Toxicology and Pharmaceutics (all),40,0.2
+406,Dentistry (all),"Pharmacology, Toxicology and Pharmaceutics (all)","Dentistry (all) + Pharmacology, Toxicology and Pharmaceutics (all)",38,0.2
+407,Genetics and Molecular Biology (all),Management and Accounting (all),Genetics and Molecular Biology (all) + Management and Accounting (all),38,0.2
+408,Health Professions  (all),Management and Accounting (all),Health Professions  (all) + Management and Accounting (all),36,0.2
+409,Psychology (all),Toxicology and Pharmaceutics (all),Psychology (all) + Toxicology and Pharmaceutics (all),34,0.2
+410,Management and Accounting (all),Veterinary (all),Management and Accounting (all) + Veterinary (all),33,0.2
+411,"Pharmacology, Toxicology and Pharmaceutics (all)",Toxicology and Pharmaceutics (all),"Pharmacology, Toxicology and Pharmaceutics (all) + Toxicology and Pharmaceutics (all)",33,0.2
+412,Dentistry (all),Health Professions  (all),Dentistry (all) + Health Professions  (all),32,0.2
+413,Nursing (all),"Pharmacology, Toxicology and Pharmaceutics (all)","Nursing (all) + Pharmacology, Toxicology and Pharmaceutics (all)",31,0.2
+414,Econometrics and Finance (all),"Pharmacology, Toxicology and Pharmaceutics (all)","Econometrics and Finance (all) + Pharmacology, Toxicology and Pharmaceutics (all)",29,0.2
+415,Health Professions  (all),"Pharmacology, Toxicology and Pharmaceutics (all)","Health Professions  (all) + Pharmacology, Toxicology and Pharmaceutics (all)",29,0.2
+416,Econometrics and Finance (all),Genetics and Molecular Biology (all),Econometrics and Finance (all) + Genetics and Molecular Biology (all),28,0.2
+417,Econometrics and Finance (all),Veterinary (all),Econometrics and Finance (all) + Veterinary (all),28,0.2
+418,Management and Accounting (all),Nursing (all),Management and Accounting (all) + Nursing (all),27,0.2
+419,Decision Sciences (all),Toxicology and Pharmaceutics (all),Decision Sciences (all) + Toxicology and Pharmaceutics (all),25,0.1
+420,Arts and Humanities (all),Toxicology and Pharmaceutics (all),Arts and Humanities (all) + Toxicology and Pharmaceutics (all),24,0.1
+421,"Business, Management and Accounting (all)",Toxicology and Pharmaceutics (all),"Business, Management and Accounting (all) + Toxicology and Pharmaceutics (all)",22,0.1
+422,Dentistry (all),Nursing (all),Dentistry (all) + Nursing (all),21,0.1
+423,Toxicology and Pharmaceutics (all),Veterinary (all),Toxicology and Pharmaceutics (all) + Veterinary (all),21,0.1
+424,Econometrics and Finance (all),Health Professions  (all),Econometrics and Finance (all) + Health Professions  (all),20,0.1
+425,Econometrics and Finance (all),Nursing (all),Econometrics and Finance (all) + Nursing (all),20,0.1
+426,"Economics, Econometrics and Finance (all)",Toxicology and Pharmaceutics (all),"Economics, Econometrics and Finance (all) + Toxicology and Pharmaceutics (all)",16,0.1
+427,Health Professions  (all),Toxicology and Pharmaceutics (all),Health Professions  (all) + Toxicology and Pharmaceutics (all),14,0.1
+428,Dentistry (all),Management and Accounting (all),Dentistry (all) + Management and Accounting (all),12,0.1
+429,Econometrics and Finance (all),Management and Accounting (all),Econometrics and Finance (all) + Management and Accounting (all),12,0.1
+430,Genetics and Molecular Biology (all),Toxicology and Pharmaceutics (all),Genetics and Molecular Biology (all) + Toxicology and Pharmaceutics (all),12,0.1
+431,Nursing (all),Toxicology and Pharmaceutics (all),Nursing (all) + Toxicology and Pharmaceutics (all),12,0.1
+432,Dentistry (all),Toxicology and Pharmaceutics (all),Dentistry (all) + Toxicology and Pharmaceutics (all),11,0.1
+433,Dentistry (all),Econometrics and Finance (all),Dentistry (all) + Econometrics and Finance (all),10,0.1
+434,Econometrics and Finance (all),Toxicology and Pharmaceutics (all),Econometrics and Finance (all) + Toxicology and Pharmaceutics (all),2,0.0
+435,Management and Accounting (all),Toxicology and Pharmaceutics (all),Management and Accounting (all) + Toxicology and Pharmaceutics (all),2,0.0

@@ -1,0 +1,11 @@
+score,projects,metric,awards,name,rank,associated_positive_award_funding_usd,position,source_person_key,component_size,network
+"1","3","eigenvector","11","Jennifer Zaspel","1","2330712","1","000522963","15433","award"
+"0.9840498654824561","2","eigenvector","10","Anthony Cognato","2","2231712","2","000172124","15433","award"
+"0.984049865482456","2","eigenvector","10","Ralph Holzenthal","2","2231712","3","000358666","15433","award"
+"0.9840498654824561","2","eigenvector","10","Robin E Thomson","2","2231712","4","000678815","15433","award"
+"0.757482121594523","5","eigenvector","18","Julie Allen","5","6566317","5","000637879","15433","award"
+"0.7377352361709479","2","eigenvector","10","Katja Seltmann","6","2677018","6","000678268","15433","award"
+"0.7377352361709479","2","eigenvector","10","Erika Tucker","6","2677018","7","000786380","15433","award"
+"0.7128478457463723","3","eigenvector","11","Naomi Pierce","8","2032812","8","000419828","15433","award"
+"0.7033571007382595","6","eigenvector","18","Nico Franz","9","4096082","9","000174578","15433","award"
+"0.6601974092985423","2","eigenvector","6","Robert Guralnick","10","1827038","10","000452597","15433","award"

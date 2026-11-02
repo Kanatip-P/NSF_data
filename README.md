@@ -9,6 +9,12 @@ kept outside this repository.
 
 ## Start here
 
+**For the new workflow using Cypher for every analysis step, start with
+[cypher_workflow](cypher_workflow/README.md).** It includes RQ1–RQ3 calculations,
+GDS centrality, funding comparisons, CSV inputs, isolated-run results,
+and cross-check queries. No Python runtime is required for that workflow.
+The original offline workflow below is retained.
+
 1. Run the offline repository check from this folder:
 
    ```shell
@@ -63,11 +69,15 @@ modify a database. Start with [Setup](docs/SETUP.md), then run the numbered
 blocks in [queries](queries/README.md), one at a time.
 
 Cypher supplies direct graph counts, source rows, and verified classification
-aggregation. RQ3 exact betweenness and eigenvector centrality are calculated
-in Python from the exported graph structure. Source-extraction queries are
-not presented as if they themselves computed those centralities.
+aggregation. RQ3 in this original workflow uses Python from the exported graph
+structure. The separate [new Cypher workflow](cypher_workflow/README.md)
+calculates centrality through GDS, with no Python analysis step.
 
 ## What is established
+
+The bullets below describe the original package. The new
+[Cypher workflow](cypher_workflow/README.md) adds execution against an isolated
+Neo4j copy of the prepared snapshot, with its own results and verification record.
 
 - The original nine core Cypher blocks have archived live returns and eleven
   passing comparisons; their query bytes and hashes are preserved.

@@ -1,0 +1,6 @@
+common_people,spearman_rho_between_networks,measure
+"30239","1","award_participation"
+"30239","0.9956639635738012","betweenness"
+"30239","0.9895850472779382","degree"
+"15433","0.9850680536008986","eigenvector"
+"30239","1","funding"

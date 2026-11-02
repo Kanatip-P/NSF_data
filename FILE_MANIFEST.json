@@ -1,5 +1,5 @@
 {
-  "assembled_utc": "2026-11-02T00:14:21.091785+00:00",
+  "assembled_utc": "2026-11-02T01:35:04.024Z",
   "files": [
     {
       "path": ".env.example",
@@ -15,6 +15,16 @@
       "path": ".gitignore",
       "bytes": 339,
       "sha256": "aa728fa8c7e706af17153b6ae9b25483711d144452ee2b631ab4dd75f435edc2"
+    },
+    {
+      "path": "PACKAGE_ORIGIN.json",
+      "bytes": 505,
+      "sha256": "699cbdc42ecf736949dcc2fddba5ce5ee893c577464612925c45235766f3d039"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4349,
+      "sha256": "8f1036fdaaaf15ae76a5d0e611cf7528b8f2d706c9fea74a672433ca729f8eb2"
     },
     {
       "path": "analysis/analyze_award_centrality.py",
@@ -60,6 +70,626 @@
       "path": "analysis/verify_award_centrality.py",
       "bytes": 6764,
       "sha256": "d2364eae81a63fbf24e7e42efb12a0f47576da26c3a920a22804f74c2bc04ce4"
+    },
+    {
+      "path": "cypher_workflow/00_setup/01_preflight.cypher",
+      "bytes": 1029,
+      "sha256": "5bc3741ac2856d8fb98c9e7d140bd49e6b4b67ed1f5eaa9b1f8a3227596e3866"
+    },
+    {
+      "path": "cypher_workflow/00_setup/02_library_fixtures.cypher",
+      "bytes": 4607,
+      "sha256": "4e89f2b48090547bb46481dbca2f686ed4cf424bc96684815c2c8277aa10c3d1"
+    },
+    {
+      "path": "cypher_workflow/00_setup/03_cypher_eigenvector_fixture.cypher",
+      "bytes": 899,
+      "sha256": "dcf3cd7dc0ba80f9a6af7f7d13ef0751998b0ccc87fd192a62f85c0180ebce96"
+    },
+    {
+      "path": "cypher_workflow/99_cleanup.cypher",
+      "bytes": 430,
+      "sha256": "27c13ffab7e42db05b3f0dd3d933a65345e19f8f0f33d1a337e35e002718f823"
+    },
+    {
+      "path": "cypher_workflow/README.md",
+      "bytes": 4496,
+      "sha256": "b2f880243d9bcf81d45f72f09c89323a7a01e00182d68a9868e130dd869f08b1"
+    },
+    {
+      "path": "cypher_workflow/checks/02_counting_fixtures.cypher",
+      "bytes": 1604,
+      "sha256": "854a75df7e2c9632b766587407b5bfbbf64e350d0fb109258687b97e79f9a648"
+    },
+    {
+      "path": "cypher_workflow/checks/03_rq1_subjects.cypher",
+      "bytes": 1250,
+      "sha256": "0f22b9293ec09b73a6a2ad023fd12dc74da291689ff9ccc0ccfe2c4cfcdf9857"
+    },
+    {
+      "path": "cypher_workflow/checks/04_network_crosschecks.cypher",
+      "bytes": 1132,
+      "sha256": "a21949b97bce15bcc316738834b4db57c907bcde59631f10ad87fe00cb5c4a21"
+    },
+    {
+      "path": "cypher_workflow/checks/05_reference_scores.cypher",
+      "bytes": 2095,
+      "sha256": "b9bebcb16af36fd6f0db48fa1f1103cb0dbb5cef2b615e00728f5fff7b700fed"
+    },
+    {
+      "path": "cypher_workflow/checks/06_funding_crosscheck.cypher",
+      "bytes": 1282,
+      "sha256": "a86982a6338eaa2cdbaf10592d53c3109d10ff19bcfdc3a3d5a4f30c47876d10"
+    },
+    {
+      "path": "cypher_workflow/checks/07_eigenvector_residual.cypher",
+      "bytes": 1154,
+      "sha256": "9647aa227d3eb7831c6360b73e94dbadf03110fc4d045e5caa42c5a7373f5633"
+    },
+    {
+      "path": "cypher_workflow/checks/08_independent_subject_matrix.cypher",
+      "bytes": 1443,
+      "sha256": "9f77c4c67da6bbda095658ed8169dfc7abdb47c8011b181d7310952f806260f3"
+    },
+    {
+      "path": "cypher_workflow/checks/README.md",
+      "bytes": 2406,
+      "sha256": "5e9f09a8f8c88b165286cf89e863dbce36d0f58afb3da5b9026f330b99ea2d3e"
+    },
+    {
+      "path": "cypher_workflow/inputs/PROVENANCE.json",
+      "bytes": 455,
+      "sha256": "571c54014c05b81da43946c3706727e2712baf60fafe17cc82a582c5df88752c"
+    },
+    {
+      "path": "cypher_workflow/inputs/README.md",
+      "bytes": 1657,
+      "sha256": "ecbcdc61c9ed3dfed755e4cd9b89b5392d8c74b6eb8c6dc663c9f48a40decc1c"
+    },
+    {
+      "path": "cypher_workflow/inputs/carnegie_2025_research.csv",
+      "bytes": 157242,
+      "sha256": "a40cc9d1c4921e0981c11cc604b4fc8421601cf061d7537e41be4a370a0fbc7f"
+    },
+    {
+      "path": "cypher_workflow/inputs/expected_award_centrality.csv",
+      "bytes": 4469777,
+      "sha256": "6acaf242134af49958b2a69b001bb2c22a323519b5940dbcde2c1003aed44767"
+    },
+    {
+      "path": "cypher_workflow/inputs/expected_grouped_centrality.csv",
+      "bytes": 4480771,
+      "sha256": "7ec5c9be937042f18f896661556993c00c8b225c99b7b8c3edc8c56cb8b2a322"
+    },
+    {
+      "path": "cypher_workflow/inputs/expected_rq1_subjects.csv",
+      "bytes": 54839,
+      "sha256": "519d58bfbd037376b3a8afd547f40003e5280e3b4b97b0319ab622417aa46022"
+    },
+    {
+      "path": "cypher_workflow/inputs/reviewed_recipient_ids.csv",
+      "bytes": 73663,
+      "sha256": "bdf6df5671219751f727166c64f60b6c43d727e428e0e5f4a92fb858b5f6a2e4"
+    },
+    {
+      "path": "cypher_workflow/results/README.md",
+      "bytes": 1071,
+      "sha256": "5247e135ecdc479af1973dc3cfdf624a6ee605f870ccfc64714a4045469955b1"
+    },
+    {
+      "path": "cypher_workflow/results/validated/ALL_PERSON_REFERENCE_SCORE_CROSSCHECKS.csv",
+      "bytes": 356,
+      "sha256": "6aa6b89c1679ec37009add7ab82c13a440ad583bb151233fcbc54242fdb0ced1"
+    },
+    {
+      "path": "cypher_workflow/results/validated/CLEANUP_MEMORY_GRAPHS.csv",
+      "bytes": 98,
+      "sha256": "9c520af4a04ed622a906da8e48f7a4f03fcc014e0fc146e9e38803fafd2ff0d8"
+    },
+    {
+      "path": "cypher_workflow/results/validated/CYPHER_EIGENVECTOR_PATH_FIXTURE.csv",
+      "bytes": 127,
+      "sha256": "2ae3334273ddd4fee273c273c750c227752030db1f9f8f2c72b7aaf008670f95"
+    },
+    {
+      "path": "cypher_workflow/results/validated/DISTINCT_AWARD_FUNDING_FIXTURE.csv",
+      "bytes": 77,
+      "sha256": "ea39fa9d11036a11669fba519aebaaaeddde7daff2b922654c0af9949d0993e0"
+    },
+    {
+      "path": "cypher_workflow/results/validated/EIGENVECTOR_EQUATION_CROSSCHECK.csv",
+      "bytes": 215,
+      "sha256": "e6d3b979215166f33c5757a199c34fad577e6eb308cce2b990d76d2d379116cf"
+    },
+    {
+      "path": "cypher_workflow/results/validated/EVERY_PERSON_FUNDING_CROSSCHECK.csv",
+      "bytes": 162,
+      "sha256": "8819f9d2ba372cbb8ebf61f536ab4540d32e5c650721ad11c7f85fdf3544d872"
+    },
+    {
+      "path": "cypher_workflow/results/validated/FIXTURE_CLEANUP.csv",
+      "bytes": 126,
+      "sha256": "4fabe95806a28f5ef25e573c58adc3380ce9a594c82a790475bdb6ec38a52bbf"
+    },
+    {
+      "path": "cypher_workflow/results/validated/FIXTURE_COMPETITION_RANKS.csv",
+      "bytes": 60,
+      "sha256": "91141e87e2bea284bad73e43cc800bc73fee4eed20b5166f599af1eb25a017ec"
+    },
+    {
+      "path": "cypher_workflow/results/validated/FIXTURE_DISCONNECTED_COMPONENTS.csv",
+      "bytes": 68,
+      "sha256": "9444aec268db5fc7b719db80e042e0b0b3a970e164b24df99e96bd58b521c891"
+    },
+    {
+      "path": "cypher_workflow/results/validated/FIXTURE_DISCONNECTED_PROJECT.csv",
+      "bytes": 705,
+      "sha256": "860c6a2f70d4d851fdbe6738c2f4fa91ff8a1c07ec913e2feb69e9b2fa9ae4f0"
+    },
+    {
+      "path": "cypher_workflow/results/validated/FIXTURE_PATH_AND_ISOLATE_PROJECT.csv",
+      "bytes": 671,
+      "sha256": "87810a15ce371fc2627ea6b84c94274be3b9b63e4d63ae3fdfe87d581ea82ae8"
+    },
+    {
+      "path": "cypher_workflow/results/validated/FIXTURE_PATH_BETWEENNESS.csv",
+      "bytes": 80,
+      "sha256": "9e2b9c58f355650915c259b6be9504c6b7b7601787f4faedf736a3d26e570c76"
+    },
+    {
+      "path": "cypher_workflow/results/validated/FIXTURE_PATH_DEGREE.csv",
+      "bytes": 80,
+      "sha256": "3ce16684a946f5d7e19c6337535e115ab0c93533f5faa3ed841db5c2097dbbac"
+    },
+    {
+      "path": "cypher_workflow/results/validated/FIXTURE_STAR_BETWEENNESS.csv",
+      "bytes": 95,
+      "sha256": "95d9f557a7c0c734a0ace85328303dc8bda321e0ff0b4b3360d2ecbd9d5edd9c"
+    },
+    {
+      "path": "cypher_workflow/results/validated/FIXTURE_STAR_PROJECT.csv",
+      "bytes": 675,
+      "sha256": "5c122b11ed41af64f5e0974d0f65a125087152caf864a978f26012bc749e7a98"
+    },
+    {
+      "path": "cypher_workflow/results/validated/FIXTURE_TIED_SPEARMAN.csv",
+      "bytes": 50,
+      "sha256": "b94ea009a6c4aa64883b071d3a4d5a660eede4cc353b17258be4dda5c78dc32f"
+    },
+    {
+      "path": "cypher_workflow/results/validated/FIXTURE_TRIANGLE_BETWEENNESS.csv",
+      "bytes": 65,
+      "sha256": "4a544e55e6315933976442e2b24f5e3e75eae42807c8ccc3625ff26b41f4dc03"
+    },
+    {
+      "path": "cypher_workflow/results/validated/FIXTURE_TRIANGLE_EIGENVECTOR.csv",
+      "bytes": 65,
+      "sha256": "68d812f374230fcf3bcb4cd21de8abd8a654fc6fedf186fbeff73492efe40b82"
+    },
+    {
+      "path": "cypher_workflow/results/validated/FIXTURE_TRIANGLE_PROJECT.csv",
+      "bytes": 675,
+      "sha256": "627ffde38057d80af2537e57c222aaee174b4f913a0eaa76fa085b7445861d42"
+    },
+    {
+      "path": "cypher_workflow/results/validated/NETWORK_STRUCTURE_CROSSCHECKS.csv",
+      "bytes": 225,
+      "sha256": "dc85126700c834d3fc99f3174a8ded9991b7b9fb1a33d19f9b20d29f1d8c2d37"
+    },
+    {
+      "path": "cypher_workflow/results/validated/PREFLIGHT_COUNTS.csv",
+      "bytes": 131,
+      "sha256": "51e3665ecd1a4aba3d0aecb75dc1cd87c9c0e27b095f30187ba91aaf22c02cf4"
+    },
+    {
+      "path": "cypher_workflow/results/validated/PREFLIGHT_DATABASE.csv",
+      "bytes": 52,
+      "sha256": "fa64e58c9653c899fb062f8d46a1002dfebcb60a804a330a3606b40a264828db"
+    },
+    {
+      "path": "cypher_workflow/results/validated/PREFLIGHT_GDS.csv",
+      "bytes": 43,
+      "sha256": "5402bc2388133912b58b47d6c23210eb7c31564617cfc9fef4adc7f222c9658e"
+    },
+    {
+      "path": "cypher_workflow/results/validated/PREFLIGHT_IDS.csv",
+      "bytes": 56,
+      "sha256": "27a772688b9ea841887663d52019129e76619cea70ffbced920bc61ad4f906c1"
+    },
+    {
+      "path": "cypher_workflow/results/validated/PREFLIGHT_OWNERSHIP.csv",
+      "bytes": 67,
+      "sha256": "b023643b0c5cc3e8adf52f11fe3814db3ab7bffd249a8b777e54ba6d190b5e6a"
+    },
+    {
+      "path": "cypher_workflow/results/validated/README.md",
+      "bytes": 2314,
+      "sha256": "589547c35a6be3cbf3c106be2d9a26ab28934b17f5370704af98459fe316bb30"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ1_ALL_SUBJECT_COMBINATIONS.csv",
+      "bytes": 59074,
+      "sha256": "3d03c5f56816dd8c75a8f12eb93fa0a73e426863e7fae2a6ea10420e66ef2b30"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ1_AWARDS_PER_PROJECT.csv",
+      "bytes": 69,
+      "sha256": "7c2c939e335946dcc39a6a2e0320f869389abc58e480e32411cf7f0cdce7815f"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ1_DIFFERENT_SUBJECT_COVERAGE.csv",
+      "bytes": 52,
+      "sha256": "8401c3a808cc4c8272206dc98728d660ae12474a0c51185241e5cb780c4ac61b"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ1_FULL_SUBJECT_REFERENCE_CROSSCHECK.csv",
+      "bytes": 69,
+      "sha256": "b370c76bd1b76f1399ba7bf5c61575d459776baaa03932c7f0152cb4d7e1e2a6"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ1_INDEPENDENT_SUBJECT_MATRIX.csv",
+      "bytes": 83,
+      "sha256": "4c47eeb14f96c85dc9ae7466c008f6124e83d88356ef8f295e5d108a5aaa1183"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ1_MULTI_PI_STRUCTURE.csv",
+      "bytes": 61,
+      "sha256": "3738225f1521381d90247128b79c7cdfadb99d0031c1196335678119d8287382"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ1_ORDERED_PAIR_COVERAGE.csv",
+      "bytes": 114,
+      "sha256": "80023cfaaa3e621a61c091394c0fb57500097b0f42f6a4d30d44c7ee2f92ca56"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ1_ORDERED_TAG_CELLS.csv",
+      "bytes": 422,
+      "sha256": "ffa617800e1f8117880ba9f3b04c795ebf0ab67c187d35d3543bddb8b414936b"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ1_REPEAT_ORDERED_PAIRS.csv",
+      "bytes": 43,
+      "sha256": "2977f7b9f39e7bc5a6d60da766f9a645ad37ae2987492471b49b2c80bc916f1b"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ1_TAGGED_MEMBER_COVERAGE.csv",
+      "bytes": 75,
+      "sha256": "8d833391d2b982082f501162f6acafe9a6a293fcc6e27782f8076a7569297449"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ1_TEAM_FUNDING.csv",
+      "bytes": 389,
+      "sha256": "ffc76b97079ba916cd7315311dd4ae2d57cd8ff1bafc95de795b606bcabc96dd"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ1_TOP_TEN_SUBJECT_COMBINATIONS.csv",
+      "bytes": 1258,
+      "sha256": "980babda72e9dccc6189646acbd89245a9af6ba563b8c2c6f3eec2111f47b5d4"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ2_EVERY_RECIPIENT_CROSSCHECK.csv",
+      "bytes": 110,
+      "sha256": "1a90261dc7e2a954b6e182267b0814216befc9ebe75b9eadfd092936d4e70f08"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ2_IDENTITY_AND_RAW_CODES.csv",
+      "bytes": 258,
+      "sha256": "5e68f18d7678f18faa025cd7700fd3b66ffd549881d115e46f3b847593797aef"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ2_RAW_CODES.csv",
+      "bytes": 73,
+      "sha256": "a25a1aa5048bcfb4f293939f380d692ead65016cb770818dfd449a295175169b"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ2_REVIEWED_IDS_CHECK.csv",
+      "bytes": 102,
+      "sha256": "e4b91d264156db377c9b18176c386a9e860189dcc85cd50b22b433349bc261ed"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ2_VERIFIED_CLASSIFICATION.csv",
+      "bytes": 198,
+      "sha256": "d2b4441d0363d293c9d929593eef95a641a260682f59d969469e14f209a4d95d"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ2_WORKBOOK_EXCEPTION_CHECK.csv",
+      "bytes": 106,
+      "sha256": "0c0a211777f2ea301b9a824a76db59df4ad139808444fa0456df60470946700d"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ3_ALL_PERSON_SCORES_AND_RANKS.csv",
+      "bytes": 12605050,
+      "sha256": "4991cfabb658fbb0c6b16b3277a7b7ce6228ddecaa54cd4eef62799e265f9e3a"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ3_AWARD_ACTIVITY_AND_FUNDING.csv",
+      "bytes": 2088379,
+      "sha256": "4a9952d831f12cbd165b738e02e4c303ad9e35ac67911048c2806b269b87d8c4"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ3_AWARD_BETWEENNESS.csv",
+      "bytes": 30,
+      "sha256": "5de019c7bafec081116037da25d747fe96a2d0bc43b6b46f63bdf14dc070db77"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ3_AWARD_COMPONENTS.csv",
+      "bytes": 52,
+      "sha256": "180a4c9f165da6265815035b435e31f27b87a315929621d21b643a3ca9583462"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ3_AWARD_DEGREE.csv",
+      "bytes": 30,
+      "sha256": "5de019c7bafec081116037da25d747fe96a2d0bc43b6b46f63bdf14dc070db77"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ3_AWARD_EIGENVECTOR.csv",
+      "bytes": 114,
+      "sha256": "31c07ecfe0c9ef4cb90bc8e05316836ec53f696f083c0e43056ab0e9385e6e28"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ3_AWARD_LARGEST_COMPONENT.csv",
+      "bytes": 91,
+      "sha256": "59e193c3c288169864cc7763e36d6a553caeac845bc7b527d504e3dbbc21a32c"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ3_BETWEEN_NETWORK_CORRELATIONS.csv",
+      "bytes": 232,
+      "sha256": "7a820e203284244abf792a6af57629526538261b8f2b89ca3cafe3f6cd2f4370"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ3_BETWEEN_NETWORK_TOP_TENS.csv",
+      "bytes": 116,
+      "sha256": "7b5909166be3d7162348c5c7a41f88a0faf5a4d059f3652182af03b2b1576331"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ3_EGO_EDGE_TABLE.csv",
+      "bytes": 2218,
+      "sha256": "4fc85842be97b5b958e9d25bd6ae21a08b9c85a8136827e43b93e47ac1731a6e"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ3_EGO_NODE_TABLE.csv",
+      "bytes": 1919,
+      "sha256": "aa1598c692945dea2dfe63959d1c7bac966336da9c7be4719ccba9571686288d"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ3_EXCLUSIVE_ROLE_GROUPS.csv",
+      "bytes": 111,
+      "sha256": "0c36dd6f3f1c03c83fbae4bcfd1836734b2b69badc9e1e1bed14bbdcdc70e832"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ3_GROUPED_BETWEENNESS.csv",
+      "bytes": 30,
+      "sha256": "5de019c7bafec081116037da25d747fe96a2d0bc43b6b46f63bdf14dc070db77"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ3_GROUPED_COMPONENTS.csv",
+      "bytes": 52,
+      "sha256": "c789913b1240b6a4c86ea00cf25d8be159d4d69fe5a3f065e1980a61b1155a08"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ3_GROUPED_DEGREE.csv",
+      "bytes": 30,
+      "sha256": "5de019c7bafec081116037da25d747fe96a2d0bc43b6b46f63bdf14dc070db77"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ3_GROUPED_EIGENVECTOR.csv",
+      "bytes": 114,
+      "sha256": "c9a29d15e0263461eff6106288f18946db81cf6097902dba23429fa9eac060f6"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ3_GROUPED_LARGEST_COMPONENT.csv",
+      "bytes": 93,
+      "sha256": "90da3f1dd8af32ade93d8ae42dc1ba389fc26ae0bf0d854ba234db7119b8e92c"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ3_PROJECT_ACTIVITY_HISTOGRAM.csv",
+      "bytes": 165,
+      "sha256": "0e958c8309c9e6b758fc0897a676d9e8ed67df3c5e995b48c633ab3f1b192fba"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ3_PROJECT_AWARD_NETWORK.csv",
+      "bytes": 91,
+      "sha256": "e0520778213dda639a4861a31e48fb467b52ebfa84b5c7d0766955581a04f0c3"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ3_PROJECT_GROUPED_NETWORK.csv",
+      "bytes": 93,
+      "sha256": "d9bc7be494b5fd7142f63b6664f41ff6f173c6ed99c7ea7a6df3df0047de9dbe"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ3_SPEARMAN_CORRELATIONS.csv",
+      "bytes": 1446,
+      "sha256": "69ef2c060f33861974b062d03761e6e57a1f88e8f0e95bb023070ce43da5f3e3"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ3_TOP_TEN_OVERLAPS.csv",
+      "bytes": 940,
+      "sha256": "403c993235822c148c5b362a02bebbe68b32a80963770c08ada6bcadc939060e"
+    },
+    {
+      "path": "cypher_workflow/results/validated/RQ3_TOP_TEN_RANKINGS.csv",
+      "bytes": 10846,
+      "sha256": "2aa6e9e261058bc89596dedbb1c707898be02c4ceb7e8fc74824a3e4e361021a"
+    },
+    {
+      "path": "cypher_workflow/results/validated/SUBJECT_COUNTING_FIXTURE.csv",
+      "bytes": 77,
+      "sha256": "eba9be1eb3379515bd0285540fede1710583f7c6eee25dc57d09151a2d4c693d"
+    },
+    {
+      "path": "cypher_workflow/results/validated/VALIDATION.json",
+      "bytes": 7524,
+      "sha256": "4990b6df79a53daf696444e42c428b56e6079819da9f1de66c585a6631ab51b8"
+    },
+    {
+      "path": "cypher_workflow/results/validated/award_top10_award_participation.csv",
+      "bytes": 1121,
+      "sha256": "0239969919322874e30cd96997d59603eb6ff50c298dc5223965471201893c8e"
+    },
+    {
+      "path": "cypher_workflow/results/validated/award_top10_betweenness.csv",
+      "bytes": 1214,
+      "sha256": "a62639f6acb3c96c684bbfe57e6cdd2901aec686691d8f8fa9a6f4a1f437adc5"
+    },
+    {
+      "path": "cypher_workflow/results/validated/award_top10_degree.csv",
+      "bytes": 1178,
+      "sha256": "9ec937aa495ad826d6833310fd58529487756709b47bb247988d88942bd40067"
+    },
+    {
+      "path": "cypher_workflow/results/validated/award_top10_eigenvector.csv",
+      "bytes": 1175,
+      "sha256": "ead433e686b07b108b5f7c939c64012da7659284a651adefb1907c2219e9bf19"
+    },
+    {
+      "path": "cypher_workflow/results/validated/award_top10_funding.csv",
+      "bytes": 1057,
+      "sha256": "d9d79a2b746ee38b05110d0437013da5b9d35220829d4e49ec0b743ef47226b8"
+    },
+    {
+      "path": "cypher_workflow/results/validated/grouped_project_top10_award_participation.csv",
+      "bytes": 1221,
+      "sha256": "2b9d121761083b1ebc4b0e2bd5dcb6f25914ef20bd426534188f301ad8110e64"
+    },
+    {
+      "path": "cypher_workflow/results/validated/grouped_project_top10_betweenness.csv",
+      "bytes": 1313,
+      "sha256": "f615f440718cd8ed0f58108d821b7c8291681f6cef4cfd251444d149b5f14a42"
+    },
+    {
+      "path": "cypher_workflow/results/validated/grouped_project_top10_degree.csv",
+      "bytes": 1278,
+      "sha256": "6f46f2642c70ca2e7ac201f668c740a532db802fe90c0254a338aabb91f3167c"
+    },
+    {
+      "path": "cypher_workflow/results/validated/grouped_project_top10_eigenvector.csv",
+      "bytes": 1275,
+      "sha256": "bbc3cebc200cdaf9d9a09c493ce6e5246faaa67818ffae36d85f2c1c824847cb"
+    },
+    {
+      "path": "cypher_workflow/results/validated/grouped_project_top10_funding.csv",
+      "bytes": 1157,
+      "sha256": "63be3a22af2ac5e7e84a149256f0d68fdbe5a867b6234be54b8bba991969dc70"
+    },
+    {
+      "path": "cypher_workflow/rq1/01_team_funding.cypher",
+      "bytes": 973,
+      "sha256": "c679ef58f744e98e045cd126cef79e7ef812c6472e3529e9c84bd4ba9138f0aa"
+    },
+    {
+      "path": "cypher_workflow/rq1/02_subject_combinations.cypher",
+      "bytes": 1122,
+      "sha256": "5ea47cd01cf9bce01b579551eb6e8a44c2290467edd0970a4d5723f71994d5c2"
+    },
+    {
+      "path": "cypher_workflow/rq1/03_subject_coverage.cypher",
+      "bytes": 815,
+      "sha256": "214fd1d6f334c21cb7a644b536ea67fff8cf0e1b9903bae35e7c97093fdb34bd"
+    },
+    {
+      "path": "cypher_workflow/rq1/04_ordered_pairs.cypher",
+      "bytes": 1219,
+      "sha256": "b13636235108aa7ef533d97950b042e21deef1c8546dac2ecf014dc3f850be2d"
+    },
+    {
+      "path": "cypher_workflow/rq1/05_grouping_crosschecks.cypher",
+      "bytes": 528,
+      "sha256": "ad49410ff3d95ae217ac51f55f3cac92be47d0cead95869b8677739568a94a8d"
+    },
+    {
+      "path": "cypher_workflow/rq1/06_top_ten_combinations.cypher",
+      "bytes": 1135,
+      "sha256": "2d2f9681803ce00ff15fb241ebf63979527d5dcfbe0fbb83d38e6454d5d7c4c0"
+    },
+    {
+      "path": "cypher_workflow/rq1/README.md",
+      "bytes": 2110,
+      "sha256": "3dd3ccb3a46a275d3bb088f5d43bc6a67d5b3633e1d6b730a1d1cec889b3f102"
+    },
+    {
+      "path": "cypher_workflow/rq2/01_raw_codes.cypher",
+      "bytes": 688,
+      "sha256": "794ede663ed136f3e624619d7b1495a34c7945201b18c58e54e8c90b99c80d6f"
+    },
+    {
+      "path": "cypher_workflow/rq2/02_input_crosschecks.cypher",
+      "bytes": 1067,
+      "sha256": "c9862240033bf2e3f7463b8e6fcc5bf6c4c99d91754fa4b5411113e408bad6e5"
+    },
+    {
+      "path": "cypher_workflow/rq2/03_verified_classification.cypher",
+      "bytes": 1342,
+      "sha256": "9df38f0ab56e3fc5501ef9d8ee3aeb314b3498fc7f3f4122c0319adac0aab6f3"
+    },
+    {
+      "path": "cypher_workflow/rq2/04_crosswalk_crosscheck.cypher",
+      "bytes": 1192,
+      "sha256": "ea6dc6806d8cde83cebf29044c3a5fd4426de260a41f97f64f86efc90bf696cf"
+    },
+    {
+      "path": "cypher_workflow/rq2/README.md",
+      "bytes": 1477,
+      "sha256": "8f2a3fd958b5e9110a85a89269eb02b0ef10f866220311716b6702b9e4f9f033"
+    },
+    {
+      "path": "cypher_workflow/rq3/01_activity_and_funding.cypher",
+      "bytes": 1734,
+      "sha256": "9cd8102c6b56b17de2c1c0ceeb315ac3f976c4c9de6a196f601d8992d846da41"
+    },
+    {
+      "path": "cypher_workflow/rq3/02_project_award_network.cypher",
+      "bytes": 1392,
+      "sha256": "a129d4cc91440056aaa63a0895fc4562b65446461a057c781265c6ce8362ff8b"
+    },
+    {
+      "path": "cypher_workflow/rq3/03_award_eigenvector.cypher",
+      "bytes": 3487,
+      "sha256": "32df30138a4b33ae3f5abda09384649bac0d52caa05d4b90c7dee21bc4e8bbf4"
+    },
+    {
+      "path": "cypher_workflow/rq3/04_project_grouped_network.cypher",
+      "bytes": 4176,
+      "sha256": "e3d027fed02db5f3dfeec6937146525996b9302336311b8cfd0d2e712ce552f7"
+    },
+    {
+      "path": "cypher_workflow/rq3/05_all_person_scores_and_ranks.cypher",
+      "bytes": 4936,
+      "sha256": "8e679dc8fa8562ca9623bb5f742ebd9c46edaca8376a740c6ee0a593ab32fb8f"
+    },
+    {
+      "path": "cypher_workflow/rq3/06_top_ten_rankings.cypher",
+      "bytes": 3561,
+      "sha256": "1818b5767eca295f448799d27c700f84b3683faf228ea723b75bfb055d6f36e0"
+    },
+    {
+      "path": "cypher_workflow/rq3/07_spearman_correlations.cypher",
+      "bytes": 4690,
+      "sha256": "15c594006a4622fc303a371343e835c0d7b37c8079ef4eb0322c8458c942f2f8"
+    },
+    {
+      "path": "cypher_workflow/rq3/08_top_ten_overlaps.cypher",
+      "bytes": 3641,
+      "sha256": "5e4b8df154812c029c9ca65217634007f778224c542390e2d1db10e9053ab09c"
+    },
+    {
+      "path": "cypher_workflow/rq3/09_between_network_correlations.cypher",
+      "bytes": 4569,
+      "sha256": "f44158e1d7c327673daf400144640bc5553ef55a24a38e3ba74b6c498744bbb2"
+    },
+    {
+      "path": "cypher_workflow/rq3/10_between_network_top_tens.cypher",
+      "bytes": 3629,
+      "sha256": "777b5c702aa88830ebeb0c64896cd8e72fffc57507acf639237ad19b64df805b"
+    },
+    {
+      "path": "cypher_workflow/rq3/11_ego_network.cypher",
+      "bytes": 3030,
+      "sha256": "a19c61786ca4372e131e503f7f9deeaf8be6c602152a26bb41d78a91199c553f"
+    },
+    {
+      "path": "cypher_workflow/rq3/README.md",
+      "bytes": 5655,
+      "sha256": "a20e687e5c93f4872c86a7a8e586ba7863f41f714c011d9c47d844bf6e4d751f"
     },
     {
       "path": "data/prepared/awards.jsonl.gz",
@@ -252,19 +882,9 @@
       "sha256": "0a97a4da095836cb09d3a3aca94b6f128964ac55a3fc6aed9d7b12fa18f3afd2"
     },
     {
-      "path": "PACKAGE_ORIGIN.json",
-      "bytes": 505,
-      "sha256": "699cbdc42ecf736949dcc2fddba5ce5ee893c577464612925c45235766f3d039"
-    },
-    {
       "path": "queries/CORE_VERIFICATION.cypher",
       "bytes": 3330,
       "sha256": "6eaa23cfeba8bead7f5a618155aca3109ea7524d78c064dfe1a1de51a49b1749"
-    },
-    {
-      "path": "queries/parameters/classifications.json",
-      "bytes": 91880,
-      "sha256": "28e15d71e5389a46d9f320febd357e7fffd09f1b43aa11d9685cc71582399041"
     },
     {
       "path": "queries/README.md",
@@ -307,9 +927,9 @@
       "sha256": "7c9f36dd5341712122cde5015c7a82c6ecbfe6cbfef8d02ec9c01472bf30989d"
     },
     {
-      "path": "README.md",
-      "bytes": 3777,
-      "sha256": "051dba674bc88532d203f43c319f0fbe8545ae0bf8a0ef1b6fe6692dc1383fd6"
+      "path": "queries/parameters/classifications.json",
+      "bytes": 91880,
+      "sha256": "28e15d71e5389a46d9f320febd357e7fffd09f1b43aa11d9685cc71582399041"
     },
     {
       "path": "requirements-live.txt",
@@ -362,6 +982,16 @@
       "sha256": "11071331e6d9d42d4bc43d6e887fd9a7fa3128511b800a0e7c2a7593966150cd"
     },
     {
+      "path": "results/rq2/README.md",
+      "bytes": 824,
+      "sha256": "53cd8b67e90ac04a06826b9d99e472a16e93788a5a760fcf4bc5019b3c5fd199"
+    },
+    {
+      "path": "results/rq2/RQ2_verified_research_classification.csv",
+      "bytes": 83,
+      "sha256": "8209a4de72bbc1701a216d7202768577bbd1dc3056a58bf80c43e2e9bae26bc5"
+    },
+    {
       "path": "results/rq2/offline_classification_summary.json",
       "bytes": 483,
       "sha256": "ef44128abad817192f51a13a40ffdd947ac16d33a73dfd1042efc76cdab09ef4"
@@ -372,14 +1002,24 @@
       "sha256": "ea59b013069dda57589c4f3e6e54ccf4888570383264ae8db76d57682bde26f9"
     },
     {
-      "path": "results/rq2/README.md",
-      "bytes": 824,
-      "sha256": "53cd8b67e90ac04a06826b9d99e472a16e93788a5a760fcf4bc5019b3c5fd199"
+      "path": "results/rq3/README.md",
+      "bytes": 3036,
+      "sha256": "67e1a2305134217d50397fbe23be936f92331d26a9f5511b5347b0f1e073ff97"
     },
     {
-      "path": "results/rq2/RQ2_verified_research_classification.csv",
-      "bytes": 83,
-      "sha256": "8209a4de72bbc1701a216d7202768577bbd1dc3056a58bf80c43e2e9bae26bc5"
+      "path": "results/rq3/RQ3_exclusive_person_roles.csv",
+      "bytes": 103,
+      "sha256": "c33b27e56e0e2f18034e5b319f9576049d99a5f516775d90484235b7f2be947b"
+    },
+    {
+      "path": "results/rq3/RQ3_project_activity_histogram.csv",
+      "bytes": 124,
+      "sha256": "2bfd41ea3a29f08753b4e7d639ad9d24dc3f84066f27151a8eb7e173d4e30efc"
+    },
+    {
+      "path": "results/rq3/RQ3_project_role_positions.csv",
+      "bytes": 116,
+      "sha256": "1db3c1814304bb53c49e9f418c10c5f0a243edfa918dc0766ee7f75d8556d82f"
     },
     {
       "path": "results/rq3/award_edges.csv",
@@ -490,26 +1130,6 @@
       "path": "results/rq3/network_sensitivity.csv",
       "bytes": 244,
       "sha256": "b0a321ad064658a4781b20f2f06c05dc4270dddfc52a1ee044cf928adb0f91c9"
-    },
-    {
-      "path": "results/rq3/README.md",
-      "bytes": 3036,
-      "sha256": "67e1a2305134217d50397fbe23be936f92331d26a9f5511b5347b0f1e073ff97"
-    },
-    {
-      "path": "results/rq3/RQ3_exclusive_person_roles.csv",
-      "bytes": 103,
-      "sha256": "c33b27e56e0e2f18034e5b319f9576049d99a5f516775d90484235b7f2be947b"
-    },
-    {
-      "path": "results/rq3/RQ3_project_activity_histogram.csv",
-      "bytes": 124,
-      "sha256": "2bfd41ea3a29f08753b4e7d639ad9d24dc3f84066f27151a8eb7e173d4e30efc"
-    },
-    {
-      "path": "results/rq3/RQ3_project_role_positions.csv",
-      "bytes": 116,
-      "sha256": "1db3c1814304bb53c49e9f418c10c5f0a243edfa918dc0766ee7f75d8556d82f"
     },
     {
       "path": "results/rq3/summary.json",

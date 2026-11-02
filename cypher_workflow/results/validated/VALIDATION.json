@@ -1,0 +1,357 @@
+{
+  "environment": {
+    "neo4j": "5.26.0",
+    "gds": "2.13.4",
+    "apoc": "5.26.0",
+    "heap": "5 GB",
+    "database": "neo4j",
+    "isolation": "Embedded scratch copy of all prepared records; no live database access; no HTTP or Bolt connectors"
+  },
+  "production_database_name_check": "Not applicable: isolated database is named neo4j; intended production name remains nsf-project-workon-enriched",
+  "execution": "All supplied query blocks executed directly by Neo4j; Java harness submitted Cypher and serialized results only. CSV exports contain actual Neo4j returns.",
+  "completed_utc": "2026-11-02T01:34:22.601Z",
+  "export_integrity_checks": "60,478 rows; unique person keys; non-null component sizes; eigenvector maxima one; all five competition ranks and deterministic displayed tens independently reconciled to exported scores.",
+  "failures": [],
+  "queries": [
+    {
+      "query": "PREFLIGHT_DATABASE",
+      "rows": 1,
+      "elapsed_ms": 103
+    },
+    {
+      "query": "PREFLIGHT_GDS",
+      "rows": 1,
+      "elapsed_ms": 27
+    },
+    {
+      "query": "PREFLIGHT_COUNTS",
+      "rows": 6,
+      "elapsed_ms": 280
+    },
+    {
+      "query": "PREFLIGHT_IDS",
+      "rows": 1,
+      "elapsed_ms": 449
+    },
+    {
+      "query": "PREFLIGHT_OWNERSHIP",
+      "rows": 1,
+      "elapsed_ms": 695
+    },
+    {
+      "query": "FIXTURE_PATH_AND_ISOLATE_PROJECT",
+      "rows": 1,
+      "elapsed_ms": 3943
+    },
+    {
+      "query": "FIXTURE_PATH_BETWEENNESS",
+      "rows": 4,
+      "elapsed_ms": 112
+    },
+    {
+      "query": "FIXTURE_PATH_DEGREE",
+      "rows": 4,
+      "elapsed_ms": 56
+    },
+    {
+      "query": "FIXTURE_TRIANGLE_PROJECT",
+      "rows": 1,
+      "elapsed_ms": 40
+    },
+    {
+      "query": "FIXTURE_TRIANGLE_EIGENVECTOR",
+      "rows": 3,
+      "elapsed_ms": 124
+    },
+    {
+      "query": "FIXTURE_TRIANGLE_BETWEENNESS",
+      "rows": 3,
+      "elapsed_ms": 50
+    },
+    {
+      "query": "FIXTURE_STAR_PROJECT",
+      "rows": 1,
+      "elapsed_ms": 77
+    },
+    {
+      "query": "FIXTURE_STAR_BETWEENNESS",
+      "rows": 5,
+      "elapsed_ms": 17
+    },
+    {
+      "query": "FIXTURE_DISCONNECTED_PROJECT",
+      "rows": 1,
+      "elapsed_ms": 39
+    },
+    {
+      "query": "FIXTURE_DISCONNECTED_COMPONENTS",
+      "rows": 1,
+      "elapsed_ms": 104
+    },
+    {
+      "query": "FIXTURE_COMPETITION_RANKS",
+      "rows": 3,
+      "elapsed_ms": 285
+    },
+    {
+      "query": "FIXTURE_TIED_SPEARMAN",
+      "rows": 1,
+      "elapsed_ms": 354
+    },
+    {
+      "query": "FIXTURE_CLEANUP",
+      "rows": 4,
+      "elapsed_ms": 150
+    },
+    {
+      "query": "CYPHER_EIGENVECTOR_PATH_FIXTURE",
+      "rows": 1,
+      "elapsed_ms": 263
+    },
+    {
+      "query": "RQ1_TEAM_FUNDING",
+      "rows": 5,
+      "elapsed_ms": 566
+    },
+    {
+      "query": "RQ1_ALL_SUBJECT_COMBINATIONS",
+      "rows": 435,
+      "elapsed_ms": 1826
+    },
+    {
+      "query": "RQ1_TAGGED_MEMBER_COVERAGE",
+      "rows": 1,
+      "elapsed_ms": 272
+    },
+    {
+      "query": "RQ1_DIFFERENT_SUBJECT_COVERAGE",
+      "rows": 1,
+      "elapsed_ms": 491
+    },
+    {
+      "query": "RQ1_ORDERED_PAIR_COVERAGE",
+      "rows": 1,
+      "elapsed_ms": 306
+    },
+    {
+      "query": "RQ1_ORDERED_TAG_CELLS",
+      "rows": 8,
+      "elapsed_ms": 505
+    },
+    {
+      "query": "RQ1_REPEAT_ORDERED_PAIRS",
+      "rows": 1,
+      "elapsed_ms": 159
+    },
+    {
+      "query": "RQ1_AWARDS_PER_PROJECT",
+      "rows": 5,
+      "elapsed_ms": 78
+    },
+    {
+      "query": "RQ1_MULTI_PI_STRUCTURE",
+      "rows": 2,
+      "elapsed_ms": 146
+    },
+    {
+      "query": "RQ1_TOP_TEN_SUBJECT_COMBINATIONS",
+      "rows": 10,
+      "elapsed_ms": 1187
+    },
+    {
+      "query": "RQ2_RAW_CODES",
+      "rows": 5,
+      "elapsed_ms": 93
+    },
+    {
+      "query": "RQ2_IDENTITY_AND_RAW_CODES",
+      "rows": 4,
+      "elapsed_ms": 131
+    },
+    {
+      "query": "RQ2_REVIEWED_IDS_CHECK",
+      "rows": 1,
+      "elapsed_ms": 250
+    },
+    {
+      "query": "RQ2_WORKBOOK_EXCEPTION_CHECK",
+      "rows": 1,
+      "elapsed_ms": 119
+    },
+    {
+      "query": "RQ2_VERIFIED_CLASSIFICATION",
+      "rows": 4,
+      "elapsed_ms": 595
+    },
+    {
+      "query": "RQ2_EVERY_RECIPIENT_CROSSCHECK",
+      "rows": 1,
+      "elapsed_ms": 945
+    },
+    {
+      "query": "RQ3_AWARD_ACTIVITY_AND_FUNDING",
+      "rows": 30239,
+      "elapsed_ms": 540
+    },
+    {
+      "query": "RQ3_PROJECT_ACTIVITY_HISTOGRAM",
+      "rows": 15,
+      "elapsed_ms": 82
+    },
+    {
+      "query": "RQ3_EXCLUSIVE_ROLE_GROUPS",
+      "rows": 4,
+      "elapsed_ms": 131
+    },
+    {
+      "query": "RQ3_PROJECT_AWARD_NETWORK",
+      "rows": 1,
+      "elapsed_ms": 710
+    },
+    {
+      "query": "RQ3_AWARD_DEGREE",
+      "rows": 1,
+      "elapsed_ms": 38
+    },
+    {
+      "query": "RQ3_AWARD_BETWEENNESS",
+      "rows": 1,
+      "elapsed_ms": 9162
+    },
+    {
+      "query": "RQ3_AWARD_COMPONENTS",
+      "rows": 1,
+      "elapsed_ms": 56
+    },
+    {
+      "query": "RQ3_AWARD_LARGEST_COMPONENT",
+      "rows": 1,
+      "elapsed_ms": 751
+    },
+    {
+      "query": "RQ3_AWARD_EIGENVECTOR",
+      "rows": 1,
+      "elapsed_ms": 2383
+    },
+    {
+      "query": "RQ3_PROJECT_GROUPED_NETWORK",
+      "rows": 1,
+      "elapsed_ms": 419
+    },
+    {
+      "query": "RQ3_GROUPED_DEGREE",
+      "rows": 1,
+      "elapsed_ms": 10
+    },
+    {
+      "query": "RQ3_GROUPED_BETWEENNESS",
+      "rows": 1,
+      "elapsed_ms": 10914
+    },
+    {
+      "query": "RQ3_GROUPED_COMPONENTS",
+      "rows": 1,
+      "elapsed_ms": 21
+    },
+    {
+      "query": "RQ3_GROUPED_LARGEST_COMPONENT",
+      "rows": 1,
+      "elapsed_ms": 232
+    },
+    {
+      "query": "RQ3_GROUPED_EIGENVECTOR",
+      "rows": 1,
+      "elapsed_ms": 2446
+    },
+    {
+      "query": "RQ3_ALL_PERSON_SCORES_AND_RANKS",
+      "rows": 60478,
+      "elapsed_ms": 3950
+    },
+    {
+      "query": "RQ3_TOP_TEN_RANKINGS",
+      "rows": 100,
+      "elapsed_ms": 1863
+    },
+    {
+      "query": "RQ3_SPEARMAN_CORRELATIONS",
+      "rows": 20,
+      "elapsed_ms": 3354
+    },
+    {
+      "query": "RQ3_TOP_TEN_OVERLAPS",
+      "rows": 20,
+      "elapsed_ms": 2131
+    },
+    {
+      "query": "RQ3_BETWEEN_NETWORK_CORRELATIONS",
+      "rows": 5,
+      "elapsed_ms": 2197
+    },
+    {
+      "query": "RQ3_BETWEEN_NETWORK_TOP_TENS",
+      "rows": 5,
+      "elapsed_ms": 1668
+    },
+    {
+      "query": "RQ3_EGO_NODE_TABLE",
+      "rows": 29,
+      "elapsed_ms": 129
+    },
+    {
+      "query": "RQ3_EGO_EDGE_TABLE",
+      "rows": 78,
+      "elapsed_ms": 104
+    },
+    {
+      "query": "RQ3_EGO_GRAPH_VIEW",
+      "rows": 78,
+      "elapsed_ms": 135
+    },
+    {
+      "query": "SUBJECT_COUNTING_FIXTURE",
+      "rows": 1,
+      "elapsed_ms": 46
+    },
+    {
+      "query": "DISTINCT_AWARD_FUNDING_FIXTURE",
+      "rows": 1,
+      "elapsed_ms": 68
+    },
+    {
+      "query": "RQ1_FULL_SUBJECT_REFERENCE_CROSSCHECK",
+      "rows": 1,
+      "elapsed_ms": 1209
+    },
+    {
+      "query": "NETWORK_STRUCTURE_CROSSCHECKS",
+      "rows": 2,
+      "elapsed_ms": 137
+    },
+    {
+      "query": "ALL_PERSON_REFERENCE_SCORE_CROSSCHECKS",
+      "rows": 2,
+      "elapsed_ms": 815
+    },
+    {
+      "query": "EVERY_PERSON_FUNDING_CROSSCHECK",
+      "rows": 1,
+      "elapsed_ms": 466
+    },
+    {
+      "query": "EIGENVECTOR_EQUATION_CROSSCHECK",
+      "rows": 2,
+      "elapsed_ms": 660
+    },
+    {
+      "query": "RQ1_INDEPENDENT_SUBJECT_MATRIX",
+      "rows": 1,
+      "elapsed_ms": 1145
+    },
+    {
+      "query": "CLEANUP_MEMORY_GRAPHS",
+      "rows": 4,
+      "elapsed_ms": 52
+    }
+  ]
+}

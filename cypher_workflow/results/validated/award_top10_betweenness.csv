@@ -1,0 +1,11 @@
+score,projects,metric,awards,name,rank,associated_positive_award_funding_usd,position,source_person_key,component_size,network
+"0.01650971979100052","10","betweenness","26","Ian Foster","1","12365806","1","000234022","15433","award"
+"0.016299538106761942","7","betweenness","13","Naren Ramakrishnan","2","9686245","2","000292012","15433","award"
+"0.014110975865530248","11","betweenness","22","Ilkay Altintas","3","12468660","3","000487407","15433","award"
+"0.014067502139828188","8","betweenness","16","Daniel Katz","4","6865507","4","000312962","15433","award"
+"0.011216047479049642","6","betweenness","9","Kyle E Niemeyer","5","1822171","5","000668221","15433","award"
+"0.010895476918702516","7","betweenness","13","Yung-Hsiang Lu","6","3758514","6","000488936","15433","award"
+"0.01073549003284602","6","betweenness","16","Eric Steig","7","8001417","7","000182593","15433","award"
+"0.010691806249344838","7","betweenness","19","Lynda Brinson","8","14394352","8","000238798","15433","award"
+"0.009279040170413455","10","betweenness","32","Kerstin Lehnert","9","11517816","9","000491181","15433","award"
+"0.009086836996727398","15","betweenness","30","Walid Saad","10","9536605","10","000599519","15433","award"

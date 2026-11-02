@@ -1,0 +1,14 @@
+{
+  "workbook_sha256": "c867a2443f739678fff639ed7f84870c12da2addbc8cab421c04ca5c9c2e4232",
+  "workbook_sheet": "data",
+  "workbook_columns": [
+    "unitid",
+    "instnm",
+    "research2025"
+  ],
+  "reference_csv_rows": 3927,
+  "reviewed_identity_rows": 1374,
+  "ut_austin_raw_unitid": "F",
+  "all_reference_codes_included": true,
+  "note": "Static CSV views supplied for LOAD CSV; no conversion script is needed to run the Cypher workflow."
+}
